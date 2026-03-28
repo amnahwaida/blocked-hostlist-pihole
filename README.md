@@ -108,7 +108,14 @@ blocked-hostlist-pihole/
 ├── .gitignore             # Git ignore file
 ├── whitelists/            # Folder Whitelist (Pengecualian)
 │   └── education-essential # Domain Pendidikan & Produktivitas
-├── hosts/                 # Folder blocklist
+├── profiles/              # Standalone Profile Presets (One-click import)
+│   ├── parental-control   # Rumah dengan Anak
+│   ├── work-productivity  # Kantor / Kerja
+│   ├── school-lab         # Sekolah / Lab Komputer
+│   ├── max-security       # Keamanan Maksimal
+│   ├── indo-strict        # Khusus Konten Ilegal Indo
+│   └── minimalist         # Hanya Ads & Malware
+├── hosts/                 # Folder Blocklist (Individual)
     ├── ads-tracking       # Iklan & pelacak
     ├── ai                 # AI bots, ChatGPT, Gemini, dll
     ├── cryptomining       # Mining pools & scripts
@@ -225,32 +232,21 @@ Output contoh:
 
 ---
 
-## 🎯 Rekomendasi Penggunaan
+---
 
-### 🏠 Rumah dengan Anak (Parental Control)
-```
-ads-tracking + gambling + gaming + porn + malware-phishing + misused-apps + short-video
-```
+## 🎯 Profile Presets (Quick Import)
 
-### 🏢 Kantor / Produktivitas
-```
-ads-tracking + tiktok + instagram + facebook + social-media + twitter + gambling + gaming + trading-crypto + music-streaming + video-streaming + editing-apps + shopping + proxy-vpn + cloud-storage
-```
+Gunakan daftar siap pakai di bawah ini berdasarkan kebutuhan lingkungan Anda. Anda cukup menyalin satu URL saja ke Pi-hole:
 
-### 🎓 Sekolah / Lab Komputer
-```
-ads-tracking + ai + ai-images + cryptomining + gaming + porn + gambling + tiktok + instagram + twitter + video-streaming + news-weather + chat-apps + torrent-p2p + proxy-vpn + url-shortener + academic-cheating + public-dns + speed-test + software-updates + private-search + dynamic-dns + paste-sites + image-hosting + file-transfer + bad-extensions + cloud-gaming + indo-games
-```
-
-### 🔒 Keamanan Maksimal
-```
-ads-tracking + malware-phishing + gambling + proxy-vpn
-```
-
-### 🚫 Blok Semuanya
-```
-combined (semua list dalam satu file)
-```
+| Profil | Kegunaan | Raw URL (Copy & Paste) |
+|--------|----------|---------|
+| 🏠 **Parental Control** | Aman untuk keluarga & anak (Porn, Judi, Game, Sosmed Pendek). | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/parental-control) |
+| 🏢 **Work Productivity**| Maksimal fokus di kantor (Sosmed, Video, Shopping, News). | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/work-productivity) |
+| 🎓 **School / Lab PC** | Standar Lab Sekolah (Full Hardening + AI + Bypass tools). | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/school-lab) |
+| 🔒 **Max Security** | Fokus pada Malware, Phishing, C&C, & Anti-Tunneling. | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/max-security) |
+| 🇮🇩 **Indo Strict** | Khusus memblokir konten ilegal di Indonesia (Judi, Porn, Pinjol). | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/indo-strict) |
+| ⚡ **Minimalist** | Proteksi inti (Hanya Iklan, Tracker & Malware). | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/profiles/minimalist) |
+| 🚫 **Full Combined** | Gabungan **SEMUA** list tanpa terkecuali. | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
 
 ---
 
