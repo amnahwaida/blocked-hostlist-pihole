@@ -8,6 +8,8 @@
 #
 # Individual lists available:
 #   - ads-tracking    : Ads & tracking domains
+#   - ai              : AI, Chatbots, Generators, etc.
+#   - chat-apps       : Telegram, Discord, LINE, WeChat, etc.
 #   - cryptomining    : Mining pools & scripts
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
@@ -35,13 +37,15 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:51:16 UTC
+# Generated: 2026-03-28 22:53:45 UTC
 # ============================================
 
 
 # --- ads-tracking ---
 
 # --- ai ---
+
+# --- chat-apps ---
 
 # --- cryptomining ---
 
@@ -1285,6 +1289,7 @@
 0.0.0.0 blog.twitter.com
 0.0.0.0 bloomberg.com
 0.0.0.0 blued.com
+0.0.0.0 bluejeans.com
 0.0.0.0 bluewhale.snssdk.com
 0.0.0.0 blzddist1-a.akamaihd.net
 0.0.0.0 blzddist2-a.akamaihd.net
@@ -1321,6 +1326,7 @@
 0.0.0.0 branch.io
 0.0.0.0 brawlstars.com
 0.0.0.0 brazzers.com
+0.0.0.0 briarproject.org
 0.0.0.0 bridge.bytedance.com
 0.0.0.0 bridges.torproject.org
 0.0.0.0 brn-cgk-v1.l.byteoversea.net
@@ -1505,6 +1511,7 @@
 0.0.0.0 channel.muscdn.com
 0.0.0.0 chaos-boe.byted.org
 0.0.0.0 character.ai
+0.0.0.0 chat.google.com
 0.0.0.0 chatgpt.com
 0.0.0.0 chathub.cam
 0.0.0.0 chat.openai.com
@@ -1742,7 +1749,9 @@
 0.0.0.0 discordapp.com
 0.0.0.0 discordapp.net
 0.0.0.0 discord.com
+0.0.0.0 discord.design
 0.0.0.0 discord.gg
+0.0.0.0 discord.gift
 0.0.0.0 discord.media
 0.0.0.0 dis.gd
 0.0.0.0 disneyplus.com
@@ -1877,6 +1886,7 @@
 0.0.0.0 dssott.com
 0.0.0.0 d.toutiao.com
 0.0.0.0 dttorhs584ri4.cloudfront.net
+0.0.0.0 dust.com
 0.0.0.0 dutafilm.pro
 0.0.0.0 dutafilm.ws
 0.0.0.0 dw.com
@@ -1955,6 +1965,7 @@
 0.0.0.0 e.l.bytedns.net
 0.0.0.0 elderscrollsonline.com
 0.0.0.0 electron.bytedance.com
+0.0.0.0 element.io
 0.0.0.0 eligibility-panelresearch.googlevideo.com
 0.0.0.0 elpais.com
 0.0.0.0 em5348.careers.tiktok.com
@@ -2366,6 +2377,7 @@
 0.0.0.0 genshin.hoyoverse.com
 0.0.0.0 genshin.mihoyo.com
 0.0.0.0 geo.moatads.com
+0.0.0.0 getsession.org
 0.0.0.0 getstarted.tiktok.com
 0.0.0.0 getstarted.tiktok.com.edgekey.net
 0.0.0.0 gfans.io
@@ -2400,6 +2412,7 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 googlevideo.com
+0.0.0.0 gotomeeting.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog.snssdk.com
 0.0.0.0 gplog-va.byteoversea.com
@@ -2449,6 +2462,7 @@
 0.0.0.0 h5.toutiao.com
 0.0.0.0 haaretz.com
 0.0.0.0 hangame.com
+0.0.0.0 hangouts.google.com
 0.0.0.0 hani.co.kr
 0.0.0.0 haohuo.snssdk.com
 0.0.0.0 happn.com
@@ -2484,6 +2498,7 @@
 0.0.0.0 hide.me
 0.0.0.0 hidemyass.com
 0.0.0.0 hidester.com
+0.0.0.0 hike.in
 0.0.0.0 hinge.co
 0.0.0.0 hiveon.net
 0.0.0.0 hiveos.farm
@@ -2712,6 +2727,8 @@
 0.0.0.0 ic-lq.snssdk.com
 0.0.0.0 icmarkets.com
 0.0.0.0 iconpark.bytedance.com
+0.0.0.0 icq.com
+0.0.0.0 icq.net
 0.0.0.0 ic.snssdk.com
 0.0.0.0 ic.snssdk.com.w.kunluncan.com
 0.0.0.0 icweiliimg1.pstatp.com
@@ -2814,6 +2831,7 @@
 0.0.0.0 imgur.com
 0.0.0.0 img.youtube.com
 0.0.0.0 im-image.tiktokv.com
+0.0.0.0 imo.im
 0.0.0.0 impala-media-production.s3.amazonaws.com
 0.0.0.0 im.snssdk.com
 0.0.0.0 im-test.bytedance.com
@@ -3011,6 +3029,7 @@
 0.0.0.0 jackpot.com
 0.0.0.0 jagex.com
 0.0.0.0 jagossh.net
+0.0.0.0 jami.net
 0.0.0.0 japantimes.co.jp
 0.0.0.0 jasper.ai
 0.0.0.0 jawapos.com
@@ -3529,7 +3548,9 @@
 0.0.0.0 lilithgames.com
 0.0.0.0 lineage.plaync.com
 0.0.0.0 line-apps.com
+0.0.0.0 line-cdn.net
 0.0.0.0 line.me
+0.0.0.0 line-scdn.net
 0.0.0.0 linkedin.com
 0.0.0.0 link.e.tiktok.com
 0.0.0.0 link-sg.byteoversea.com
@@ -3722,7 +3743,9 @@
 0.0.0.0 match.okcupid.com
 0.0.0.0 mathplayground.com
 0.0.0.0 matoklive.com
+0.0.0.0 matrix.org
 0.0.0.0 matsuri.me
+0.0.0.0 mattermost.com
 0.0.0.0 maucash.id
 0.0.0.0 maxbet.com
 0.0.0.0 max.com
@@ -4058,6 +4081,7 @@
 0.0.0.0 mullvad.net
 0.0.0.0 multiplay.com
 0.0.0.0 multiversus.com
+0.0.0.0 mumble.info
 0.0.0.0 muonline.webzen.com
 0.0.0.0 murahssh.com
 0.0.0.0 muscdn.com
@@ -4123,6 +4147,7 @@
 0.0.0.0 nashservice.bytedance.com
 0.0.0.0 nativeapp.toutiao.com
 0.0.0.0 naughtyamerica.com
+0.0.0.0 naver.jp
 0.0.0.0 navigator.bytedance.com
 0.0.0.0 nba.com
 0.0.0.0 nb.byted.org
@@ -5904,8 +5929,10 @@
 0.0.0.0 qdns-v5-tt.polaris.byteoversea.com
 0.0.0.0 qfyf1toi.com
 0.0.0.0 q.gs
+0.0.0.0 qlogo.cn
 0.0.0.0 qn-activity.bytedance.com
 0.0.0.0 qobuz.com
+0.0.0.0 qpic.cn
 0.0.0.0 qq.com
 0.0.0.0 qr.ae
 0.0.0.0 qsf.ec.quoracdn.net
@@ -22561,6 +22588,7 @@
 0.0.0.0 rms.bytedance.com
 0.0.0.0 roblox.com
 0.0.0.0 rocket.bytedance.com
+0.0.0.0 rocket.chat
 0.0.0.0 rocket.snssdk.com
 0.0.0.0 rocket.snssdk.com.w.kunluncan.com
 0.0.0.0 rockstargames.com
@@ -23450,9 +23478,15 @@
 0.0.0.0 s.kaskus.id
 0.0.0.0 skor.id
 0.0.0.0 skribbl.io
+0.0.0.0 skypeassets.com
+0.0.0.0 skype.com
 0.0.0.0 skysports.com
 0.0.0.0 sky-ssh.com
 0.0.0.0 skyssh.com
+0.0.0.0 slack.com
+0.0.0.0 slack-edge.com
+0.0.0.0 slack-msgs.com
+0.0.0.0 slack-redir.net
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slickvpn.com
 0.0.0.0 slide.toutiao.com
@@ -23734,6 +23768,10 @@
 0.0.0.0 teacher-pre-fclassroom.bytedance.com
 0.0.0.0 team17.com
 0.0.0.0 teamfighttactics.leagueoflegends.com
+0.0.0.0 teams.live.com
+0.0.0.0 teams.microsoft.com
+0.0.0.0 teamspeak.com
+0.0.0.0 teamsspeak.com
 0.0.0.0 techblog.toutiao.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techland.net
@@ -23749,14 +23787,18 @@
 0.0.0.0 telecom.ttgw.tuchong-normal-lb-lf.l.bytedns.net
 0.0.0.0 telecom.x.l.bytedns.net
 0.0.0.0 telecom.y.l.bytedns.net
+0.0.0.0 telegram.dog
 0.0.0.0 telegram.me
 0.0.0.0 telegram.org
+0.0.0.0 telegram.space
+0.0.0.0 telegra.ph
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.appex.bing.net:443
 0.0.0.0 telemetry.ea.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 telesco.pe
 0.0.0.0 tellapart.com
 0.0.0.0 tellonym.me
 0.0.0.0 tellsale.com
@@ -23791,6 +23833,7 @@
 0.0.0.0 third-api.amemv.com.w.cdngslb.com
 0.0.0.0 thqnordic.com
 0.0.0.0 threads.net
+0.0.0.0 threema.ch
 0.0.0.0 thrift-doc.byted.org
 0.0.0.0 thumbnails.roblox.com
 0.0.0.0 thumb-p0.xhcdn.com
@@ -24397,6 +24440,7 @@
 0.0.0.0 tw.battle.net
 0.0.0.0 tweetdeck.twitter.com
 0.0.0.0 twimg.com
+0.0.0.0 twinme.com
 0.0.0.0 twitchcdn.net
 0.0.0.0 twitch.tv
 0.0.0.0 twitpic.com
@@ -25044,6 +25088,7 @@
 0.0.0.0 v-edgecast.tiktokcdn.com
 0.0.0.0 v-edgecast.tiktokcdn.com.bytewlb.akadns.net
 0.0.0.0 veed.io
+0.0.0.0 ventrilo.com
 0.0.0.0 verification16-normal-c-useast1a.tiktokv.com
 0.0.0.0 verification16-normal-c-useast1a.tiktokv.com.edgesuite.net
 0.0.0.0 verification16-normal-c-useast2a.tiktokv.com
@@ -25071,6 +25116,8 @@
 0.0.0.0 vg23wcast.qfyf1toi.com
 0.0.0.0 v.hypstarcdn.com
 0.0.0.0 viabtc.com
+0.0.0.0 viber.com
+0.0.0.0 viber.me
 0.0.0.0 videoarch-aliec1-edge-lb.bytedns.net
 0.0.0.0 videoarch-awsbh-edge-lb.byteoversea.net
 0.0.0.0 videoarch-awsde-edge-lb.byteoversea.net
@@ -25463,6 +25510,7 @@
 0.0.0.0 webcast-va.tiktokv.com.edgekey.net
 0.0.0.0 webcast-ws16-normal-no1a.tiktokv.eu
 0.0.0.0 webcast-ws16-normal-no1a.tiktokv.eu.ttdns3.com
+0.0.0.0 webex.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webform.tiktok.com
 0.0.0.0 web-i18n.tiktok.com
@@ -25488,6 +25536,7 @@
 0.0.0.0 weibo.cn
 0.0.0.0 weibo.com
 0.0.0.0 weiliicimg1.pstatp.com
+0.0.0.0 weixin.com
 0.0.0.0 welcome.bytedance.com
 0.0.0.0 welcome.toutiao.com
 0.0.0.0 welfare-mp.bytedance.com
@@ -25510,6 +25559,7 @@
 0.0.0.0 whisper.systems
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 whoer.net
+0.0.0.0 wickr.com
 0.0.0.0 widget-i18n.tiktokv.com
 0.0.0.0 widget-i18n.tiktokv.com.ttdns2.com
 0.0.0.0 widgets.outbrain.com
@@ -25523,6 +25573,7 @@
 0.0.0.0 windy.com
 0.0.0.0 wings.bytedance.com
 0.0.0.0 wintercamp.bytedance.com
+0.0.0.0 wire.com
 0.0.0.0 wired.com
 0.0.0.0 wireguard.com
 0.0.0.0 wit.bytedance.com
@@ -25974,6 +26025,7 @@
 0.0.0.0 www.zalora.co.id
 0.0.0.0 www.zipmex.com
 0.0.0.0 www.zynga.com
+0.0.0.0 wx.qq.com
 0.0.0.0 xavmwvdi.bytedance.com
 0.0.0.0 xboxab.com
 0.0.0.0 xbox.com
@@ -26061,6 +26113,8 @@
 0.0.0.0 z6-lf.snssdk.com
 0.0.0.0 z6-lq.snssdk.com
 0.0.0.0 z6.snssdk.com
+0.0.0.0 zaloapp.com
+0.0.0.0 zalo.me
 0.0.0.0 zalora.co.id
 0.0.0.0 zc.bytedance.com
 0.0.0.0 zdchannel.snssdk.com
@@ -26096,6 +26150,8 @@
 0.0.0.0 zong-khi-v1.l.byteoversea.net
 0.0.0.0 zong-lhe-v1.l.byteoversea.net
 0.0.0.0 zoogvpn.com
+0.0.0.0 zoom.com
+0.0.0.0 zoom.us
 0.0.0.0 zoosk.com
 0.0.0.0 zoro.to
 0.0.0.0 z-p42-instagram.c10r.instagram.com
@@ -26119,6 +26175,7 @@
 0.0.0.0 zttvu.v.bsgslb.com
 0.0.0.0 zttvv.v.bsgslb.com
 0.0.0.0 zttvw.v.bsgslb.com
+0.0.0.0 zulip.com
 0.0.0.0 zyngacdn.com
 0.0.0.0 zynga.com
 0.0.0.0 zyngawithfriends.com

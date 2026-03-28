@@ -1,0 +1,115 @@
+# ============================================
+# Chatting & Messaging Apps Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major chatting and instant messaging 
+# platforms (Telegram, Discord, LINE, WeChat, etc).
+# ============================================
+
+# --- Telegram ---
+0.0.0.0 t.me
+0.0.0.0 telegram.org
+0.0.0.0 telegram.me
+0.0.0.0 telegram.dog
+0.0.0.0 telesco.pe
+0.0.0.0 telegra.ph
+0.0.0.0 telegram.space
+
+# --- Discord ---
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discord.media
+0.0.0.0 discord.gift
+0.0.0.0 discord.design
+
+# --- LINE ---
+0.0.0.0 line.me
+0.0.0.0 line-apps.com
+0.0.0.0 line-cdn.net
+0.0.0.0 line-scdn.net
+0.0.0.0 naver.jp
+
+# --- WeChat ---
+0.0.0.0 wechat.com
+0.0.0.0 wx.qq.com
+0.0.0.0 weixin.com
+0.0.0.0 qlogo.cn
+0.0.0.0 qpic.cn
+
+# --- Slack ---
+0.0.0.0 slack.com
+0.0.0.0 slack-edge.com
+0.0.0.0 slack-msgs.com
+0.0.0.0 slack-redir.net
+
+# --- Viber ---
+0.0.0.0 viber.com
+0.0.0.0 viber.me
+
+# --- Skype ---
+0.0.0.0 skype.com
+0.0.0.0 skypeassets.com
+
+# --- ICQ ---
+0.0.0.0 icq.com
+0.0.0.0 icq.net
+
+# --- Others ---
+0.0.0.0 mumble.info
+0.0.0.0 teamsspeak.com
+0.0.0.0 ventrilo.com
+0.0.0.0 element.io
+0.0.0.0 matrix.org
+0.0.0.0 wickr.com
+0.0.0.0 threema.ch
+
+# ==========================================
+# EXPANDED CHATTING & MESSAGING (COMPLETE)
+# ==========================================
+
+# --- Enterprise & Work Chat ---
+0.0.0.0 teams.microsoft.com
+0.0.0.0 teams.live.com
+0.0.0.0 skype.com
+0.0.0.0 chat.google.com
+0.0.0.0 hangouts.google.com
+0.0.0.0 mattermost.com
+0.0.0.0 zulip.com
+0.0.0.0 rocket.chat
+
+# --- Secure & Private Messaging ---
+0.0.0.0 getsession.org
+0.0.0.0 briarproject.org
+0.0.0.0 jami.net
+0.0.0.0 wire.com
+0.0.0.0 wickr.com
+0.0.0.0 dust.com
+0.0.0.0 twinme.com
+0.0.0.0 threema.ch
+0.0.0.0 element.io
+0.0.0.0 matrix.org
+
+# --- Regional Expansion (Asia & Global) ---
+0.0.0.0 kakaotalk.com
+0.0.0.0 kakao.com
+0.0.0.0 zalo.me
+0.0.0.0 zaloapp.com
+0.0.0.0 hike.in
+0.0.0.0 imo.im
+
+# --- Video & Collaboration Chat ---
+0.0.0.0 zoom.us
+0.0.0.0 zoom.com
+0.0.0.0 webex.com
+0.0.0.0 gotomeeting.com
+0.0.0.0 bluejeans.com
+
+# --- Others & Legacy ---
+0.0.0.0 icq.com
+0.0.0.0 icq.net
+0.0.0.0 mumble.info
+0.0.0.0 teamspeak.com
+0.0.0.0 ventrilo.com
