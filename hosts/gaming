@@ -850,3 +850,65 @@
 0.0.0.0 desura.com
 0.0.0.0 direct2drive.com
 0.0.0.0 greenmangaming.com
+
+# ==========================================
+# ASIAN GAMING GIANTS (Japan, Korea, China)
+# ==========================================
+
+# --- JAPAN (Expansion) ---
+0.0.0.0 cygames.jp
+0.0.0.0 granbluefantasy.jp
+0.0.0.0 umamusume.jp
+0.0.0.0 shadowverse.jp
+0.0.0.0 princessconnect.jp
+0.0.0.0 gungho.jp
+0.0.0.0 puzzleanddragons.com
+0.0.0.0 koeitecmo.games.jp
+0.0.0.0 spike-chunsoft.co.jp
+0.0.0.0 fromsoftware.jp
+0.0.0.0 platinumgames.com
+0.0.0.0 colopl.co.jp
+0.0.0.0 mixi.jp
+0.0.0.0 monster-strike.com
+0.0.0.0 jp.square-enix.com
+0.0.0.0 jp.playstation.com
+
+# --- SOUTH KOREA (Expansion) ---
+0.0.0.0 ncsoft.com
+0.0.0.0 plaync.com
+0.0.0.0 lineage.plaync.com
+0.0.0.0 aion.plaync.com
+0.0.0.0 bns.plaync.com
+0.0.0.0 pearlabyss.com
+0.0.0.0 blackdesert.com
+0.0.0.0 kakaogames.com
+0.0.0.0 smilegate.com
+0.0.0.0 onstove.com
+0.0.0.0 lostark.com
+0.0.0.0 devsisters.com
+0.0.0.0 cookierun.com
+0.0.0.0 webzen.com
+0.0.0.0 muonline.webzen.com
+0.0.0.0 wemade.com
+0.0.0.0 mir4global.com
+0.0.0.0 nhn.com
+0.0.0.0 hangame.com
+0.0.0.0 gamevil.com
+0.0.0.0 com2us.com
+
+# --- CHINA (Expansion) ---
+0.0.0.0 yostar.com
+0.0.0.0 azurlane.jp
+0.0.0.0 arknights.global
+0.0.0.0 hypergryph.com
+0.0.0.0 sunborn.games
+0.0.0.0 girlsfrontline.jp
+0.0.0.0 papergames.cn
+0.0.0.0 nikkiup2u.com
+0.0.0.0 xd.com
+0.0.0.0 taptap.io
+0.0.0.0 taptap.net
+0.0.0.0 seasun.com
+0.0.0.0 shengqugames.com
+0.0.0.0 perfectworld.com.cn
+0.0.0.0 wanmei.com
