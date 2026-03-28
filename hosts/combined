@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:33:00 UTC
+# Generated: 2026-03-28 22:33:57 UTC
 # ============================================
 
 
@@ -1234,6 +1234,7 @@
 0.0.0.0 bitget.com
 0.0.0.0 bitmoji.com
 0.0.0.0 bitstamp.net
+0.0.0.0 bitvise.com
 0.0.0.0 bkbd-awsjp16-up.muscdn.com
 0.0.0.0 bkbd-awsjp16-up-va.tiktokcdn.com
 0.0.0.0 bkbd-awsjp16-up-va.tiktokcdn.com.edgesuite.net
@@ -1991,6 +1992,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fast-proxy.com
 0.0.0.0 fastssh.com
+0.0.0.0 fastssh.id
 0.0.0.0 fastv2ray.com
 0.0.0.0 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 0.0.0.0 fbcdn.com
@@ -2341,6 +2343,7 @@
 0.0.0.0 grayzonewarfare.com
 0.0.0.0 greenmangaming.com
 0.0.0.0 grelationship-sg.snssdk.com
+0.0.0.0 gretonger.win
 0.0.0.0 grindr.com
 0.0.0.0 groq.com
 0.0.0.0 groups.google.com
@@ -3068,6 +3071,7 @@
 0.0.0.0 k2-dy-ml.gslb.ksyuncdn.com
 0.0.0.0 k8s.byted.org
 0.0.0.0 kakaogames.com
+0.0.0.0 kancilssh.com
 0.0.0.0 kapwing.com
 0.0.0.0 kaskus.co.id
 0.0.0.0 kaskus.tv
@@ -3597,6 +3601,7 @@
 0.0.0.0 map.snapchat.com
 0.0.0.0 marathonbet.com
 0.0.0.0 market.toutiao.com
+0.0.0.0 masterssh.net
 0.0.0.0 match.com
 0.0.0.0 match.okcupid.com
 0.0.0.0 mathplayground.com
@@ -3926,6 +3931,7 @@
 0.0.0.0 multiplay.com
 0.0.0.0 multiversus.com
 0.0.0.0 muonline.webzen.com
+0.0.0.0 murahssh.com
 0.0.0.0 muscdn.com
 0.0.0.0 muscdn.com.akamaized.net
 0.0.0.0 muscdn.com.cdn.cloudflare.net
@@ -4969,6 +4975,7 @@
 0.0.0.0 proton.me
 0.0.0.0 protonvpn.com
 0.0.0.0 proxfree.com
+0.0.0.0 proxydocker.com
 0.0.0.0 proxyium.com
 0.0.0.0 proxy.org
 0.0.0.0 proxyproxy.org
@@ -23285,6 +23292,7 @@
 0.0.0.0 sitestream.twitter.com
 0.0.0.0 s.kaskus.id
 0.0.0.0 skribbl.io
+0.0.0.0 sky-ssh.com
 0.0.0.0 skyssh.com
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slickvpn.com
@@ -23331,6 +23339,7 @@
 0.0.0.0 socialclub.rockstargames.com
 0.0.0.0 social.xbox.com
 0.0.0.0 sociolla.com
+0.0.0.0 socks-proxy.net
 0.0.0.0 softether.org
 0.0.0.0 sonyentertainmentnetwork.com
 0.0.0.0 so.toutiao.com
@@ -23369,6 +23378,7 @@
 0.0.0.0 spotlight.tiktok.com
 0.0.0.0 spring-alinc2-api-1.bytedns.net
 0.0.0.0 s.pstatp.com
+0.0.0.0 spys.one
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
@@ -23380,9 +23390,23 @@
 0.0.0.0 srp4.snssdk.com
 0.0.0.0 ssdk-sg.pangle.io.ttdns2.com
 0.0.0.0 s.sgpstatp.com
+0.0.0.0 sshaccess.net
+0.0.0.0 sshbuzz.net
+0.0.0.0 sshdropbear.net
+0.0.0.0 sshfree.xyz
+0.0.0.0 sshgoogle.com
+0.0.0.0 ssh-indonesia.com
+0.0.0.0 sshinject.com
 0.0.0.0 sshkit.com
+0.0.0.0 sshkit.id
+0.0.0.0 sshkit.org
+0.0.0.0 sshmax.net
 0.0.0.0 sshocean.com
+0.0.0.0 ssh.org
+0.0.0.0 sshpremium.com
 0.0.0.0 sshstores.net
+0.0.0.0 sshvip.net
+0.0.0.0 sshvpn.org
 0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.ipstatp.com.edgekey.net
@@ -23492,6 +23516,7 @@
 0.0.0.0 sunporno.com
 0.0.0.0 supercell.com
 0.0.0.0 supergiantgames.com
+0.0.0.0 superssh.net
 0.0.0.0 supervpn.com
 0.0.0.0 supplier.bytedance.com
 0.0.0.0 support.activision.com
@@ -24145,6 +24170,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trending.tiktok.com
 0.0.0.0 trends.tiktok.com
+0.0.0.0 trikinternet.net
 0.0.0.0 trojan-gfw.github.io
 0.0.0.0 trovo.live
 0.0.0.0 tr.rbxcdn.com

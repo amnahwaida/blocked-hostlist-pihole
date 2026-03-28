@@ -233,3 +233,42 @@
 0.0.0.0 sub-con.net
 0.0.0.0 subcenter.com
 0.0.0.0 subconverter.com
+
+# ==========================================
+# SSH TUNNEL & INJECTION PROVIDERS
+# ==========================================
+
+# --- Advanced SSH Account Sites ---
+0.0.0.0 sshstores.net
+0.0.0.0 masterssh.net
+0.0.0.0 superssh.net
+0.0.0.0 sshdropbear.net
+0.0.0.0 sshaccess.net
+0.0.0.0 sshinject.com
+0.0.0.0 sshpremium.com
+0.0.0.0 globalssh.net
+0.0.0.0 sshfree.xyz
+0.0.0.0 sshgoogle.com
+0.0.0.0 sshmax.net
+0.0.0.0 sshkit.org
+0.0.0.0 sshvpn.org
+0.0.0.0 sshbuzz.net
+0.0.0.0 sshvip.net
+0.0.0.0 sshocean.com
+0.0.0.0 sky-ssh.com
+
+# --- Tunneling Software & Resources ---
+0.0.0.0 bitvise.com
+0.0.0.0 socks-proxy.net
+0.0.0.0 spys.one
+0.0.0.0 proxydocker.com
+0.0.0.0 ssh.org
+
+# --- Regional Indonesian Bypasses (Expansion) ---
+0.0.0.0 sshkit.id
+0.0.0.0 fastssh.id
+0.0.0.0 ssh-indonesia.com
+0.0.0.0 trikinternet.net
+0.0.0.0 gretonger.win
+0.0.0.0 kancilssh.com
+0.0.0.0 murahssh.com
