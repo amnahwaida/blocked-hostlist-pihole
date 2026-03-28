@@ -1,0 +1,37 @@
+# ============================================
+# Speed Test & Bandwidth Tools Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major speed test services to prevent 
+# excessive bandwidth usage and distractions.
+# ============================================
+
+# --- Ookla Speedtest ---
+0.0.0.0 speedtest.net
+0.0.0.0 www.speedtest.net
+0.0.0.0 ookla.com
+0.0.0.0 speedtestcustom.com
+
+# --- Netflix Fast ---
+0.0.0.0 fast.com
+
+# --- Google Speed Test ---
+0.0.0.0 speedtest-google.com
+0.0.0.0 g.co/speedtest
+
+# --- Others ---
+0.0.0.0 speedcheck.org
+0.0.0.0 nperf.com
+0.0.0.0 testmy.net
+0.0.0.0 openspeedtest.com
+0.0.0.0 speedtest.co.id
+0.0.0.0 bandwidthplace.com
+0.0.0.0 speedsmart.net
+0.0.0.0 dslreports.com
+0.0.0.0 speedof.me
+0.0.0.0 meter.net
+0.0.0.0 speedtest.net.id
+0.0.0.0 cbn.id/speedtest
+0.0.0.0 biznetnetworks.com/speedtest
+0.0.0.0 telkom.co.id/speedtest

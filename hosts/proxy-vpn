@@ -272,3 +272,33 @@
 0.0.0.0 gretonger.win
 0.0.0.0 kancilssh.com
 0.0.0.0 murahssh.com
+
+# ==========================================
+# EXPANDED WEB PROXIES (BROWSER-BASED)
+# ==========================================
+
+# --- Major Web Proxies ---
+0.0.0.0 proxysite.com
+0.0.0.0 kproxy.com
+0.0.0.0 unblockvideos.com
+0.0.0.0 hidester.com
+0.0.0.0 croxyproxy.com
+0.0.0.0 whoer.net
+0.0.0.0 proxify.com
+0.0.0.0 megaproxy.com
+0.0.0.0 proxy-free.com
+0.0.0.0 filterbypass.me
+0.0.0.0 hide.me
+0.0.0.0 Zalmos.com
+0.0.0.0 GenMirror.com
+0.0.0.0 ProxyServer.com
+0.0.0.0 HMA.com (proxy service)
+0.0.0.0 NinjaProxy.org
+0.0.0.0 4everproxy.com
+
+# --- Emerging & Others ---
+0.0.0.0 blockaway.net
+0.0.0.0 youtubeunblocked.live
+0.0.0.0 proxyium.com
+0.0.0.0 site2unblock.com
+0.0.0.0 rapid-proxy.com
