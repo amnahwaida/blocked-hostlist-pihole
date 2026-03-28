@@ -35,7 +35,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:39:08 UTC
+# Generated: 2026-03-28 22:44:13 UTC
 # ============================================
 
 
@@ -307,6 +307,7 @@
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.toutiao.com.bytedns.net
 0.0.0.0 ad-ttp2.tiktokv.eu
+0.0.0.0 adultfriendfinder.com
 0.0.0.0 advertising.com
 0.0.0.0 adx.toutiao.com
 0.0.0.0 aff-id.tiktok.com
@@ -1100,6 +1101,7 @@
 0.0.0.0 artist.tiktok.com
 0.0.0.0 asahi.com
 0.0.0.0 a.sgpstatp.com
+0.0.0.0 ashleymadison.com
 0.0.0.0 ask.fm
 0.0.0.0 asset.bytedance.com
 0.0.0.0 assets.tokopedia.net
@@ -1299,6 +1301,7 @@
 0.0.0.0 bolehvpn.net
 0.0.0.0 bolt-gcdn.sc-cdn.net
 0.0.0.0 bolt.snssdk.com
+0.0.0.0 bomi.com
 0.0.0.0 bongacams.com
 0.0.0.0 book.snssdk.com
 0.0.0.0 book.snssdk.com.w.kunluncan.com
@@ -1510,6 +1513,7 @@
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 chosun.com
+0.0.0.0 christianmingle.com
 0.0.0.0 chuangyi.toutiao.com
 0.0.0.0 chuangyi.toutiao.com.w.cdngslb.com
 0.0.0.0 ci.phncdn.com
@@ -2436,6 +2440,7 @@
 0.0.0.0 hardware.bytedance.com
 0.0.0.0 hardware-seal-vpn.bytedance.com
 0.0.0.0 hashflare.io
+0.0.0.0 havaya.com
 0.0.0.0 hayday.com
 0.0.0.0 hayossh.com
 0.0.0.0 hbo.com
@@ -2455,6 +2460,7 @@
 0.0.0.0 help.steampowered.com
 0.0.0.0 help.twitter.com
 0.0.0.0 hentaihaven.xxx
+0.0.0.0 her.com
 0.0.0.0 heroesofthestorm.com
 0.0.0.0 hf.co
 0.0.0.0 hfm.com
@@ -2991,6 +2997,7 @@
 0.0.0.0 japantimes.co.jp
 0.0.0.0 jasper.ai
 0.0.0.0 jawapos.com
+0.0.0.0 jdate.com
 0.0.0.0 jd.com
 0.0.0.0 jd.id
 0.0.0.0 jetssh.com
@@ -3743,6 +3750,7 @@
 0.0.0.0 m.freefire.com
 0.0.0.0 mg-cloud-api.bytedance.com
 0.0.0.0 mgid.com
+0.0.0.0 m.grindr.com
 0.0.0.0 mg.tiktok.com
 0.0.0.0 mh.snssdk.com
 0.0.0.0 mh.snssdk.com.w.kunluncan.com
@@ -4047,6 +4055,8 @@
 0.0.0.0 mus-oss.muscdn.com
 0.0.0.0 mus-prod-o-de.muscdn.com
 0.0.0.0 mus-prod-sg.muscdn.com
+0.0.0.0 muzmatch.com
+0.0.0.0 muzz.com
 0.0.0.0 m-v16.akamaized.net
 0.0.0.0 m-v16.toutiao50.com
 0.0.0.0 mva2.byteoversea.com
@@ -23138,6 +23148,7 @@
 0.0.0.0 security.snssdk.com
 0.0.0.0 security.snssdk.com.w.kunluncan.com
 0.0.0.0 seed4.me
+0.0.0.0 Seeking.com
 0.0.0.0 sega.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
@@ -23618,6 +23629,7 @@
 0.0.0.0 sub-con.net
 0.0.0.0 subconverter.com
 0.0.0.0 subsetgames.com
+0.0.0.0 sugardaddy.com
 0.0.0.0 sugarlive.co.id
 0.0.0.0 suggestions.tiktok.com
 0.0.0.0 summon.bytedance.com
@@ -26041,6 +26053,7 @@
 0.0.0.0 zong-khi-v1.l.byteoversea.net
 0.0.0.0 zong-lhe-v1.l.byteoversea.net
 0.0.0.0 zoogvpn.com
+0.0.0.0 zoosk.com
 0.0.0.0 zoro.to
 0.0.0.0 z-p42-instagram.c10r.instagram.com
 0.0.0.0 zqq1.v.bsgslb.com

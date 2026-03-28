@@ -79,3 +79,35 @@
 0.0.0.0 www.wapa.com
 0.0.0.0 blued.com
 0.0.0.0 www.blued.com
+
+# ==========================================
+# EXPANDED DATING APPS (GLOBAL & ASIA)
+# ==========================================
+
+# --- Popular in Indonesia & Asia ---
+0.0.0.0 tantanapp.com
+0.0.0.0 michat.sg
+0.0.0.0 bomi.com
+0.0.0.0 havaya.com
+0.0.0.0 muzz.com
+0.0.0.0 muzmatch.com
+
+# --- Global Major Apps ---
+0.0.0.0 badoo.com
+0.0.0.0 happn.com
+0.0.0.0 okcupid.com
+0.0.0.0 hinge.co
+0.0.0.0 pof.com
+0.0.0.0 grindr.com
+0.0.0.0 m.grindr.com
+0.0.0.0 her.com
+0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 zoosk.com
+
+# --- Niche & Specialty Dating ---
+0.0.0.0 christianmingle.com
+0.0.0.0 jdate.com
+0.0.0.0 ashleymadison.com
+0.0.0.0 adultfriendfinder.com
+0.0.0.0 Seeking.com
+0.0.0.0 sugardaddy.com
