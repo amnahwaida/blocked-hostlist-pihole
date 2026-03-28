@@ -121,3 +121,54 @@
 0.0.0.0 eurosport.com
 0.0.0.0 fifa.com
 0.0.0.0 nba.com
+
+# ==========================================
+# GLOBAL NEWS EXPANSION (BY REGION)
+# ==========================================
+
+# --- USA (Additional) ---
+0.0.0.0 usatoday.com
+0.0.0.0 nbcnews.com
+0.0.0.0 abcnews.go.com
+0.0.0.0 cbsnews.com
+0.0.0.0 npr.org
+0.0.0.0 politico.com
+0.0.0.0 latimes.com
+
+# --- Europe (Major Media) ---
+0.0.0.0 dw.com
+0.0.0.0 france24.com
+0.0.0.0 lemonde.fr
+0.0.0.0 elpais.com
+0.0.0.0 spiegel.de
+0.0.0.0 rt.com
+0.0.0.0 euronews.com
+
+# --- China (State & Major Media) ---
+0.0.0.0 xinhuanet.com
+0.0.0.0 people.com.cn
+0.0.0.0 cctv.com
+0.0.0.0 scmp.com
+0.0.0.0 globaltimes.cn
+0.0.0.0 chinadaily.com.cn
+
+# --- Korea (South Korea Major Media) ---
+0.0.0.0 yna.co.kr
+0.0.0.0 joongang.co.kr
+0.0.0.0 chosun.com
+0.0.0.0 hani.co.kr
+0.0.0.0 kbs.co.kr
+0.0.0.0 arirang.com
+
+# --- Japan (Major Media) ---
+0.0.0.0 nhk.or.jp
+0.0.0.0 asahi.com
+0.0.0.0 nikkei.com
+0.0.0.0 yomiuri.co.jp
+0.0.0.0 japantimes.co.jp
+
+# --- Middle East (Expansion) ---
+0.0.0.0 alarabiya.net
+0.0.0.0 trtworld.com
+0.0.0.0 haaretz.com
+0.0.0.0 jpost.com
