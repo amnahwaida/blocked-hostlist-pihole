@@ -101,7 +101,9 @@ blocked-hostlist-pihole/
 ├── LICENSE                # Lisensi MIT
 ├── build.sh               # Script untuk generate combined list
 ├── .gitignore             # Git ignore file
-└── hosts/                 # Folder blocklist
+├── whitelists/            # Folder Whitelist (Pengecualian)
+│   └── education-essential # Domain Pendidikan & Produktivitas
+├── hosts/                 # Folder blocklist
     ├── ads-tracking       # Iklan & pelacak
     ├── ai                 # AI bots, ChatGPT, Gemini, dll
     ├── cryptomining       # Mining pools & scripts
@@ -147,6 +149,21 @@ File `combined` di-generate otomatis menggunakan `build.sh`. Script ini:
 chmod +x build.sh
 ./build.sh
 ```
+
+---
+
+## 🏳️ Whitelist Management
+
+Karena blocklist proyek ini sangat agresif, kami menyediakan daftar **Whitelist Rekomendasi** untuk memastikan layanan pendidikan utama tidak terganggu. 
+
+| File | Kegunaan |
+|------|----------|
+| `whitelists/education-essential` | Google Classroom, MS Office, Wikipedia, GitHub, Zoom, dll. |
+
+**Cara Menggunakan:**
+1. Buka dashboard Pi-hole Anda.
+2. Salin isi dari [education-essential](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/whitelists/education-essential).
+3. Masukkan ke menu **Whitelist** di Pi-hole (pilih "Add as Wildcard" jika perlu).
 
 Output contoh:
 ```

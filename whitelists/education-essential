@@ -1,0 +1,78 @@
+# ============================================
+# Essential Education & Productivity Whitelist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Use these domains to prevent accidental 
+# blocking of critical school resources.
+# ============================================
+
+# --- Google for Education ---
+google.com
+gmail.com
+drive.google.com
+classroom.google.com
+meet.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+forms.google.com
+fonts.googleapis.com
+gstatic.com
+apis.google.com
+accounts.google.com
+
+# --- Microsoft for Education ---
+microsoft.com
+office.com
+teams.microsoft.com
+onedrive.com
+sharepoint.com
+outlook.com
+live.com
+msn.com (infrastructure only)
+windows.com (essential services)
+
+# --- Indonesian Education Portals ---
+kemdikbud.go.id
+belajar.id
+lms.kemdikbud.go.id
+pusdatin.kemdikbud.go.id
+disdik.id
+ruangguru.com
+zenius.net
+
+# --- Global Learning Resources ---
+wikipedia.org
+wikimedia.org
+khanacademy.org
+coursera.org
+edx.org
+duolingo.com
+quizlet.com
+kahoot.it
+kahoot.com
+mentimeter.com
+padlet.com
+zoom.us
+canva.com
+
+# --- Developer & Technical (IT Class) ---
+github.com
+githubusercontent.com
+gitlab.com
+bitbucket.org
+stackoverflow.com
+docker.com
+npmjs.com
+pypi.org
+maven.org
+replit.com
+
+# --- Essential Infrastructure ---
+akamaized.net
+cloudfront.net
+fastly.net
+azure.com
+aws.amazon.com
+cloud.google.com
