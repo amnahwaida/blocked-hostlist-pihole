@@ -773,3 +773,80 @@
 # --- Boosteroid / Shadow ---
 0.0.0.0 boosteroid.com
 0.0.0.0 shadow.tech
+
+# ==========================================
+# LEGACY & CLASSIC GAMING (Old Era)
+# ==========================================
+
+# --- Classic PC Game Services ---
+0.0.0.0 gamespy.com
+0.0.0.0 www.gamespy.com
+0.0.0.0 gamespy.id.v-serv.com
+0.0.0.0 gametrailers.com
+0.0.0.0 ign.com/games
+0.0.0.0 gamespot.com/games
+
+# --- Legacy Mobile Publishers (J2ME / Early Android) ---
+0.0.0.0 gameloft.com
+0.0.0.0 www.gameloft.com
+0.0.0.0 gllive.com
+0.0.0.0 glu.com
+0.0.0.0 www.glu.com
+0.0.0.0 com2us.com
+0.0.0.0 gamevil.com
+0.0.0.0 withhive.com
+
+# --- Classic MMOs ---
+0.0.0.0 runescape.com
+0.0.0.0 www.runescape.com
+0.0.0.0 jagex.com
+0.0.0.0 tibia.com
+0.0.0.0 gravity.co.kr
+0.0.0.0 ragnarok.co.kr
+0.0.0.0 ragnarokonline.com
+0.0.0.0 warpportal.com
+0.0.0.0 irowiki.org
+0.0.0.0 knightonline.com
+0.0.0.0 silkroadonline.com
+0.0.0.0 flyff.com
+0.0.0.0 perfectworld.com
+
+# --- Classic Web Games (Expansion) ---
+0.0.0.0 popcap.com
+0.0.0.0 www.popcap.com
+0.0.0.0 pogo.com
+0.0.0.0 www.pogo.com
+0.0.0.0 bigfishgames.com
+0.0.0.0 www.bigfishgames.com
+0.0.0.0 puffgames.com
+0.0.0.0 gamefudge.com
+0.0.0.0 heavygames.com
+0.0.0.0 freegamepick.com
+
+# --- Legacy Console Domains ---
+0.0.0.0 sega.com
+0.0.0.0 www.sega.com
+0.0.0.0 atari.com
+0.0.0.0 konami.com
+0.0.0.0 www.konami.com
+0.0.0.0 capcom.com
+0.0.0.0 www.capcom.com
+0.0.0.0 square-enix.com
+0.0.0.0 bandana.square-enix.com
+0.0.0.0 namcobandaigames.com
+0.0.0.0 bandainamcoent.com
+
+# --- Classic Indie Publishers (Expansion) ---
+0.0.0.0 behemoth.com
+0.0.0.0 www.thebehemoth.com
+0.0.0.0 subsetgames.com
+0.0.0.0 playdead.com
+0.0.0.0 klei.com
+0.0.0.0 www.klei.com
+0.0.0.0 doublefine.com
+0.0.0.0 tellsale.com
+
+# --- Legacy Digital Distribution ---
+0.0.0.0 desura.com
+0.0.0.0 direct2drive.com
+0.0.0.0 greenmangaming.com

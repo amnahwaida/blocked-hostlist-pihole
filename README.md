@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amnahwaida-181717?style=flat-square&logo=github)](https://github.com/amnahwaida/blocked-hostlist-pihole)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Hosts](https://img.shields.io/badge/Total_Domains-25%2C416-red?style=flat-square)]()
+[![Hosts](https://img.shields.io/badge/Total_Domains-25%2C473-red?style=flat-square)]()
 [![Lists](https://img.shields.io/badge/Blocklists-23-blue?style=flat-square)]()
 
 Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DNS sinkhole yang melindungi jaringan Anda dari iklan, tracking, malware, dan konten yang tidak diinginkan.
@@ -22,7 +22,7 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 5 | **facebook** | Facebook & layanan Meta | 89 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/facebook) |
 | 6 | **forums** | Forum diskusi (Kaskus, IDWS, Reddit, Quora) | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/forums) |
 | 7 | **gambling** | Situs judi & taruhan | 82 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gambling) |
-| 8 | **gaming** | Game mobile, PC, web, platform & Trending Game | 565 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gaming) |
+| 8 | **gaming** | Game mobile, PC, web, platform & Legacy/Classic | 624 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gaming) |
 | 9 | **instagram** | Instagram & CDN terkait | 117 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/instagram) |
 | 10 | **malware-phishing** | Malware, cryptominer, phishing | 73 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/malware-phishing) |
 | 11 | **misused-apps** | Aplikasi rawan penyalahgunaan (Bigo, OmeTV, NGL, Pinjol) | 61 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/misused-apps) |
@@ -38,7 +38,7 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 21 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
 | 22 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
 | 23 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
-| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **25.416** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
+| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **25.473** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
 
 ---
 
@@ -136,7 +136,7 @@ Output contoh:
   ✅ facebook (89 entries)
   ✅ forums (53 entries)
   ✅ gambling (82 entries)
-  ✅ gaming (565 entries)
+  ✅ gaming (624 entries)
   ✅ malware-phishing (73 entries)
   ✅ misused-apps (61 entries)
   ✅ music-streaming (65 entries)
@@ -150,9 +150,9 @@ Output contoh:
 ============================================
 📊 Summary:
    Files processed: 23
-   Total entries:   32530
-   Duplicates:      7114
-   Unique entries:  25416
+   Total entries:   32589
+   Duplicates:      7116
+   Unique entries:  25473
 ============================================
 ✨ Done!
 ```
