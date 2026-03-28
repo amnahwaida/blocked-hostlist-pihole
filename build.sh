@@ -52,6 +52,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - tiktok          : TikTok & ByteDance
 #   - trading-crypto  : Crypto, Binary, Forex & Trading
 #   - twitter         : Twitter/X
+#   - video-streaming : Movies, Anime & Game Streams
 #   - whatsapp        : WhatsApp
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only

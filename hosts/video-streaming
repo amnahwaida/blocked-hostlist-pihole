@@ -1,0 +1,141 @@
+# ============================================
+# Video & Movie Streaming Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks Movie/TV Streaming, Anime, Piracy Sites,
+# and Video Game Streaming Platforms.
+# ============================================
+
+# ==========================================
+# LEGAL MOVIE & DRAMA VOD 
+# ==========================================
+
+# --- Netflix ---
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.net
+0.0.0.0 nflxvideo.net
+0.0.0.0 nflxso.net
+
+# --- Disney+ / Hotstar ---
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 hotstar.com
+0.0.0.0 www.hotstar.com
+0.0.0.0 bamgrid.com
+0.0.0.0 dssott.com
+
+# --- Amazon Prime Video ---
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 pv-cdn.net
+
+# --- HBO / Max / Hulu ---
+0.0.0.0 hbomax.com
+0.0.0.0 max.com
+0.0.0.0 hbo.com
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+
+# --- Asian Drama (Viu, WeTV, iQIYI, Vidio) ---
+0.0.0.0 viu.com
+0.0.0.0 www.viu.com
+0.0.0.0 wetv.vip
+0.0.0.0 iqiyi.com
+0.0.0.0 iq.com
+0.0.0.0 www.iq.com
+0.0.0.0 vidio.com
+0.0.0.0 www.vidio.com
+
+# ==========================================
+# LEGAL ANIME STREAMING
+# ==========================================
+
+# --- Crunchyroll / Funimation ---
+0.0.0.0 crunchyroll.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 vrv.co
+0.0.0.0 funimation.com
+0.0.0.0 www.funimation.com
+
+# --- Bilibili ---
+0.0.0.0 bilibili.tv
+0.0.0.0 www.bilibili.tv
+0.0.0.0 bilibili.com
+0.0.0.0 www.bilibili.com
+
+# ==========================================
+# MOVIE PIRACY & STREAMING (LK21, Rebahin, etc)
+# ==========================================
+# Note: These domain names change very frequently.
+
+0.0.0.0 layarkaca21.vip
+0.0.0.0 layarkaca21.network
+0.0.0.0 layarkaca21.onl
+0.0.0.0 lk21.vip
+0.0.0.0 lk21official.com
+0.0.0.0 lk21.cx
+0.0.0.0 rebahin.com
+0.0.0.0 rebahin.tv
+0.0.0.0 rebahin.vip
+0.0.0.0 indoxxi.tv
+0.0.0.0 indoxxi.cx
+0.0.0.0 indoxx1.cx
+0.0.0.0 idlix.com
+0.0.0.0 idlix.tv
+0.0.0.0 idlix.vip
+0.0.0.0 idlixstreaming.net
+0.0.0.0 gudangmovies21.pro
+0.0.0.0 dutafilm.pro
+0.0.0.0 dutafilm.ws
+0.0.0.0 filmku.net
+0.0.0.0 fmovies.to
+0.0.0.0 123movies.to
+0.0.0.0 putlocker.is
+
+# ==========================================
+# ANIME PIRACY (Samehadaku, Animeindo, dll)
+# ==========================================
+
+0.0.0.0 samehadaku.tv
+0.0.0.0 samehadaku.care
+0.0.0.0 samehadaku.vip
+0.0.0.0 animeindo.net
+0.0.0.0 animeindo.cc
+0.0.0.0 oploverz.in
+0.0.0.0 oploverz.biz
+0.0.0.0 animeku.tv
+0.0.0.0 nanime.tv
+0.0.0.0 nanime.in
+0.0.0.0 kuramanime.net
+0.0.0.0 kuramanime.biz
+0.0.0.0 gomunime.vip
+0.0.0.0 otakudesu.moe
+0.0.0.0 otakudesu.video
+0.0.0.0 moenime.com
+0.0.0.0 aniwave.to
+0.0.0.0 9anime.to
+0.0.0.0 zoro.to
+
+# ==========================================
+# VIDEO GAME STREAMING
+# ==========================================
+
+# --- Twitch ---
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 ttvnw.net
+0.0.0.0 jtvnw.net
+0.0.0.0 gql.twitch.tv
+0.0.0.0 api.twitch.tv
+
+# --- Kick ---
+0.0.0.0 kick.com
+0.0.0.0 www.kick.com
+
+# --- Trovo & AfreecaTV ---
+0.0.0.0 trovo.live
+0.0.0.0 afreecatv.com
+0.0.0.0 www.afreecatv.com
