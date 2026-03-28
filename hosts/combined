@@ -20,6 +20,7 @@
 #   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
+#   - shopping        : E-commerce platforms
 #   - signal          : Signal Messenger app
 #   - snapchat        : Snapchat
 #   - social-media    : Reddit, Pinterest, LinkedIn, etc.
@@ -31,7 +32,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:21:00 UTC
+# Generated: 2026-03-28 22:22:37 UTC
 # ============================================
 
 
@@ -60,6 +61,8 @@
 # --- music-streaming ---
 
 # --- porn ---
+
+# --- shopping ---
 
 # --- signal ---
 
@@ -103,6 +106,7 @@
 0.0.0.0 163.com
 0.0.0.0 1655932307.rsc.cdn77.org
 0.0.0.0 1666945197.rsc.cdn77.org
+0.0.0.0 1688.com
 0.0.0.0 1810366965.rsc.cdn77.org
 0.0.0.0 189.cn
 0.0.0.0 1925505597.rsc.cdn77.org
@@ -117,6 +121,7 @@
 0.0.0.0 2-edge-chat.facebook.com
 0.0.0.0 2k.com
 0.0.0.0 34.196.79.125
+0.0.0.0 360buy.com
 0.0.0.0 3dokby.toutiao50.com
 0.0.0.0 3-edge-chat.facebook.com
 0.0.0.0 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
@@ -310,6 +315,9 @@
 0.0.0.0 akcqacex.qfyf1toi.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 a.l.bytedns.net
+0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
+0.0.0.0 aliexpress.com
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 alisg-websocket-all-lb.byteoversea.net
 0.0.0.0 aliva-sentry.byteoversea.com
@@ -344,6 +352,11 @@
 0.0.0.0 amazex-agsxxa.snssdk.com
 0.0.0.0 amazex-agsy.snssdk.com
 0.0.0.0 amazex.snssdk.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazon.co.jp
+0.0.0.0 amazon.com
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.sg
 0.0.0.0 amd-res.musical.ly.edgesuite.net
 0.0.0.0 amemv.com
 0.0.0.0 amemv.com.bsgslb.com
@@ -359,6 +372,7 @@
 0.0.0.0 ammp.byteoversea.com
 0.0.0.0 among.us
 0.0.0.0 amplitude.com
+0.0.0.0 amzn.to
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics-i18n.tiktok.com
@@ -1057,6 +1071,7 @@
 0.0.0.0 a.sgpstatp.com
 0.0.0.0 ask.fm
 0.0.0.0 asset.bytedance.com
+0.0.0.0 assets.tokopedia.net
 0.0.0.0 assets.tumblr.com
 0.0.0.0 assets.xbox.com
 0.0.0.0 atari.com
@@ -1140,6 +1155,7 @@
 0.0.0.0 bandainamcoent.com
 0.0.0.0 bandana.square-enix.com
 0.0.0.0 bangbros.com
+0.0.0.0 banggood.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 bard.google.com
 0.0.0.0 battlefield.com
@@ -1157,6 +1173,7 @@
 0.0.0.0 bds.snssdk.com
 0.0.0.0 befunky.com
 0.0.0.0 behemoth.com
+0.0.0.0 bestbuy.com
 0.0.0.0 bet365.com
 0.0.0.0 beta.character.ai
 0.0.0.0 beta.instagram.com
@@ -1211,6 +1228,8 @@
 0.0.0.0 blackdesert.com
 0.0.0.0 black.ish.instagram.com
 0.0.0.0 b.l.bytedns.net
+0.0.0.0 blibli.com
+0.0.0.0 bliblimart.com
 0.0.0.0 bling2.com
 0.0.0.0 bling2.tv
 0.0.0.0 blizzard.com
@@ -1266,6 +1285,7 @@
 0.0.0.0 bt.bytedance.com
 0.0.0.0 bugsnag.com
 0.0.0.0 buildroyale.io
+0.0.0.0 bukalapak.com
 0.0.0.0 bumble.com
 0.0.0.0 bungie.net
 0.0.0.0 bunnylive.com
@@ -1611,6 +1631,7 @@
 0.0.0.0 dev.twitter.com
 0.0.0.0 dficimage.toutiao.com
 0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 dhgate.com
 0.0.0.0 diablo3.com
 0.0.0.0 diagnosis.bytedance.com
 0.0.0.0 diamond-share.snssdk.com
@@ -1789,6 +1810,9 @@
 0.0.0.0 eagleye.snssdk.com
 0.0.0.0 eagleye.snssdk.com.w.kunluncan.com
 0.0.0.0 easyanticheat.net
+0.0.0.0 ebay.com
+0.0.0.0 ebayimg.com
+0.0.0.0 ebaystatic.com
 0.0.0.0 ecbabdeeeab.temp.p23.tc.cdntip.com
 0.0.0.0 e-cdn-content.dzcdn.net
 0.0.0.0 e-cdn-proxy.dzcdn.net
@@ -1880,6 +1904,7 @@
 0.0.0.0 etoro.com
 0.0.0.0 e.toutiao.com
 0.0.0.0 et.snssdk.com
+0.0.0.0 etsy.com
 0.0.0.0 eu1.badoo.com
 0.0.0.0 eu.battle.net
 0.0.0.0 eureka.012gh.developer-sg.tiktok.com
@@ -2067,6 +2092,7 @@
 0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gdoc.bytedance.com
 0.0.0.0 gea.bytedance.com
+0.0.0.0 gearbest.com
 0.0.0.0 gearboxsoftware.com
 0.0.0.0 gecko100-normal-useast1a.tiktokv.com
 0.0.0.0 gecko101-normal-useast1a.tiktokv.com
@@ -2205,6 +2231,7 @@
 0.0.0.0 gecko-va-useast2a.musical.ly
 0.0.0.0 gecko-va-useast2a.musical.ly.edgesuite.net
 0.0.0.0 gedfaccdcf.temp.p23.tc.cdntip.com
+0.0.0.0 geekbuying.com
 0.0.0.0 geforcenow.com
 0.0.0.0 gelbooru.com
 0.0.0.0 gemini.com
@@ -2587,6 +2614,7 @@
 0.0.0.0 image-sg.tiktokv.com
 0.0.0.0 images.rbxcdn.com
 0.0.0.0 images-ssl.gotinder.com
+0.0.0.0 images.tokopedia.net
 0.0.0.0 image.tiktokv.us
 0.0.0.0 image-useast2a.tiktokv.com
 0.0.0.0 image.us.tiktokv.com
@@ -2821,6 +2849,8 @@
 0.0.0.0 jackpot.com
 0.0.0.0 jagex.com
 0.0.0.0 jasper.ai
+0.0.0.0 jd.com
+0.0.0.0 jd.id
 0.0.0.0 j.gs
 0.0.0.0 jinzhan.snssdk.com
 0.0.0.0 jira.bytedance.com
@@ -2829,6 +2859,7 @@
 0.0.0.0 job.bytedance.com
 0.0.0.0 jobs.bytedance.com
 0.0.0.0 job.toutiao.com
+0.0.0.0 jollychic.com
 0.0.0.0 joox.com
 0.0.0.0 jp.playstation.com
 0.0.0.0 jp.square-enix.com
@@ -3027,6 +3058,8 @@
 0.0.0.0 layarkaca21.network
 0.0.0.0 layarkaca21.onl
 0.0.0.0 layarkaca21.vip
+0.0.0.0 lazada.co.id
+0.0.0.0 lazada.com
 0.0.0.0 lbapi.snssdk.com
 0.0.0.0 lbapi.snssdk.com.w.kunluncan.com
 0.0.0.0 lb.jinritemai.com
@@ -3470,6 +3503,7 @@
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
 0.0.0.0 maliva-normal-lb.byteoversea.net
 0.0.0.0 maliva-normal-lb-useast2a.byteoversea.net
+0.0.0.0 mall.shopee.co.id
 0.0.0.0 malware-traffic-analysis.net
 0.0.0.0 mamba.ru
 0.0.0.0 mangolive.com
@@ -3492,6 +3526,7 @@
 0.0.0.0 max.com
 0.0.0.0 maxgames.com
 0.0.0.0 mbasic.facebook.com
+0.0.0.0 m.bukalapak.com
 0.0.0.0 m.bytedance.com
 0.0.0.0 mcast1.toutiao50.com
 0.0.0.0 mcp.bytedance.com
@@ -4729,6 +4764,8 @@
 0.0.0.0 pigeon-id.tiktok.com
 0.0.0.0 pigeon.snssdk.com
 0.0.0.0 pigeon.snssdk.com.w.kunluncan.com
+0.0.0.0 pinduoduo.com
+0.0.0.0 pinduoduo.net
 0.0.0.0 pinimg.com
 0.0.0.0 pinnacle.com
 0.0.0.0 pin-river.data.ea.com
@@ -22197,6 +22234,7 @@
 0.0.0.0 radiance.snssdk.com
 0.0.0.0 ragnarok.co.kr
 0.0.0.0 ragnarokonline.com
+0.0.0.0 rakuten.com
 0.0.0.0 rawfury.com
 0.0.0.0 rbxcdn.com
 0.0.0.0 rbxcdn.net
@@ -22257,6 +22295,7 @@
 0.0.0.0 rocket.snssdk.com
 0.0.0.0 rocket.snssdk.com.w.kunluncan.com
 0.0.0.0 rockstargames.com
+0.0.0.0 romwe.com
 0.0.0.0 rovio.com
 0.0.0.0 royalgames.com
 0.0.0.0 royalpanda.com
@@ -22883,6 +22922,7 @@
 0.0.0.0 seller.tiktok.com
 0.0.0.0 seller-uk-accounts.tiktok.com
 0.0.0.0 seller-uk.tiktok.com
+0.0.0.0 seller-us.tiktok.com
 0.0.0.0 seller-vn.tiktok.com
 0.0.0.0 sep.bytedance.com
 0.0.0.0 serve.popads.net
@@ -23098,9 +23138,14 @@
 0.0.0.0 share.musemuse.cn
 0.0.0.0 share-sg.snssdk.com
 0.0.0.0 share-test.musemuse.cn
+0.0.0.0 sheincdn.com
+0.0.0.0 shein.com
 0.0.0.0 shellshock.io
 0.0.0.0 shengqugames.com
 0.0.0.0 shield.bytedance.com
+0.0.0.0 shoope.co.id
+0.0.0.0 shopee.co.id
+0.0.0.0 shopeemobile.com
 0.0.0.0 shop.garena.com
 0.0.0.0 shop-id.tiktok.com
 0.0.0.0 shop.musical.ly
@@ -23162,6 +23207,7 @@
 0.0.0.0 snssdk.com.xi.zwtianshangm.com
 0.0.0.0 socialclub.rockstargames.com
 0.0.0.0 social.xbox.com
+0.0.0.0 sociolla.com
 0.0.0.0 sonyentertainmentnetwork.com
 0.0.0.0 so.toutiao.com
 0.0.0.0 so.toutiao.com.w.cdngslb.com
@@ -23390,6 +23436,7 @@
 0.0.0.0 temai.snssdk.com.bytedns.net
 0.0.0.0 temai.toutiao.com
 0.0.0.0 temp.p23.tc.cdntip.com
+0.0.0.0 temu.com
 0.0.0.0 tencent.com
 0.0.0.0 tencentgames.com
 0.0.0.0 terraria.org
@@ -23423,6 +23470,7 @@
 0.0.0.0 ticast1.toutiao50.com
 0.0.0.0 tidal.com
 0.0.0.0 tidalhifi.com
+0.0.0.0 tiket.com
 0.0.0.0 tiktokamexshopsmallaccelerator.splashthat.com
 0.0.0.0 tiktok.bytedance.map.fastly.net
 0.0.0.0 tiktokcdn.com
@@ -23471,6 +23519,7 @@
 0.0.0.0 tinybuild.com
 0.0.0.0 tlivecdn.com
 0.0.0.0 tm3.bytecdn.cn
+0.0.0.0 tmall.com
 0.0.0.0 tmaportal.snssdk.com
 0.0.0.0 tmaportal.snssdk.com.w.kunluncan.com
 0.0.0.0 tma.snssdk.com
@@ -23711,7 +23760,10 @@
 0.0.0.0 toblog.snssdk.com
 0.0.0.0 toblog.tobsnssdk.com.ttdns2.com
 0.0.0.0 tokocrypto.com
+0.0.0.0 tokopedia.com
+0.0.0.0 tokopedia.net
 0.0.0.0 tome.app
+0.0.0.0 tomtop.com
 0.0.0.0 ton.twimg.com
 0.0.0.0 topbuzz-applog-alisg.l.byteoversea.net
 0.0.0.0 topbuzz-lb-alisg.byteoversea.net
@@ -23947,6 +23999,7 @@
 0.0.0.0 translate-sdk.bytedance.com
 0.0.0.0 transparency.facebook.com
 0.0.0.0 travel.bytedance.com
+0.0.0.0 traveloka.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trending.tiktok.com
 0.0.0.0 trends.tiktok.com
@@ -24753,6 +24806,7 @@
 0.0.0.0 wallet-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 wallet.snssdk.com
 0.0.0.0 wallet.snssdk.com.w.kunluncan.com
+0.0.0.0 walmart.com
 0.0.0.0 wanmei.com
 0.0.0.0 wapa.com
 0.0.0.0 wap.badoo.com
@@ -25106,6 +25160,7 @@
 0.0.0.0 ws-hl.l.bytedns.net
 0.0.0.0 ws.l.bytedns.net
 0.0.0.0 wutheringwaves.gg
+0.0.0.0 www.1688.com
 0.0.0.0 www.1v1.lol
 0.0.0.0 www.1xbet.com
 0.0.0.0 www.22bet.com
@@ -25120,6 +25175,9 @@
 0.0.0.0 www.ads.id
 0.0.0.0 www.afreecatv.com
 0.0.0.0 www.ajaib.co.id
+0.0.0.0 www.alibaba.com
+0.0.0.0 www.aliexpress.com
+0.0.0.0 www.amazon.com
 0.0.0.0 www.amemv.com
 0.0.0.0 www.amemv.com.w.kunluncan.com
 0.0.0.0 www.anthropic.com
@@ -25130,6 +25188,7 @@
 0.0.0.0 www.azarlive.com
 0.0.0.0 www.badoo.com
 0.0.0.0 www.bangbros.com
+0.0.0.0 www.banggood.com
 0.0.0.0 www.battlefield.com
 0.0.0.0 www.battle.net
 0.0.0.0 www.battleye.com
@@ -25150,6 +25209,7 @@
 0.0.0.0 www.bitget.com
 0.0.0.0 www.bitmoji.com
 0.0.0.0 www.bitstamp.net
+0.0.0.0 www.blibli.com
 0.0.0.0 www.bling2.com
 0.0.0.0 www.blizzard.com
 0.0.0.0 www.blued.com
@@ -25158,6 +25218,7 @@
 0.0.0.0 www.boombeach.com
 0.0.0.0 www.brawlstars.com
 0.0.0.0 www.brazzers.com
+0.0.0.0 www.bukalapak.com
 0.0.0.0 www.bumble.com
 0.0.0.0 www.bwin.com
 0.0.0.0 www.bybit.com
@@ -25200,6 +25261,7 @@
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.deezer.com
 0.0.0.0 www.deriv.com
+0.0.0.0 www.dhgate.com
 0.0.0.0 www.discord.com
 0.0.0.0 www.disneyplus.com
 0.0.0.0 www.doubleclick.net
@@ -25210,6 +25272,7 @@
 0.0.0.0 www.e621.net
 0.0.0.0 www.ea.com
 0.0.0.0 www.easyanticheat.net
+0.0.0.0 www.ebay.com
 0.0.0.0 www.eneba.com
 0.0.0.0 www.epicgames.com
 0.0.0.0 www.eporner.com
@@ -25238,6 +25301,7 @@
 0.0.0.0 www.garena.co.id
 0.0.0.0 www.garena.com
 0.0.0.0 www.gate.io
+0.0.0.0 www.gearbest.com
 0.0.0.0 www.gelbooru.com
 0.0.0.0 www.gemini.com
 0.0.0.0 www.glu.com
@@ -25286,6 +25350,7 @@
 0.0.0.0 www.ixxx.com
 0.0.0.0 www.jackpotcity.com
 0.0.0.0 www.jackpot.com
+0.0.0.0 www.jd.com
 0.0.0.0 www.joox.com
 0.0.0.0 www.kapwing.com
 0.0.0.0 www.kaskus.co.id
@@ -25300,6 +25365,7 @@
 0.0.0.0 www.kraken.com
 0.0.0.0 www.kucoin.com
 0.0.0.0 www.ladbrokes.com
+0.0.0.0 www.lazada.co.id
 0.0.0.0 www.leagueoflegends.com
 0.0.0.0 www.leonardo.ai
 0.0.0.0 www.leovegas.com
@@ -25424,10 +25490,13 @@
 0.0.0.0 www.secreto.site
 0.0.0.0 www.sega.com
 0.0.0.0 www.sgsnssdk.com
+0.0.0.0 www.shein.com
+0.0.0.0 www.shopee.co.id
 0.0.0.0 www.signal.org
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 www.snssdk.com
+0.0.0.0 www.sociolla.com
 0.0.0.0 www.soundcloud.com
 0.0.0.0 www.spankbang.com
 0.0.0.0 www.spinpalace.com
@@ -25445,11 +25514,13 @@
 0.0.0.0 www.tantanapp.com
 0.0.0.0 www.telegram.org
 0.0.0.0 www.tellonym.me
+0.0.0.0 www.temu.com
 0.0.0.0 www.tencentgames.com
 0.0.0.0 www.thebehemoth.com
 0.0.0.0 www.thelotter.com
 0.0.0.0 www.threads.net
 0.0.0.0 www.tidal.com
+0.0.0.0 www.tiket.com
 0.0.0.0 www.tiktokcdn.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktok.com.edgesuite.net
@@ -25460,9 +25531,11 @@
 0.0.0.0 www.tinder.com
 0.0.0.0 www.tnaflix.com
 0.0.0.0 www.tokocrypto.com
+0.0.0.0 www.tokopedia.com
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.toutiao.com.bytedns.net
 0.0.0.0 www.tradingview.com
+0.0.0.0 www.traveloka.com
 0.0.0.0 www.trending.tiktok.com
 0.0.0.0 www.trovo.live
 0.0.0.0 www-ttp2.tiktokw.eu
@@ -25510,6 +25583,7 @@
 0.0.0.0 www.you.com
 0.0.0.0 www.youporn.com
 0.0.0.0 www.youtube.com
+0.0.0.0 www.zalora.co.id
 0.0.0.0 www.zipmex.com
 0.0.0.0 www.zynga.com
 0.0.0.0 xavmwvdi.bytedance.com
@@ -25567,6 +25641,8 @@
 0.0.0.0 xzcs3zlph.com.akamaized.net
 0.0.0.0 xzzfz.toutiao.com
 0.0.0.0 y8.com
+0.0.0.0 yangkeduo.com
+0.0.0.0 yesstyle.com
 0.0.0.0 y.l.bytedns.net
 0.0.0.0 yostar.com
 0.0.0.0 you.com
@@ -25589,6 +25665,7 @@
 0.0.0.0 z6-lf.snssdk.com
 0.0.0.0 z6-lq.snssdk.com
 0.0.0.0 z6.snssdk.com
+0.0.0.0 zalora.co.id
 0.0.0.0 zc.bytedance.com
 0.0.0.0 zdchannel.snssdk.com
 0.0.0.0 zdchannel.snssdk.com.w.kunluncan.com

@@ -1,0 +1,137 @@
+# ============================================
+# Online Shopping Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major local (Indonesian) and global 
+# e-commerce and shopping platforms.
+# ============================================
+
+# ==========================================
+# LOCAL E-COMMERCE (Indonesia)
+# ==========================================
+
+# --- Shopee Indonesia ---
+0.0.0.0 shopee.co.id
+0.0.0.0 www.shopee.co.id
+0.0.0.0 mall.shopee.co.id
+0.0.0.0 shopeemobile.com
+0.0.0.0 shoope.co.id
+
+# --- Tokopedia ---
+0.0.0.0 tokopedia.com
+0.0.0.0 www.tokopedia.com
+0.0.0.0 tokopedia.net
+0.0.0.0 assets.tokopedia.net
+0.0.0.0 images.tokopedia.net
+
+# --- Lazada Indonesia ---
+0.0.0.0 lazada.co.id
+0.0.0.0 www.lazada.co.id
+0.0.0.0 lazada.com
+
+# --- Bukalapak ---
+0.0.0.0 bukalapak.com
+0.0.0.0 www.bukalapak.com
+0.0.0.0 m.bukalapak.com
+
+# --- Blibli ---
+0.0.0.0 blibli.com
+0.0.0.0 www.blibli.com
+0.0.0.0 bliblimart.com
+
+# --- Zalora & Sociolla ---
+0.0.0.0 zalora.co.id
+0.0.0.0 www.zalora.co.id
+0.0.0.0 sociolla.com
+0.0.0.0 www.sociolla.com
+
+# --- Traveloka & Tiket (Shopping Aspects) ---
+0.0.0.0 traveloka.com
+0.0.0.0 www.traveloka.com
+0.0.0.0 tiket.com
+0.0.0.0 www.tiket.com
+
+# ==========================================
+# GLOBAL E-COMMERCE (Mancanegara)
+# ==========================================
+
+# --- Amazon (Global) ---
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.co.jp
+0.0.0.0 amazon.sg
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amzn.to
+
+# --- AliExpress / Alibaba / Taobao ---
+0.0.0.0 aliexpress.com
+0.0.0.0 www.aliexpress.com
+0.0.0.0 alibaba.com
+0.0.0.0 www.alibaba.com
+0.0.0.0 taobao.com
+0.0.0.0 tmall.com
+0.0.0.0 alicdn.com
+
+# --- eBay ---
+0.0.0.0 ebay.com
+0.0.0.0 www.ebay.com
+0.0.0.0 ebayimg.com
+0.0.0.0 ebaystatic.com
+
+# --- Temu & Shein ---
+0.0.0.0 temu.com
+0.0.0.0 www.temu.com
+0.0.0.0 shein.com
+0.0.0.0 www.shein.com
+0.0.0.0 sheincdn.com
+
+# --- Walmart / Etsy / Best Buy ---
+0.0.0.0 walmart.com
+0.0.0.0 etsy.com
+0.0.0.0 bestbuy.com
+0.0.0.0 rakuten.com
+
+# --- TikTok Shop (Specific) ---
+0.0.0.0 shop.tiktok.com
+0.0.0.0 seller-id.tiktok.com
+0.0.0.0 seller-us.tiktok.com
+
+# ==========================================
+# CHINESE E-COMMERCE (Expansion)
+# ==========================================
+
+# --- JD.com (Jingdong) ---
+0.0.0.0 jd.com
+0.0.0.0 www.jd.com
+0.0.0.0 360buy.com
+0.0.0.0 jd.id
+
+# --- Pinduoduo / Temu Infra ---
+0.0.0.0 pinduoduo.com
+0.0.0.0 yangkeduo.com
+0.0.0.0 pinduoduo.net
+
+# --- 1688.com ---
+0.0.0.0 1688.com
+0.0.0.0 www.1688.com
+
+# --- Banggood & Gearbest ---
+0.0.0.0 banggood.com
+0.0.0.0 www.banggood.com
+0.0.0.0 gearbest.com
+0.0.0.0 www.gearbest.com
+
+# --- DHgate ---
+0.0.0.0 dhgate.com
+0.0.0.0 www.dhgate.com
+
+# --- YesStyle / Romwe / JollyChic ---
+0.0.0.0 yesstyle.com
+0.0.0.0 romwe.com
+0.0.0.0 jollychic.com
+
+# --- GeekBuying / Tomtop ---
+0.0.0.0 geekbuying.com
+0.0.0.0 tomtop.com
