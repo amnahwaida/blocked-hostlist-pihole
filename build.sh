@@ -42,6 +42,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - gaming          : Mobile, PC & web games
 #   - instagram       : Instagram
 #   - malware-phishing: Malware & security threats
+#   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
 #   - snapchat        : Snapchat
 #   - tiktok          : TikTok & ByteDance

@@ -1,0 +1,96 @@
+# ============================================
+# Music Streaming Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major music & audio streaming platforms.
+# ============================================
+
+# --- Spotify ---
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 open.spotify.com
+0.0.0.0 api.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 audio-ec.spotify.com
+0.0.0.0 audio-fa.spotify.com
+0.0.0.0 audio-sp-*.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 login5.spotify.com
+0.0.0.0 oauth.spotify.com
+0.0.0.0 dealer.spotify.com
+0.0.0.0 weblb-wg.guc3.spotify.com
+0.0.0.0 weblb-wg.spotify.com
+0.0.0.0 desktop.spotify.com
+0.0.0.0 content.spotify.com
+0.0.0.0 cdn.scdn.co
+
+# --- Apple Music / iTunes ---
+0.0.0.0 music.apple.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 audio-ssl.itunes.apple.com
+0.0.0.0 cdn.apple-cloudkit.com
+0.0.0.0 streamingaudio.itunes.apple.com
+0.0.0.0 play.itunes.apple.com
+
+# --- SoundCloud ---
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 api.soundcloud.com
+0.0.0.0 m.soundcloud.com
+0.0.0.0 api-v2.soundcloud.com
+0.0.0.0 api-mobi.soundcloud.com
+0.0.0.0 cf-media.sndcdn.com
+0.0.0.0 sndcdn.com
+
+# --- YouTube Music ---
+# Note: Full block of music.youtube.com might affect standard YouTube, 
+# although it usually runs on googlevideo.com. But this explicitly targets YT Music.
+0.0.0.0 music.youtube.com
+0.0.0.0 yt3.ggpht.com
+
+# --- Deezer ---
+0.0.0.0 deezer.com
+0.0.0.0 www.deezer.com
+0.0.0.0 api.deezer.com
+0.0.0.0 e-cdn-content.dzcdn.net
+0.0.0.0 e-cdn-proxy.dzcdn.net
+0.0.0.0 dzcdn.net
+
+# --- Joox ---
+0.0.0.0 joox.com
+0.0.0.0 www.joox.com
+0.0.0.0 api.joox.com
+0.0.0.0 api-jooxtv.joox.com
+
+# --- Tidal ---
+0.0.0.0 tidal.com
+0.0.0.0 www.tidal.com
+0.0.0.0 api.tidal.com
+0.0.0.0 listen.tidal.com
+0.0.0.0 api.tidalhifi.com
+0.0.0.0 tidalhifi.com
+
+# --- Resso ---
+0.0.0.0 resso.com
+0.0.0.0 www.resso.com
+0.0.0.0 api.resso.app
+0.0.0.0 api.resso.com
+
+# --- Amazon Music ---
+0.0.0.0 music.amazon.com
+0.0.0.0 music.amazon.co.uk
+0.0.0.0 music.amazon.in
+0.0.0.0 dmrproxy.amazon.com
+0.0.0.0 dmrproxy.amazon.co.uk
+
+# --- Qobuz ---
+0.0.0.0 qobuz.com
+0.0.0.0 www.qobuz.com
+0.0.0.0 play.qobuz.com
+
+# --- Pandora ---
+0.0.0.0 pandora.com
+0.0.0.0 www.pandora.com
+0.0.0.0 tuner.pandora.com
