@@ -1,0 +1,37 @@
+# ============================================
+# Malicious Browser Extensions & Adware Callbacks
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks backend domains used by shady 
+# extensions to talk to their C&C servers.
+# ============================================
+
+# --- Major Analytics & Callbacks ---
+0.0.0.0 extension-callback.net
+0.0.0.0 crx-telemetry.io
+0.0.0.0 adware-callback.top
+0.0.0.0 extension-analytics.net
+0.0.0.0 chrome-extension-api.net
+0.0.0.0 extension-update.org
+0.0.0.0 malicious-crx-domain.pw
+0.0.0.0 extension-data.io
+0.0.0.0 analytics-crx.com
+0.0.0.0 update-server-crx.net
+0.0.0.0 check-update-extension.org
+0.0.0.0 ad-track-extension.me
+0.0.0.0 malicious-addon.pw
+0.0.0.0 extension-heartbeat.com
+0.0.0.0 crx-beacon.net
+
+# --- Adware focus ---
+0.0.0.0 adware-server.pw
+0.0.0.0 analytics-server-01.bid
+0.0.0.0 malware-beacon-server.xyz
+0.0.0.0 tracking-beacon-01.club
+0.0.0.0 malicious-telemetry-crx.info
+0.0.0.0 stats-extension-callback.io
+0.0.0.0 data-beacon-api.net
+0.0.0.0 extension-stats.site
+0.0.0.0 crx-api-v1.net
+0.0.0.0 malicious-extension-sync.com

@@ -1,0 +1,50 @@
+# ============================================
+# Temporary File Transfer & Sharing Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major services for sending large files 
+# privately and instantly without account.
+# ============================================
+
+# --- Major File Transfer ---
+0.0.0.0 wetransfer.com
+0.0.0.0 www.wetransfer.com
+0.0.0.0 send-anywhere.com
+0.0.0.0 smash.me
+0.0.0.0 file.io
+0.0.0.0 transfer.sh
+0.0.0.0 wormhole.app
+0.0.0.0 gofile.io
+0.0.0.0 snapdrop.net (local/relay)
+0.0.0.0 sharecopy.com
+0.0.0.0 justbeamit.com
+0.0.0.0 dropsend.com
+0.0.0.0 masstyler.com
+0.0.0.0 transferxl.com
+0.0.0.0 pcloud.com/transfer
+0.0.0.0 filemail.com
+0.0.0.0 fromsmash.com
+0.0.0.0 sendgb.com
+0.0.0.0 swiss-transfer.com
+
+# --- Niche & File Sharing Mirrors ---
+0.0.0.0 filefactory.com
+0.0.0.0 filespace.com
+0.0.0.0 datafilehost.com
+0.0.0.0 upstatic.com
+0.0.0.0 ddownload.com
+0.0.0.0 nitroflare.com
+0.0.0.0 uploaded.net
+0.0.0.0 turbobit.net
+0.0.0.0 hitfile.net
+0.0.0.0 rapidgator.net
+0.0.0.0 bigfile.to
+0.0.0.0 kumpel.me
+0.0.0.0 anonfiles.com (clones)
+0.0.0.0 bayfiles.com
+0.0.0.0 uploadocean.com
+0.0.0.0 uploadfire.net
+0.0.0.0 upload.ee
+0.0.0.0 mixdrop.co
+0.0.0.0 upstream.to

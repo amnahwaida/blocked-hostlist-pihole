@@ -35,3 +35,25 @@
 0.0.0.0 cbn.id/speedtest
 0.0.0.0 biznetnetworks.com/speedtest
 0.0.0.0 telkom.co.id/speedtest
+
+# --- Speed Test & Mirror Expansion (Global & Regional) ---
+0.0.0.0 ookla-mirrors.net
+0.0.0.0 speedtest.com
+0.0.0.0 fast.io
+0.0.0.0 speedtest.id
+0.0.0.0 testmyspeed.net
+0.0.0.0 speedtest.net.my
+0.0.0.0 speedtest.co.in
+0.0.0.0 speedtest.ph
+0.0.0.0 speedtest.sg
+0.0.0.0 speedtest.vn
+0.0.0.0 speedtest.com.au
+0.0.0.0 test-speed.com
+0.0.0.0 bandwidth-test.com
+0.0.0.0 ookla-server.net
+0.0.0.0 ookla-cdn.net
+0.0.0.0 speedtest-server.net
+0.0.0.0 speedtest-mirror.com
+0.0.0.0 net-speed-test.org
+0.0.0.0 global-speed-test.io
+0.0.0.0 regional-test-mirror.net
