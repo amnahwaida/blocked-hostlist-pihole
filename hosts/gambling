@@ -1,0 +1,98 @@
+# ============================================
+# Gambling Sites Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks popular gambling and betting sites
+# Useful for parental control
+# ============================================
+
+# --- International Gambling ---
+0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
+0.0.0.0 members.bet365.com
+0.0.0.0 mobile.bet365.com
+0.0.0.0 betfair.com
+0.0.0.0 www.betfair.com
+0.0.0.0 exchange.betfair.com
+0.0.0.0 williamhill.com
+0.0.0.0 www.williamhill.com
+0.0.0.0 sports.williamhill.com
+0.0.0.0 casino.williamhill.com
+0.0.0.0 ladbrokes.com
+0.0.0.0 www.ladbrokes.com
+0.0.0.0 sports.ladbrokes.com
+0.0.0.0 paddypower.com
+0.0.0.0 www.paddypower.com
+0.0.0.0 888.com
+0.0.0.0 www.888.com
+0.0.0.0 888sport.com
+0.0.0.0 888casino.com
+0.0.0.0 888poker.com
+0.0.0.0 betway.com
+0.0.0.0 www.betway.com
+0.0.0.0 unibet.com
+0.0.0.0 www.unibet.com
+0.0.0.0 pokerstars.com
+0.0.0.0 www.pokerstars.com
+0.0.0.0 bwin.com
+0.0.0.0 www.bwin.com
+0.0.0.0 draftkings.com
+0.0.0.0 www.draftkings.com
+0.0.0.0 sportsbook.draftkings.com
+0.0.0.0 fanduel.com
+0.0.0.0 www.fanduel.com
+0.0.0.0 sportsbook.fanduel.com
+0.0.0.0 stake.com
+0.0.0.0 www.stake.com
+0.0.0.0 1xbet.com
+0.0.0.0 www.1xbet.com
+0.0.0.0 22bet.com
+0.0.0.0 www.22bet.com
+0.0.0.0 betsson.com
+0.0.0.0 www.betsson.com
+0.0.0.0 coral.co.uk
+0.0.0.0 www.coral.co.uk
+0.0.0.0 pinnacle.com
+0.0.0.0 www.pinnacle.com
+0.0.0.0 marathonbet.com
+0.0.0.0 www.marathonbet.com
+0.0.0.0 betonline.ag
+0.0.0.0 www.betonline.ag
+
+# --- Indonesian Gambling Sites ---
+0.0.0.0 sbobet.com
+0.0.0.0 www.sbobet.com
+0.0.0.0 m.sbobet.com
+0.0.0.0 maxbet.com
+0.0.0.0 www.maxbet.com
+0.0.0.0 ibcbet.com
+0.0.0.0 www.ibcbet.com
+0.0.0.0 cmd368.com
+0.0.0.0 www.cmd368.com
+0.0.0.0 bola88.com
+0.0.0.0 www.bola88.com
+
+# --- Online Casino ---
+0.0.0.0 casumo.com
+0.0.0.0 www.casumo.com
+0.0.0.0 leovegas.com
+0.0.0.0 www.leovegas.com
+0.0.0.0 mrgreen.com
+0.0.0.0 www.mrgreen.com
+0.0.0.0 jackpotcity.com
+0.0.0.0 www.jackpotcity.com
+0.0.0.0 spinpalace.com
+0.0.0.0 www.spinpalace.com
+0.0.0.0 royalpanda.com
+0.0.0.0 www.royalpanda.com
+0.0.0.0 rizk.com
+0.0.0.0 www.rizk.com
+
+# --- Lottery ---
+0.0.0.0 thelotter.com
+0.0.0.0 www.thelotter.com
+0.0.0.0 lottoland.com
+0.0.0.0 www.lottoland.com
+0.0.0.0 jackpot.com
+0.0.0.0 www.jackpot.com

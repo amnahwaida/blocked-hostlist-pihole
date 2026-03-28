@@ -1,0 +1,61 @@
+# ============================================
+# Snapchat Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks Snapchat and related services
+# ============================================
+
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 web.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 auth.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 api.snapchat.com
+0.0.0.0 story.snapchat.com
+0.0.0.0 support.snapchat.com
+0.0.0.0 map.snapchat.com
+0.0.0.0 lens.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 snap.com
+0.0.0.0 snapads.com
+0.0.0.0 snapkit.com
+0.0.0.0 snap-dev.net
+0.0.0.0 snap-storage-cdn.appspot.com
+0.0.0.0 snapprod-ash2.appspot.com
+0.0.0.0 snapprod-iad1.appspot.com
+0.0.0.0 snapprod-lax1.appspot.com
+0.0.0.0 snapprod-mia1.appspot.com
+0.0.0.0 snapprod-ord1.appspot.com
+0.0.0.0 snapprod-sjc1.appspot.com
+0.0.0.0 bitmoji.com
+0.0.0.0 www.bitmoji.com
+0.0.0.0 api.bitmoji.com
+0.0.0.0 render.bitstrips.com
+0.0.0.0 images.bitstrips.com
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 cf-lp-gcdn.sc-cdn.net
+0.0.0.0 community-lens.snapchat.com
+0.0.0.0 lens-storage.storage.googleapis.com
+0.0.0.0 sc-static.net
+0.0.0.0 sc-jpl.sc-static.net
+0.0.0.0 sc-prod.sc-static.net
+0.0.0.0 snapchat-dev.sc-static.net
+0.0.0.0 snap-storage-cdn.sc-static.net
+0.0.0.0 impala-media-production.s3.amazonaws.com
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 snap-analytics.appspot.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 us-east1-gcp.api.snapchat.com
+0.0.0.0 us-west1.gcp.api.snapchat.com
+0.0.0.0 us-central1.gcp.api.snapchat.com
+0.0.0.0 addlive.io
+0.0.0.0 feelinsonice.com
+0.0.0.0 feelinsonice-hrd.appspot.com

@@ -1,7 +1,35 @@
+# ============================================
+# YouTube Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks YouTube completely (video, API, CDN)
+# WARNING: This blocks ALL YouTube content
+# For ads-only blocking, use youtubeAds instead
+# ============================================
+
 0.0.0.0 googlevideo.com
 0.0.0.0 ytimg.com
 0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 music.youtube.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 kids.youtube.com
+0.0.0.0 studio.youtube.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 ytstatic.l.google.com
 0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtu.be
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 img.youtube.com
+0.0.0.0 s2.youtube.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 gaming.youtube.com
+0.0.0.0 yt.be

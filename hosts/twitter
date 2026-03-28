@@ -1,0 +1,57 @@
+# ============================================
+# Twitter/X Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks Twitter (X) and related services
+# ============================================
+
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 ton.twimg.com
+0.0.0.0 o.twimg.com
+0.0.0.0 upload.twitter.com
+0.0.0.0 userstream.twitter.com
+0.0.0.0 sitestream.twitter.com
+0.0.0.0 stream.twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 pic.twitter.com
+0.0.0.0 cards.twitter.com
+0.0.0.0 cards-frame.twitter.com
+0.0.0.0 t.co
+0.0.0.0 twimg.com
+0.0.0.0 twitpic.com
+0.0.0.0 twitteroauth.com
+0.0.0.0 twttr.com
+0.0.0.0 vine.co
+0.0.0.0 periscope.tv
+0.0.0.0 pscp.tv
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 api.x.com
+0.0.0.0 abs.x.com
+0.0.0.0 about.twitter.com
+0.0.0.0 blog.twitter.com
+0.0.0.0 business.twitter.com
+0.0.0.0 caps.twitter.com
+0.0.0.0 dev.twitter.com
+0.0.0.0 developer.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 media.twitter.com
+0.0.0.0 publish.twitter.com
+0.0.0.0 studio.twitter.com
+0.0.0.0 support.twitter.com
+0.0.0.0 tellapart.com
+0.0.0.0 twittercommunity.com
+0.0.0.0 twitterflightschool.com
+0.0.0.0 twitterinc.com
+0.0.0.0 twitterstat.us
