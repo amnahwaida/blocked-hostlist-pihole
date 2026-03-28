@@ -1,0 +1,62 @@
+# ============================================
+# OS & Software Update Servers Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major OS and software update servers 
+# to manage bandwidth in School Lab sessions.
+# ============================================
+
+# --- Microsoft Windows Update ---
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 v0.windowsupdate.com
+0.0.0.0 v1.windowsupdate.com
+0.0.0.0 v2.windowsupdate.com
+0.0.0.0 v3.windowsupdate.com
+0.0.0.0 v4.windowsupdate.com
+0.0.0.0 v5.windowsupdate.com
+0.0.0.0 v6.windowsupdate.com
+0.0.0.0 v7.windowsupdate.com
+0.0.0.0 v8.windowsupdate.com
+0.0.0.0 v9.windowsupdate.com
+0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 download.microsoft.com
+0.0.0.0 ws.microsoft.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com
+0.0.0.0 delivery.mp.microsoft.com
+
+# --- Apple macOS & iOS Updates ---
+0.0.0.0 apple.com/updates
+0.0.0.0 ios.apple.com
+0.0.0.0 swscan.apple.com
+0.0.0.0 swquery.apple.com
+0.0.0.0 swcdn.apple.com
+0.0.0.0 swdownload.apple.com
+0.0.0.0 updates.cdn-apple.com
+0.0.0.0 updates-http.cdn-apple.com
+0.0.0.0 xp.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 appldnld.apple.com
+
+# --- Linux Repositories (Generic/Popular) ---
+0.0.0.0 us.archive.ubuntu.com
+0.0.0.0 security.ubuntu.com
+0.0.0.0 archive.ubuntu.com
+0.0.0.0 deb.debian.org
+0.0.0.0 security.debian.org
+0.0.0.0 mirrors.kernel.org
+0.0.0.0 dl.google.com (Chrome updates)
+0.0.0.0 edge.microsoft.com (Edge updates)
+
+# --- Software Specific Updates ---
+0.0.0.0 update.adobe.com
+0.0.0.0 swupmf.adobe.com
+0.0.0.0 auto-update.discord.com
+0.0.0.0 updates.signal.org
+0.0.0.0 update.anydesk.com
+0.0.0.0 download.teamviewer.com
+0.0.0.0 updates.spotify.com

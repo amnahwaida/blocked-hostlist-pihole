@@ -1,0 +1,53 @@
+# ============================================
+# Dynamic DNS (DDNS) Providers Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major Dynamic DNS services often 
+# used for home-hosting and bypass tools.
+# ============================================
+
+# --- Major DDNS Providers ---
+0.0.0.0 noip.com
+0.0.0.0 no-ip.com
+0.0.0.0 ddns.net
+0.0.0.0 zapto.org
+0.0.0.0 hopto.org
+0.0.0.0 sytes.net
+0.0.0.0 myftp.org
+0.0.0.0 dyndns.org
+0.0.0.0 dyn.com
+0.0.0.0 duckdns.org
+0.0.0.0 afraid.org
+0.0.0.0 freedns.afraid.org
+0.0.0.0 changeip.com
+0.0.0.0 dtdns.com
+0.0.0.0 dnsomatic.com
+0.0.0.0 ns-update.info
+0.0.0.0 desec.io
+0.0.0.0 dy.fi
+0.0.0.0 spdns.org
+0.0.0.0 twodns.de
+0.0.0.0 dynu.com
+0.0.0.0 clouddns.net
+0.0.0.0 dlinkddns.com
+0.0.0.0 tplinkdns.com
+0.0.0.0 asuscomm.com
+0.0.0.0 dny.pl
+0.0.0.0 dynip.com
+0.0.0.0 dynv6.com
+0.0.0.0 entrydns.net
+0.0.0.0 geodns.org
+0.0.0.0 selfhost.de
+0.0.0.0 strato-hosting.eu
+0.0.0.0 dynamicdns.org
+
+# --- Emerging / Tool Specific ---
+0.0.0.0 ngrok.com (major tool for local tunneling)
+0.0.0.0 ngrok.io
+0.0.0.0 localhost.run
+0.0.0.0 serveo.net
+0.0.0.0 tunnelblick.net
+0.0.0.0 packetriot.com
+0.0.0.0 bores.io
+0.0.0.0 localtonet.com

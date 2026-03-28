@@ -1,0 +1,46 @@
+# ============================================
+# Private & Anonymous Search Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major search engines that often bypass 
+# SafeSearch or provide anonymous browsing.
+# ============================================
+
+# --- Major Private Engines ---
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+0.0.0.0 ddg.gg
+0.0.0.0 startpage.com
+0.0.0.0 www.startpage.com
+0.0.0.0 brave.com/search
+0.0.0.0 search.brave.com
+0.0.0.0 quwant.com
+0.0.0.0 swisscows.com
+0.0.0.0 gibiru.com
+0.0.0.0 ecosia.org
+0.0.0.0 moaje.com
+0.0.0.0 metager.org
+0.0.0.0 search.lycos.com
+0.0.0.0 searx.me
+0.0.0.0 searxng.org
+
+# --- Foreign Search Engines (Bypass SafeSearch) ---
+0.0.0.0 yandex.com
+0.0.0.0 yandex.ru
+0.0.0.0 baidu.com
+0.0.0.0 naver.com
+0.0.0.0 sogou.com
+
+# --- Others ---
+0.0.0.0 dogpile.com
+0.0.0.0 excite.com
+0.0.0.0 ask.com
+0.0.0.0 gigablast.com
+0.0.0.0 aolsearch.com
+0.0.0.0 wolframalpha.com (moved to academic-cheating as well)
+0.0.0.0 archive.org (often used to see blocked sites, use with caution)
+0.0.0.0 wayback.org
+0.0.0.0 web.archive.org
+0.0.0.0 archive.is
+0.0.0.0 megalodon.jp

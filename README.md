@@ -2,8 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amnahwaida-181717?style=flat-square&logo=github)](https://github.com/amnahwaida/blocked-hostlist-pihole)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Hosts](https://img.shields.io/badge/Total_Domains-26%2C440-red?style=flat-square)]()
-[![Lists](https://img.shields.io/badge/Blocklists-38-blue?style=flat-square)]()
+[![Hosts](https://img.shields.io/badge/Total_Domains-26%2C606-red?style=flat-square)]()
+[![Lists](https://img.shields.io/badge/Blocklists-41-blue?style=flat-square)]()
 
 Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DNS sinkhole yang melindungi jaringan Anda dari iklan, tracking, malware, dan konten yang tidak diinginkan.
 
@@ -22,38 +22,41 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 5 | **cloud-storage** | Hosting File & Cloud (Mega, Mediafire, Dropbox, dll) | 24 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/cloud-storage) |
 | 6 | **cryptomining** | Mining pools & web miners | 37 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/cryptomining) |
 | 7 | **dating-apps** | Aplikasi kencan (Tantan, Tinder, Bumble, Grindr, dll) | 74 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/dating-apps) |
-| 8 | **editing-apps** | Tools editing online (Canva, CapCut, Photopea, Adobe) | 40 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/editing-apps) |
-| 9 | **facebook** | Facebook & layanan Meta | 89 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/facebook) |
-| 10 | **forums** | Forum diskusi (Kaskus, IDWS, Reddit, Quora) | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/forums) |
-| 11 | **gambling** | Situs judi & taruhan | 82 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gambling) |
-| 12 | **game-stores** | Storefront & Launcher (Steam, Epic, EA, Nintendo, dll) | 70 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/game-stores) |
-| 13 | **gaming** | Game mobile, PC, web & Platform (Global/US/EU) | 715 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gaming) |
-| 14 | **instagram** | Instagram & CDN terkait | 117 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/instagram) |
-| 15 | **malware-phishing** | Malware, Phishing, & Threat Intel Samples | 88 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/malware-phishing) |
-| 16 | **misused-apps** | Aplikasi rawan penyalahgunaan (Pinjol, Bigo, OmeTV, NGL) | 89 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/misused-apps) |
-| 17 | **music-streaming** | Streaming musik (Spotify, Apple Music, Joox) | 65 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/music-streaming) |
-| 18 | **news-weather** | Portal Berita & Cuaca (Global, ID, US, EU, JKC, ME) | 110 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/news-weather) |
-| 19 | **online-meetings** | Video Conference (Zoom, Teams, Google Meet, Webex) | 20 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/online-meetings) |
-| 20 | **porn** | Konten dewasa (18+) | 84 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/porn) |
-| 21 | **proxy-vpn** | VPN, Proxy, V2Ray, Xray, SSH (Lengkap) | 204 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/proxy-vpn) |
-| 22 | **public-dns** | DNS over HTTPS/TLS (Cegah bypass DNS) | 22 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/public-dns) |
-| 23 | **remote-control** | Remote Desktop (AnyDesk, TeamViewer, RustDesk, dll) | 47 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/remote-control) |
-| 24 | **shopping** | E-commerce & Belanja (Shopee, Tokopedia, Alibaba, Temu, dll) | 77 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/shopping) |
-| 25 | **short-video** | Video Pendek (SnackVideo, Likee, Kwai, dll) | 19 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/short-video) |
-| 26 | **signal** | Signal Messenger | 12 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/signal) |
-| 27 | **snapchat** | Snapchat & Bitmoji | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/snapchat) |
-| 28 | **social-media** | Semua Sosmed (LinkedIn, Telegram, Discord, Line, dll) | 7.185 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/social-media) |
-| 29 | **speed-test** | Tool cek kecepatan internet (Ookla, Fast, dll) | 21 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/speed-test) |
-| 30 | **tiktok** | TikTok & infrastruktur ByteDance | 6.668 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/tiktok) |
-| 31 | **torrent-p2p** | Torrent Trackers & P2P Client Sites | 24 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/torrent-p2p) |
-| 32 | **trading-crypto** | Trading crypto, binary, forex & saham | 122 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/trading-crypto) |
-| 33 | **twitter** | Twitter/X & layanan terkait | 49 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/twitter) |
-| 34 | **url-shortener** | Penyingkat URL (Bitly, TinyURL, S.id, t.co, dll) | 50 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/url-shortener) |
-| 35 | **video-streaming** | Streaming Film, Seri & Anime (Netflix, lk21, dll) | 90 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/video-streaming) |
-| 36 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
-| 37 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
-| 38 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
-| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **26.440** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
+| 8 | **dynamic-dns** | DDNS Providers & Tunneling (No-IP, DuckDNS, Ngrok) | 41 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/dynamic-dns) |
+| 9 | **editing-apps** | Tools editing online (Canva, CapCut, Photopea, Adobe) | 40 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/editing-apps) |
+| 10 | **facebook** | Facebook & layanan Meta | 89 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/facebook) |
+| 11 | **forums** | Forum diskusi (Kaskus, IDWS, Reddit, Quora) | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/forums) |
+| 12 | **gambling** | Situs judi & taruhan | 82 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gambling) |
+| 13 | **game-stores** | Storefront & Launcher (Steam, Epic, EA, Nintendo, dll) | 70 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/game-stores) |
+| 14 | **gaming** | Game mobile, PC, web & Platform (Global/US/EU) | 715 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/gaming) |
+| 15 | **instagram** | Instagram & CDN terkait | 117 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/instagram) |
+| 16 | **malware-phishing** | Malware, Phishing, & Threat Intel Samples | 88 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/malware-phishing) |
+| 17 | **misused-apps** | Aplikasi rawan penyalahgunaan (Pinjol, Bigo, OmeTV, NGL) | 89 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/misused-apps) |
+| 18 | **music-streaming** | Streaming musik (Spotify, Apple Music, Joox) | 65 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/music-streaming) |
+| 19 | **news-weather** | Portal Berita & Cuaca (Global, ID, US, EU, JKC, ME) | 110 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/news-weather) |
+| 20 | **online-meetings** | Video Conference (Zoom, Teams, Google Meet, Webex) | 20 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/online-meetings) |
+| 21 | **porn** | Konten dewasa (18+) — Massive Expansion | 148 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/porn) |
+| 22 | **private-search** | Mesin Pencari Anonim (DuckDuckGo, Startpage, dll) | 32 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/private-search) |
+| 23 | **proxy-vpn** | VPN, Proxy, V2Ray, Xray, SSH (Lengkap) | 204 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/proxy-vpn) |
+| 24 | **public-dns** | DNS over HTTPS/TLS (Cegah bypass DNS) | 22 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/public-dns) |
+| 25 | **remote-control** | Remote Desktop (AnyDesk, TeamViewer, RustDesk, dll) | 47 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/remote-control) |
+| 26 | **shopping** | E-commerce & Belanja (Shopee, Tokopedia, Alibaba, Temu, dll) | 77 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/shopping) |
+| 27 | **short-video** | Video Pendek (SnackVideo, Likee, Kwai, dll) | 19 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/short-video) |
+| 28 | **signal** | Signal Messenger | 12 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/signal) |
+| 29 | **snapchat** | Snapchat & Bitmoji | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/snapchat) |
+| 30 | **social-media** | Semua Sosmed (LinkedIn, Telegram, Discord, Line, dll) | 7.185 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/social-media) |
+| 31 | **software-updates** | Server Update OS (Windows, macOS, Linux repositories) | 46 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/software-updates) |
+| 32 | **speed-test** | Tool cek kecepatan internet (Ookla, Fast, dll) | 21 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/speed-test) |
+| 33 | **tiktok** | TikTok & infrastruktur ByteDance | 6.668 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/tiktok) |
+| 34 | **torrent-p2p** | Torrent Trackers & P2P Client Sites | 24 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/torrent-p2p) |
+| 35 | **trading-crypto** | Trading crypto, binary, forex & saham | 122 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/trading-crypto) |
+| 36 | **twitter** | Twitter/X & layanan terkait | 49 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/twitter) |
+| 37 | **url-shortener** | Penyingkat URL (Bitly, TinyURL, S.id, t.co, dll) | 50 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/url-shortener) |
+| 38 | **video-streaming** | Streaming Film, Seri & Anime (Netflix, lk21, dll) | 90 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/video-streaming) |
+| 39 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
+| 40 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
+| 41 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
+| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **26.606** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
 
 ---
 
@@ -174,10 +177,10 @@ Output contoh:
   ✅ instagram (117 entries)
 ============================================
 📊 Summary:
-   Files processed: 38
-   Total entries:   33685
-   Duplicates:      7245
-   Unique entries:  26440
+   Files processed: 41
+   Total entries:   33868
+   Duplicates:      7262
+   Unique entries:  26606
 ============================================
 ✨ Done!
 ```
@@ -212,7 +215,7 @@ ads-tracking + tiktok + instagram + facebook + social-media + twitter + gambling
 
 ### 🎓 Sekolah / Lab Komputer
 ```
-ads-tracking + ai + cryptomining + gaming + porn + gambling + tiktok + instagram + twitter + video-streaming + news-weather + chat-apps + torrent-p2p + proxy-vpn + url-shortener + academic-cheating + public-dns + speed-test
+ads-tracking + ai + cryptomining + gaming + porn + gambling + tiktok + instagram + twitter + video-streaming + news-weather + chat-apps + torrent-p2p + proxy-vpn + url-shortener + academic-cheating + public-dns + speed-test + software-updates + private-search + dynamic-dns
 ```
 
 ### 🔒 Keamanan Maksimal
