@@ -89,3 +89,67 @@
 0.0.0.0 notion.so/product/ai
 0.0.0.0 groq.com
 0.0.0.0 www.groq.com
+
+# --- Massive AI/LLM Expansion (Global) ---
+0.0.0.0 jasper.ai
+0.0.0.0 writesonic.com
+0.0.0.0 rytr.me
+0.0.0.0 anyword.com
+0.0.0.0 simplified.com
+0.0.0.0 wordtune.com
+0.0.0.0 gingersoftware.com
+0.0.0.0 hemingwayapp.com
+0.0.0.0 prowritingaid.com
+0.0.0.0 paperpal.com
+0.0.0.0 perplexity.ai
+0.0.0.0 poe.com
+0.0.0.0 character.ai
+0.0.0.0 betacharacter.ai
+0.0.0.0 deepseek.com
+0.0.0.0 chat.deepseek.com
+0.0.0.0 groq.com
+0.0.0.0 Together.ai
+0.0.0.0 replicate.com
+0.0.0.0 huggingface.co (major ML platform, block if needed)
+0.0.0.0 anthropic.com
+0.0.0.0 claude.ai
+0.0.0.0 gemini.google.com
+0.0.0.0 makersuite.google.com
+0.0.0.0 vertexai.google.com
+0.0.0.0 midjourney.com
+0.0.0.0 leonardo.ai
+0.0.0.0 canva.com/magic (canva is often needed, but has AI)
+0.0.0.0 runwayml.com
+0.0.0.0 pika.art
+0.0.0.0 synthesia.io
+0.0.0.0 heygen.com
+0.0.0.0 11labs.io
+0.0.0.0 elevenlabs.io
+0.0.0.0 speechify.com
+0.0.0.0 murf.ai
+0.0.0.0 play.ht
+
+# --- Smaller & Emerging AI ---
+0.0.0.0 copy.ai
+0.0.0.0 neuroflash.com
+0.0.0.0 fratase.io
+0.0.0.0 wordtune.com
+0.0.0.0 linguix.com
+0.0.0.0 languagetool.org (Grammar tool)
+0.0.0.0 slickwrite.com
+0.0.0.0 afterthedeadline.com
+0.0.0.0 whitetm.com
+0.0.0.0 plesk.com
+0.0.0.0 text-compare.com
+0.0.0.0 diffchecker.com
+0.0.0.0 copyleaks.com
+0.0.0.0 turnitin.com
+0.0.0.0 scribbr.com
+0.0.0.0 citationmachine.net
+0.0.0.0 easybib.com
+0.0.0.0 bibme.org
+0.0.0.0 refme.com
+0.0.0.0 menderey.com
+0.0.0.0 zotero.org
+0.0.0.0 endnote.com
+0.0.0.0 citethisforme.com

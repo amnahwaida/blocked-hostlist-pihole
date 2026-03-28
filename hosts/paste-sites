@@ -1,0 +1,44 @@
+# ============================================
+# Paste & Script Sharing Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major anonymous text/code sharing sites 
+# often used to distribute bypass configs/scripts.
+# ============================================
+
+# --- Major Paste Sites ---
+0.0.0.0 pastebin.com
+0.0.0.0 www.pastebin.com
+0.0.0.0 ghostbin.me
+0.0.0.0 hastebin.com
+0.0.0.0 justpaste.it
+0.0.0.0 paste.org
+0.0.0.0 paste.ee
+0.0.0.0 pasted.co
+0.0.0.0 paste.sh
+0.0.0.0 snippets.com
+0.0.0.0 upaste.me
+0.0.0.0 pastehub.net
+0.0.0.0 controlc.com
+0.0.0.0 tinypaste.com
+0.0.0.0 nopaste.com
+0.0.0.0 paste2.org
+0.0.0.0 pypaste.com
+0.0.0.0 privatebin.info
+0.0.0.0 pastebin.fi
+
+# --- Code Sharing (Careful if for dev) ---
+0.0.0.0 gist.github.com
+0.0.0.0 gist.githubusercontent.com
+0.0.0.0 codepen.io
+0.0.0.0 jsfiddle.net
+0.0.0.0 replit.com (major for student coding, block if needed)
+0.0.0.0 stackblitz.com
+0.0.0.0 codesandbox.io
+0.0.0.0 ideone.com
+0.0.0.0 jdoodle.com
+0.0.0.0 paiza.io
+0.0.0.0 onlinegdb.com
+0.0.0.0 programiz.com/cpp-programming/online-compiler
+0.0.0.0 tutorialspoint.com/execute_cpp_online.php

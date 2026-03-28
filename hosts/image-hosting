@@ -1,0 +1,52 @@
+# ============================================
+# Public Image Hosting Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major image hosting services to reduce 
+# bandwidth and distractions.
+# ============================================
+
+# --- Major Image Hosting ---
+0.0.0.0 imgur.com
+0.0.0.0 i.imgur.com
+0.0.0.0 postimg.cc
+0.0.0.0 postimages.org
+0.0.0.0 imgbb.com
+0.0.0.0 i.ibb.co
+0.0.0.0 imageshack.com
+0.0.0.0 tinypic.com
+0.0.0.0 photobucket.com
+0.0.0.0 slickpic.com
+0.0.0.0 500px.com
+0.0.0.0 flickr.com
+0.0.0.0 deviantart.com
+0.0.0.0 behance.net
+0.0.0.0 artstation.com
+0.0.0.0 unsplash.com
+0.0.0.0 pexels.com
+0.0.0.0 pixabay.com
+0.0.0.0 giphy.com
+0.0.0.0 gfycat.com
+0.0.0.0 tenor.com
+
+# --- Others ---
+0.0.0.0 klimg.com
+0.0.0.0 brilio.net/foto (specific gallery)
+0.0.0.0 imagebam.com
+0.0.0.0 imagevenue.com
+0.0.0.0 picresize.com
+0.0.0.0 remove.bg
+0.0.0.0 iloveimg.com
+0.0.0.0 ezgif.com
+0.0.0.0 imgflip.com
+0.0.0.0 kapwing.com
+0.0.0.0 memegenerator.net
+
+# --- Screensnapping ---
+0.0.0.0 prntscr.com
+0.0.0.0 prnt.sc
+0.0.0.0 lightshot.com
+0.0.0.0 gyazo.com
+0.0.0.0 droplr.com
+0.0.0.0 loom.com (video snapping)
