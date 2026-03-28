@@ -62,3 +62,54 @@
 0.0.0.0 ouo.io
 0.0.0.0 bc.vc
 0.0.0.0 tiny.pl
+
+# ==========================================
+# MASSIVE EXPANSION URL SHORTENERS & MALWARE
+# ==========================================
+
+# --- Additional URL Shorteners ---
+0.0.0.0 bit.ly
+0.0.0.0 goo.gl
+0.0.0.0 t.co (X/Twitter shortener)
+0.0.0.0 tinyurl.com
+0.0.0.0 ow.ly
+0.0.0.0 is.gd
+0.0.0.0 buff.ly
+0.0.0.0 adf.ly
+0.0.0.0 bit.do
+0.0.0.0 mcaf.ee
+0.0.0.0 su.pr
+0.0.0.0 lnkd.in (LinkedIn shortener)
+0.0.0.0 db.tt (Dropbox shortener)
+0.0.0.0 qr.ae (Quora shortener)
+0.0.0.0 adr.as
+0.0.0.0 shorte.st
+0.0.0.0 ouo.io
+0.0.0.0 linkvertise.com
+0.0.0.0 adpay.com
+0.0.0.0 linkstaker.com
+0.0.0.0 linkshort.net
+0.0.0.0 cuty.io
+0.0.0.0 exe.io
+0.0.0.0 zan.io
+0.0.0.0 shtn.io
+0.0.0.0 cut-urls.com
+0.0.0.0 clk.sh
+0.0.0.0 shrinks.io
+0.0.0.0 shrtfly.com
+0.0.0.0 fc.lc
+0.0.0.0 shrinkme.io
+0.0.0.0 shorturllit.com
+0.0.0.0 bitly.com
+0.0.0.0 bl.ink
+0.0.0.0 rebrand.ly
+0.0.0.0 t2mio.com
+0.0.0.0 b.link
+0.0.0.0 s.id (Indonesian shortener)
+0.0.0.0 home.id
+0.0.0.0 g.id
+0.0.0.0 ly.co
+0.0.0.0 t.me (Telegram shortener - already in chat, adding here)
+0.0.0.0 wa.me (WhatsApp shortener)
+0.0.0.0 l.instagram.com
+0.0.0.0 bit.ly.id

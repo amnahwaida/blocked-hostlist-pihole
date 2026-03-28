@@ -1,0 +1,42 @@
+# ============================================
+# AI Image & Art Generators Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major AI image generation platforms 
+# which consume high bandwidth and GPU resources.
+# ============================================
+
+# --- Major Image/Art Generators ---
+0.0.0.0 midjourney.com
+0.0.0.0 discord.com/invite/midjourney (handled by discord, but noting)
+0.0.0.0 leonardo.ai
+0.0.0.0 app.leonardo.ai
+0.0.0.0 lexica.art
+0.0.0.0 civitai.com
+0.0.0.0 dreamstudio.ai
+0.0.0.0 stablediffusionweb.com
+0.0.0.0 craiyon.com
+0.0.0.0 firefly.adobe.com
+0.0.0.0 playgroundai.com
+0.0.0.0 nightcafe.studio
+0.0.0.0 bluewillow.ai
+0.0.0.0 artbreeder.com
+0.0.0.0 wombo.art
+0.0.0.0 deepdreamgenerator.com
+0.0.0.0 fotor.com/features/ai-image-generator
+0.0.0.0 canva.com/ai (often in canva infrastructure)
+0.0.0.0 bing.com/images/create (Microsoft Designer)
+0.0.0.0 starryai.com
+0.0.0.0 pickwish.com
+0.0.0.0 cutout.pro
+0.0.0.0 photoroom.com
+0.0.0.0 krea.ai
+0.0.0.0 pika.art
+0.0.0.0 luma.ai
+0.0.0.0 runwayml.com
+0.0.0.0 kaiber.ai
+0.0.0.0 sora.com (OpenAI Sora)
+0.0.0.0 clipdrop.co
+0.0.0.0 getimg.ai
+0.0.0.0 adobe.com/firefly
