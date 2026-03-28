@@ -39,6 +39,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
 #   - facebook        : Facebook & Meta services
+#   - forums          : Discussion boards (Reddit, Kaskus, Quora)
 #   - gambling        : Gambling & betting sites
 #   - gaming          : Mobile, PC & web games
 #   - instagram       : Instagram

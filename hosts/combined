@@ -11,6 +11,7 @@
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
 #   - facebook        : Facebook & Meta services
+#   - forums          : Discussion boards (Reddit, Kaskus, Quora)
 #   - gambling        : Gambling & betting sites
 #   - gaming          : Mobile, PC & web games
 #   - instagram       : Instagram
@@ -26,7 +27,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:03:32 UTC
+# Generated: 2026-03-28 22:05:35 UTC
 # ============================================
 
 
@@ -37,6 +38,8 @@
 # --- dating-apps ---
 
 # --- facebook ---
+
+# --- forums ---
 
 # --- gambling ---
 
@@ -108,6 +111,8 @@
 0.0.0.0 47.252.102.50
 0.0.0.0 47.252.50.101
 0.0.0.0 47.252.50.157
+0.0.0.0 4channel.org
+0.0.0.0 4chan.org
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5412ac7a44c679ea291e43368cac45de.byteoversea.com
 0.0.0.0 5-edge-chat.facebook.com
@@ -244,6 +249,7 @@
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 ads.facebook.com
 0.0.0.0 adshare.toutiao.com
+0.0.0.0 ads.id
 0.0.0.0 ads-imapi.tiktok.com
 0.0.0.0 adsinsightslab.tiktok.com
 0.0.0.0 ads-service.tiktok.com
@@ -1156,6 +1162,8 @@
 0.0.0.0 bms.bytedance.com
 0.0.0.0 bnetcmsus-a.akamaihd.net
 0.0.0.0 bnetproduct-a.akamaihd.net
+0.0.0.0 boards.4channel.org
+0.0.0.0 boards.4chan.org
 0.0.0.0 boe-bcy.byted.org
 0.0.0.0 boe-gateway.byted.org
 0.0.0.0 boe-gglmind.bytedance.com
@@ -1822,6 +1830,7 @@
 0.0.0.0 financial-stock-web.snssdk.com
 0.0.0.0 fin.bytedance.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 fjb.kaskus.co.id
 0.0.0.0 f.l.bytedns.net
 0.0.0.0 flea.bytedance.com
 0.0.0.0 flickr.com
@@ -1834,7 +1843,10 @@
 0.0.0.0 fortune-hl.snssdk.com
 0.0.0.0 fortune.snssdk.com
 0.0.0.0 fortune.snssdk.com.w.kunluncan.com
+0.0.0.0 forum.ads.id
+0.0.0.0 forum.idws.id
 0.0.0.0 forum.microapp.bytedance.com
+0.0.0.0 forum.xda-developers.com
 0.0.0.0 f-pay-rp.snssdk.com
 0.0.0.0 f-p-sandbox.snssdk.com
 0.0.0.0 f-p-va.isnssdk.com
@@ -1881,6 +1893,7 @@
 0.0.0.0 gameauth.pubgmobile.com
 0.0.0.0 game-cdn.poki.com
 0.0.0.0 game.clashofclans.com
+0.0.0.0 gamefaqs.gamespot.com
 0.0.0.0 gameflare.com
 0.0.0.0 gameflow.bytedance.com
 0.0.0.0 gamejolt.com
@@ -2089,6 +2102,7 @@
 0.0.0.0 grelationship-sg.snssdk.com
 0.0.0.0 grindr.com
 0.0.0.0 groq.com
+0.0.0.0 groups.google.com
 0.0.0.0 groups.roblox.com
 0.0.0.0 gsdk-build.bytedance.com
 0.0.0.0 gsdk.sgsnssdk.com
@@ -2311,6 +2325,7 @@
 0.0.0.0 i22-tb-quic.sgsnssdk.com
 0.0.0.0 i2.pstatp.com
 0.0.0.0 i3.pstatp.com
+0.0.0.0 i.4cdn.org
 0.0.0.0 i4.pstatp.com
 0.0.0.0 i5.pstatp.com
 0.0.0.0 i6.pstatp.com
@@ -2361,6 +2376,7 @@
 0.0.0.0 id.quora.com
 0.0.0.0 id.snssdk.com
 0.0.0.0 id.supercell.com
+0.0.0.0 idws.id
 0.0.0.0 iesdouyin.com
 0.0.0.0 iesios.byted.org
 0.0.0.0 ie.snssdk.com
@@ -2458,6 +2474,7 @@
 0.0.0.0 index.bytedance.com
 0.0.0.0 index.toutiao.com
 0.0.0.0 indodax.com
+0.0.0.0 indowebster.com
 0.0.0.0 infobip.service.tiktok.com
 0.0.0.0 info.bytedance.com
 0.0.0.0 inf-portal-boe.byted.org
@@ -2551,6 +2568,7 @@
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 i.redd.it
 0.0.0.0 is1-ipv6.snssdk.com
+0.0.0.0 is2.4chan.org
 0.0.0.0 is3-hl.snssdk.com
 0.0.0.0 is3-ipv6.snssdk.com
 0.0.0.0 is3-lf.snssdk.com
@@ -2755,6 +2773,8 @@
 0.0.0.0 just-test.byteoversea.com
 0.0.0.0 k2-dy-ml.gslb.ksyuncdn.com
 0.0.0.0 k8s.byted.org
+0.0.0.0 kaskus.co.id
+0.0.0.0 kaskus.tv
 0.0.0.0 kds.bytedance.com
 0.0.0.0 kds-mva.bytedance.com
 0.0.0.0 kds-mva.byteoversea.com
@@ -3328,6 +3348,7 @@
 0.0.0.0 mistral.ai
 0.0.0.0 mixpanel.com
 0.0.0.0 m.ixugua.com
+0.0.0.0 m.kaskus.co.id
 0.0.0.0 mlab.toutiao.com
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
@@ -3614,6 +3635,7 @@
 0.0.0.0 nb.byted.org
 0.0.0.0 n.byteoversea.com
 0.0.0.0 neihanshequ.com
+0.0.0.0 neogaf.com
 0.0.0.0 netarch.bytedance.com
 0.0.0.0 neteasegames.com
 0.0.0.0 new1-maliva-normal-lb.byteoversea.net
@@ -21918,6 +21940,7 @@
 0.0.0.0 res01.musical.ly
 0.0.0.0 res01.musical.ly.akadns.net
 0.0.0.0 research.facebook.com
+0.0.0.0 resetera.com
 0.0.0.0 resource.muscdn.com
 0.0.0.0 resources.download.minecraft.net
 0.0.0.0 resource.snssdk.com
@@ -22778,6 +22801,7 @@
 0.0.0.0 sites.google.com/site/unblockedgames77
 0.0.0.0 sites.google.com/site/yourfreeonlinegames
 0.0.0.0 sitestream.twitter.com
+0.0.0.0 s.kaskus.id
 0.0.0.0 skribbl.io
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slide.toutiao.com
@@ -24713,11 +24737,14 @@
 0.0.0.0 www.1v1.lol
 0.0.0.0 www.1xbet.com
 0.0.0.0 www.22bet.com
+0.0.0.0 www.4channel.org
+0.0.0.0 www.4chan.org
 0.0.0.0 www.888.com
 0.0.0.0 www.9gag.com
 0.0.0.0 www.activision.com
 0.0.0.0 www.addictinggames.com
 0.0.0.0 www.adf.ly
+0.0.0.0 www.ads.id
 0.0.0.0 www.ajaib.co.id
 0.0.0.0 www.amemv.com
 0.0.0.0 www.amemv.com.w.kunluncan.com
@@ -24835,11 +24862,13 @@
 0.0.0.0 www.ibcbet.com
 0.0.0.0 www.ibytedtos.com
 0.0.0.0 www.icmarkets.com
+0.0.0.0 www.idws.id
 0.0.0.0 www.iesdouyin.com
 0.0.0.0 www.ig.com
 0.0.0.0 www.ign.com
 0.0.0.0 www.imgur.com
 0.0.0.0 www.indodax.com
+0.0.0.0 www.indowebster.com
 0.0.0.0 www.instaforex.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.investing.com
@@ -24853,6 +24882,7 @@
 0.0.0.0 www.jackpotcity.com
 0.0.0.0 www.jackpot.com
 0.0.0.0 www.joox.com
+0.0.0.0 www.kaskus.co.id
 0.0.0.0 www.kick.com
 0.0.0.0 www.king.com
 0.0.0.0 www.kizi.com
@@ -24896,6 +24926,7 @@
 0.0.0.0 www.musical.ly
 0.0.0.0 www.myfreecams.com
 0.0.0.0 www.naughtyamerica.com
+0.0.0.0 www.neogaf.com
 0.0.0.0 www.neteasegames.com
 0.0.0.0 www.newgrounds.com
 0.0.0.0 www.nexon.com
@@ -24951,6 +24982,7 @@
 0.0.0.0 www.redditstatic.com
 0.0.0.0 www.redtube.com
 0.0.0.0 www.rekeningku.com
+0.0.0.0 www.resetera.com
 0.0.0.0 www.resso.com
 0.0.0.0 www.riotgames.com
 0.0.0.0 www.rizk.com
@@ -25028,6 +25060,7 @@
 0.0.0.0 www.xbox.com
 0.0.0.0 www.xboxlive.com
 0.0.0.0 www.x.com
+0.0.0.0 www.xda-developers.com
 0.0.0.0 www.xhamster.com
 0.0.0.0 www.xm.com
 0.0.0.0 www.xnxx.com
@@ -25046,6 +25079,7 @@
 0.0.0.0 xbox-ecn.vo.msecnd.net
 0.0.0.0 xboxlive.com
 0.0.0.0 x.com
+0.0.0.0 xda-developers.com
 0.0.0.0 xdevice-api.tiktokv.com
 0.0.0.0 xd.snssdk.com
 0.0.0.0 xd.snssdk.com.w.kunluncan.com

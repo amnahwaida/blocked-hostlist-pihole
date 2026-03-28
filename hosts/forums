@@ -1,0 +1,87 @@
+# ============================================
+# Forums & Discussions Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major global and Indonesian discussion
+# boards, communities, and forums.
+# ============================================
+
+# ==========================================
+# GLOBAL FORUMS & COMMUNITIES
+# ==========================================
+
+# --- Reddit ---
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 out.reddit.com
+0.0.0.0 ssl.reddit.com
+0.0.0.0 api.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 v.redd.it
+0.0.0.0 i.redd.it
+0.0.0.0 e.reddit.com
+0.0.0.0 redditinc.com
+0.0.0.0 redditmail.com
+0.0.0.0 redditstatic.com
+0.0.0.0 www.redditstatic.com
+0.0.0.0 redditmedia.com
+
+# --- Quora ---
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+0.0.0.0 id.quora.com
+0.0.0.0 qr.ae
+0.0.0.0 quoracdn.net
+0.0.0.0 qsf.ec.quoracdn.net
+
+# --- 4chan ---
+0.0.0.0 4chan.org
+0.0.0.0 www.4chan.org
+0.0.0.0 boards.4chan.org
+0.0.0.0 4channel.org
+0.0.0.0 www.4channel.org
+0.0.0.0 boards.4channel.org
+0.0.0.0 i.4cdn.org
+0.0.0.0 is2.4chan.org
+
+# --- ResetEra & NeoGAF ---
+0.0.0.0 resetera.com
+0.0.0.0 www.resetera.com
+0.0.0.0 neogaf.com
+0.0.0.0 www.neogaf.com
+
+# --- GameFAQs & XDA ---
+0.0.0.0 gamefaqs.gamespot.com
+0.0.0.0 xda-developers.com
+0.0.0.0 forum.xda-developers.com
+0.0.0.0 www.xda-developers.com
+
+# --- Google Groups ---
+0.0.0.0 groups.google.com
+
+# ==========================================
+# INDONESIAN FORUMS
+# ==========================================
+
+# --- Kaskus ---
+0.0.0.0 kaskus.co.id
+0.0.0.0 www.kaskus.co.id
+0.0.0.0 m.kaskus.co.id
+0.0.0.0 fjb.kaskus.co.id
+0.0.0.0 s.kaskus.id
+0.0.0.0 kaskus.tv
+
+# --- Indowebster (IDWS) ---
+0.0.0.0 indowebster.com
+0.0.0.0 www.indowebster.com
+0.0.0.0 idws.id
+0.0.0.0 www.idws.id
+0.0.0.0 forum.idws.id
+
+# --- Ads.id ---
+0.0.0.0 ads.id
+0.0.0.0 www.ads.id
+0.0.0.0 forum.ads.id
