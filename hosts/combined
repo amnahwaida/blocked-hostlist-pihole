@@ -16,6 +16,7 @@
 #   - gaming          : Mobile, PC & web games
 #   - instagram       : Instagram
 #   - malware-phishing: Malware & security threats
+#   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
 #   - snapchat        : Snapchat
@@ -27,7 +28,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:05:35 UTC
+# Generated: 2026-03-28 22:07:07 UTC
 # ============================================
 
 
@@ -48,6 +49,8 @@
 # --- instagram ---
 
 # --- malware-phishing ---
+
+# --- misused-apps ---
 
 # --- music-streaming ---
 
@@ -93,6 +96,8 @@
 0.0.0.0 1810366965.rsc.cdn77.org
 0.0.0.0 189.cn
 0.0.0.0 1925505597.rsc.cdn77.org
+0.0.0.0 19love.me
+0.0.0.0 19love.tv
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1uipkgq.mzfvozqybf.com
 0.0.0.0 1v1.lol
@@ -823,8 +828,10 @@
 0.0.0.0 api.amemv.com.xi.zwtianshangm.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.anthropic.com
+0.0.0.0 api.azarlive.com
 0.0.0.0 api-bee.amemv.com
 0.0.0.0 api-bee-hl.amemv.com
+0.0.0.0 api.bigo.tv
 0.0.0.0 api.binance.com
 0.0.0.0 api.bitmoji.com
 0.0.0.0 api-boot.tiktokv.com
@@ -879,6 +886,7 @@
 0.0.0.0 api-mo.snssdk.com
 0.0.0.0 api-m.tiktok.com
 0.0.0.0 api.musical.ly
+0.0.0.0 api.ngl.link
 0.0.0.0 api.okcupid.com
 0.0.0.0 api.openai.com
 0.0.0.0 api-os-takumi.mihoyo.com
@@ -944,6 +952,7 @@
 0.0.0.0 api-t3.tiktokv.com.cdn.cloudflare.net
 0.0.0.0 api.tantanapp.com
 0.0.0.0 api.telegram.org
+0.0.0.0 api.tellonym.me
 0.0.0.0 api-test-pcs.snssdk.com
 0.0.0.0 api.tidal.com
 0.0.0.0 api.tidalhifi.com
@@ -1011,6 +1020,7 @@
 0.0.0.0 artists.tiktok.com
 0.0.0.0 artist.tiktok.com
 0.0.0.0 a.sgpstatp.com
+0.0.0.0 ask.fm
 0.0.0.0 asset.bytedance.com
 0.0.0.0 assets.tumblr.com
 0.0.0.0 assets.xbox.com
@@ -1082,6 +1092,7 @@
 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 awssg.l.byteoversea.net
 0.0.0.0 ayrex.com
+0.0.0.0 azarlive.com
 0.0.0.0 b6morlb.qfyf1toi.com
 0.0.0.0 badge-cn.bytedance.com
 0.0.0.0 badge.facebook.com
@@ -1130,6 +1141,8 @@
 0.0.0.0 bic.bytedance.com
 0.0.0.0 bic.snssdk.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bigolive.tv
+0.0.0.0 bigo.tv
 0.0.0.0 b.i.instagram.com
 0.0.0.0 binance.com
 0.0.0.0 binance.info
@@ -1151,6 +1164,8 @@
 0.0.0.0 blackbox.ai
 0.0.0.0 black.ish.instagram.com
 0.0.0.0 b.l.bytedns.net
+0.0.0.0 bling2.com
+0.0.0.0 bling2.tv
 0.0.0.0 blizzard.com
 0.0.0.0 blog.facebook.com
 0.0.0.0 blog.trending.tiktok.com
@@ -1178,6 +1193,7 @@
 0.0.0.0 book.snssdk.com
 0.0.0.0 book.snssdk.com.w.kunluncan.com
 0.0.0.0 boombeach.com
+0.0.0.0 boomlive.tv
 0.0.0.0 bos.bytegeo.akadns.net
 0.0.0.0 bowland.bytedance.com
 0.0.0.0 branch.io
@@ -1201,6 +1217,7 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 buildroyale.io
 0.0.0.0 bumble.com
+0.0.0.0 bunnylive.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 business.bytedance.com
 0.0.0.0 business.facebook.com
@@ -1251,6 +1268,7 @@
 0.0.0.0 calender.snssdk.com
 0.0.0.0 callofduty.com
 0.0.0.0 cam4.com
+0.0.0.0 camify.com
 0.0.0.0 campaign19-normal-useast5.us.tiktokv.com
 0.0.0.0 canary.discord.com
 0.0.0.0 candycrushsaga.com
@@ -1349,8 +1367,11 @@
 0.0.0.0 chaos-boe.byted.org
 0.0.0.0 character.ai
 0.0.0.0 chatgpt.com
+0.0.0.0 chathub.cam
 0.0.0.0 chat.openai.com
 0.0.0.0 chatpdf.com
+0.0.0.0 chatrandom.com
+0.0.0.0 chatroulette.com
 0.0.0.0 chaturbate.com
 0.0.0.0 checkout.gog.com
 0.0.0.0 checkout.steampowered.com
@@ -1447,6 +1468,8 @@
 0.0.0.0 css.rbxcdn.com
 0.0.0.0 csv.supercell.com
 0.0.0.0 cuotiben.bytedance.com
+0.0.0.0 curiouscat.live
+0.0.0.0 curiouscat.me
 0.0.0.0 cv-api.bytedance.com
 0.0.0.0 cv-tob.bytedance.com
 0.0.0.0 c.worldfcdn.com
@@ -1601,6 +1624,10 @@
 0.0.0.0 docs-frontier.snssdk.com
 0.0.0.0 doc.toutiao.com
 0.0.0.0 doh.byteoversea.com
+0.0.0.0 dood.re
+0.0.0.0 doodstream.com
+0.0.0.0 dood.to
+0.0.0.0 dood.watch
 0.0.0.0 dora-us.bytedance.com
 0.0.0.0 doubleclick.net
 0.0.0.0 douyinact.com
@@ -1618,6 +1645,7 @@
 0.0.0.0 dpprofile.snssdk.com.w.kunluncan.com
 0.0.0.0 d.pstatp.com
 0.0.0.0 draftkings.com
+0.0.0.0 dreamlive.tv
 0.0.0.0 drop-black-hole.snssdk.com
 0.0.0.0 drop-l-aweme-hl.snssdk.com
 0.0.0.0 drop-l-aweme-lf.snssdk.com
@@ -1822,6 +1850,7 @@
 0.0.0.0 feelinsonice.com
 0.0.0.0 feelinsonice-hrd.appspot.com
 0.0.0.0 feishu-tos.pstatp.com
+0.0.0.0 fembed.com
 0.0.0.0 ff.garena.co.id
 0.0.0.0 ff.garena.com
 0.0.0.0 fgbfchedbbb.temp.p23.tc.cdntip.com
@@ -1858,6 +1887,7 @@
 0.0.0.0 freeflow-edgeac.bytedance.com
 0.0.0.0 friends-public-service-prod06.ol.epicgames.com
 0.0.0.0 friv.com
+0.0.0.0 front1.omegle.com
 0.0.0.0 frontier16-normal-no1a.tiktokv.eu
 0.0.0.0 frontier-aweme-hl.snssdk.com
 0.0.0.0 frontier-aweme.snssdk.com
@@ -2080,6 +2110,7 @@
 0.0.0.0 gms-api.bytedance.com
 0.0.0.0 gms-ns.byteoversea.com
 0.0.0.0 gog.com
+0.0.0.0 gogolive.com
 0.0.0.0 gongyi.bytedance.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -3257,6 +3288,8 @@
 0.0.0.0 maliva-normal-lb-useast2a.byteoversea.net
 0.0.0.0 malware-traffic-analysis.net
 0.0.0.0 mamba.ru
+0.0.0.0 mangolive.com
+0.0.0.0 mangolive.net
 0.0.0.0 manifest.googlevideo.com
 0.0.0.0 map.bytedance.com
 0.0.0.0 maplestory.nexon.com
@@ -3268,6 +3301,7 @@
 0.0.0.0 market.toutiao.com
 0.0.0.0 match.com
 0.0.0.0 match.okcupid.com
+0.0.0.0 matoklive.com
 0.0.0.0 maxbet.com
 0.0.0.0 mbasic.facebook.com
 0.0.0.0 m.bytedance.com
@@ -3350,6 +3384,8 @@
 0.0.0.0 m.ixugua.com
 0.0.0.0 m.kaskus.co.id
 0.0.0.0 mlab.toutiao.com
+0.0.0.0 mlive.la
+0.0.0.0 mliveu.com
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
 0.0.0.0 m.mobilelegends.com
@@ -3646,6 +3682,7 @@
 0.0.0.0 nexon.com
 0.0.0.0 nexon.net
 0.0.0.0 ngcc.bytedance.com
+0.0.0.0 ngl.link
 0.0.0.0 nhentai.net
 0.0.0.0 nianticlabs.com
 0.0.0.0 nintendo.co.id
@@ -3818,6 +3855,9 @@
 0.0.0.0 okx.com
 0.0.0.0 old.reddit.com
 0.0.0.0 olymptrade.com
+0.0.0.0 omegle.com
+0.0.0.0 ome.tv
+0.0.0.0 ometv.chat
 0.0.0.0 omi.sg
 0.0.0.0 onboard.bytedance.com
 0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
@@ -22461,6 +22501,7 @@
 0.0.0.0 sas.bytedance.com
 0.0.0.0 saveu.tiktokv.com
 0.0.0.0 sayhi.com
+0.0.0.0 sbembed.com
 0.0.0.0 sbobet.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 s.bytetcdn.com
@@ -22539,6 +22580,7 @@
 0.0.0.0 search.snssdk.com
 0.0.0.0 search.tiktokv.com
 0.0.0.0 search.tiktokv.com.edgekey.net
+0.0.0.0 secreto.site
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.facebook.com
 0.0.0.0 secure.instagram.com
@@ -22967,11 +23009,13 @@
 0.0.0.0 s.toutiao.com
 0.0.0.0 streamingaudio.itunes.apple.com
 0.0.0.0 streaming-graph.facebook.com
+0.0.0.0 streamsb.com
 0.0.0.0 stream.snssdk.com
 0.0.0.0 stream.twitter.com
 0.0.0.0 stripchat.com
 0.0.0.0 studio.twitter.com
 0.0.0.0 studio.youtube.com
+0.0.0.0 sugarlive.co.id
 0.0.0.0 suggestions.tiktok.com
 0.0.0.0 summon.bytedance.com
 0.0.0.0 sun9-1.userapi.com
@@ -23042,6 +23086,7 @@
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 tellapart.com
+0.0.0.0 tellonym.me
 0.0.0.0 temai.snssdk.com
 0.0.0.0 temai.snssdk.com.bytedns.net
 0.0.0.0 temai.toutiao.com
@@ -24751,7 +24796,9 @@
 0.0.0.0 www.anthropic.com
 0.0.0.0 www.applovin.com
 0.0.0.0 www.armorgames.com
+0.0.0.0 www.ask.fm
 0.0.0.0 www.authedmine.com
+0.0.0.0 www.azarlive.com
 0.0.0.0 www.badoo.com
 0.0.0.0 www.bangbros.com
 0.0.0.0 www.battlefield.com
@@ -24762,6 +24809,7 @@
 0.0.0.0 www.betonline.ag
 0.0.0.0 www.betsson.com
 0.0.0.0 www.betway.com
+0.0.0.0 www.bigo.tv
 0.0.0.0 www.binance.com
 0.0.0.0 www.binary.com
 0.0.0.0 www.binomo.com
@@ -24769,6 +24817,7 @@
 0.0.0.0 www.bitget.com
 0.0.0.0 www.bitmoji.com
 0.0.0.0 www.bitstamp.net
+0.0.0.0 www.bling2.com
 0.0.0.0 www.blizzard.com
 0.0.0.0 www.blued.com
 0.0.0.0 www.bola88.com
@@ -24789,6 +24838,8 @@
 0.0.0.0 www.casumo.com
 0.0.0.0 www.character.ai
 0.0.0.0 www.chatgpt.com
+0.0.0.0 www.chatrandom.com
+0.0.0.0 www.chatroulette.com
 0.0.0.0 www.chaturbate.com
 0.0.0.0 www.civitai.com
 0.0.0.0 www.clashofclans.com
@@ -24813,6 +24864,7 @@
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.douyin.com
 0.0.0.0 www.draftkings.com
+0.0.0.0 www.dreamlive.tv
 0.0.0.0 www.drtuber.com
 0.0.0.0 www.e621.net
 0.0.0.0 www.ea.com
@@ -24842,6 +24894,7 @@
 0.0.0.0 www.gelbooru.com
 0.0.0.0 www.gemini.com
 0.0.0.0 www.gog.com
+0.0.0.0 www.gogolive.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
@@ -24902,8 +24955,10 @@
 0.0.0.0 www.lottoland.com
 0.0.0.0 www.luno.com
 0.0.0.0 www.mamba.ru
+0.0.0.0 www.mangolive.net
 0.0.0.0 www.marathonbet.com
 0.0.0.0 www.match.com
+0.0.0.0 www.matoklive.com
 0.0.0.0 www.maxbet.com
 0.0.0.0 www.medium.com
 0.0.0.0 www.metatrader4.com
@@ -24915,6 +24970,7 @@
 0.0.0.0 www.mihoyo.com
 0.0.0.0 www.minecraft.net
 0.0.0.0 www.miniclip.com
+0.0.0.0 www.mlive.la
 0.0.0.0 www.mobilelegends.com
 0.0.0.0 www.mofos.com
 0.0.0.0 www.mojang.com
@@ -24930,6 +24986,7 @@
 0.0.0.0 www.neteasegames.com
 0.0.0.0 www.newgrounds.com
 0.0.0.0 www.nexon.com
+0.0.0.0 www.ngl.link
 0.0.0.0 www.nhentai.net
 0.0.0.0 www.nianticlabs.com
 0.0.0.0 www.nintendo.co.id
@@ -24939,6 +24996,8 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.okx.com
 0.0.0.0 www.olymptrade.com
+0.0.0.0 www.omegle.com
+0.0.0.0 www.ome.tv
 0.0.0.0 www.omi.sg
 0.0.0.0 www.onlyfans.com
 0.0.0.0 www.openai.com
@@ -24993,6 +25052,7 @@
 0.0.0.0 www.runwayml.com
 0.0.0.0 www.sayhi.com
 0.0.0.0 www.sbobet.com
+0.0.0.0 www.secreto.site
 0.0.0.0 www.sgsnssdk.com
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.snapchat.com
@@ -25006,12 +25066,14 @@
 0.0.0.0 www.steamcommunity.com
 0.0.0.0 www.steampowered.com
 0.0.0.0 www.stripchat.com
+0.0.0.0 www.sugarlive.co.id
 0.0.0.0 www.sunporno.com
 0.0.0.0 www.supercell.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tagged.com
 0.0.0.0 www.tantanapp.com
 0.0.0.0 www.telegram.org
+0.0.0.0 www.tellonym.me
 0.0.0.0 www.tencentgames.com
 0.0.0.0 www.thelotter.com
 0.0.0.0 www.threads.net

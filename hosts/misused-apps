@@ -1,0 +1,121 @@
+# ============================================
+# Misused & High-Risk Apps Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks applications commonly misused for negative
+# activities (Adult Live Streaming, Anonymous Q&A 
+# used for cyberbullying, random video chats).
+# ============================================
+
+# ==========================================
+# UNREGULATED / ADULT LIVE STREAMING
+# ==========================================
+
+# --- Bigo Live ---
+0.0.0.0 bigolive.tv
+0.0.0.0 bigo.tv
+0.0.0.0 www.bigo.tv
+0.0.0.0 api.bigo.tv
+
+# --- MLive / MLiveU ---
+0.0.0.0 mlive.la
+0.0.0.0 www.mlive.la
+0.0.0.0 mliveu.com
+
+# --- Mango Live ---
+0.0.0.0 mangolive.net
+0.0.0.0 www.mangolive.net
+0.0.0.0 mangolive.com
+
+# --- Bling2 Live ---
+0.0.0.0 bling2.com
+0.0.0.0 bling2.tv
+0.0.0.0 www.bling2.com
+
+# --- Gogo Live ---
+0.0.0.0 gogolive.com
+0.0.0.0 www.gogolive.com
+
+# --- Dream Live ---
+0.0.0.0 dreamlive.tv
+0.0.0.0 www.dreamlive.tv
+
+# --- SugarLive ---
+0.0.0.0 sugarlive.co.id
+0.0.0.0 www.sugarlive.co.id
+
+# --- Matok Live & 19Love ---
+0.0.0.0 matoklive.com
+0.0.0.0 www.matoklive.com
+0.0.0.0 19love.tv
+0.0.0.0 19love.me
+
+# --- Boom Live & Bunny Live ---
+0.0.0.0 boomlive.tv
+0.0.0.0 bunnylive.com
+
+# ==========================================
+# RANDOM VIDEO CHAT (Often misused)
+# ==========================================
+
+# --- OmeTV ---
+0.0.0.0 ome.tv
+0.0.0.0 www.ome.tv
+0.0.0.0 ometv.chat
+
+# --- Omegle (Legacy) ---
+0.0.0.0 omegle.com
+0.0.0.0 www.omegle.com
+0.0.0.0 front1.omegle.com
+
+# --- Chatroulette & ChatRandom ---
+0.0.0.0 chatroulette.com
+0.0.0.0 www.chatroulette.com
+0.0.0.0 chatrandom.com
+0.0.0.0 www.chatrandom.com
+0.0.0.0 camify.com
+0.0.0.0 chathub.cam
+
+# --- Azar ---
+0.0.0.0 azarlive.com
+0.0.0.0 www.azarlive.com
+0.0.0.0 api.azarlive.com
+
+# ==========================================
+# ANONYMOUS Q&A / CYBERBULLYING RISKS
+# ==========================================
+
+# --- NGL ---
+0.0.0.0 ngl.link
+0.0.0.0 www.ngl.link
+0.0.0.0 api.ngl.link
+
+# --- Secreto ---
+0.0.0.0 secreto.site
+0.0.0.0 www.secreto.site
+
+# --- Tellonym ---
+0.0.0.0 tellonym.me
+0.0.0.0 www.tellonym.me
+0.0.0.0 api.tellonym.me
+
+# --- CuriousCat & Ask.fm ---
+0.0.0.0 curiouscat.live
+0.0.0.0 curiouscat.me
+0.0.0.0 ask.fm
+0.0.0.0 www.ask.fm
+
+# ==========================================
+# FAKE/MISUSED CLOUD STORAGE (Often Piracy/Malware)
+# ==========================================
+# (Optional: blocks notoriously shady file hosts often linked in adult groups)
+0.0.0.0 dood.re
+0.0.0.0 dood.watch
+0.0.0.0 dood.to
+0.0.0.0 doodstream.com
+0.0.0.0 sbembed.com
+0.0.0.0 streamsb.com
+0.0.0.0 fembed.com
+0.0.0.0 shorte.st
+0.0.0.0 ouo.io

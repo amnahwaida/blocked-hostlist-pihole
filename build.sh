@@ -44,6 +44,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - gaming          : Mobile, PC & web games
 #   - instagram       : Instagram
 #   - malware-phishing: Malware & security threats
+#   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
 #   - snapchat        : Snapchat
