@@ -153,3 +153,52 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 js.moatads.com
 0.0.0.0 geo.moatads.com
+
+# ==========================================
+# EXPANDED ADS & TRACKING (GLOBAL & INDO)
+# ==========================================
+
+# --- Major Global Ad Networks ---
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 adsystem.com
+0.0.0.0 appnexus.com
+0.0.0.0 pubmatic.com
+0.0.0.0 openx.net
+0.0.0.0 rubiconproject.com
+0.0.0.0 media.net
+0.0.0.0 adform.net
+0.0.0.0 sovrn.com
+0.0.0.0 indexexchange.com
+0.0.0.0 outbrain.com
+0.0.0.0 outbrainimg.com
+0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
+
+# --- Regional & High-Impact Ad Networks (Common in ID) ---
+0.0.0.0 mgid.com
+0.0.0.0 servicer.mgid.com
+0.0.0.0 popads.net
+0.0.0.0 propellerads.com
+0.0.0.0 involve.asia
+0.0.0.0 accesstrade.co.id
+0.0.0.0 accesstrade.global
+0.0.0.0 ezmob.com
+0.0.0.0 ad-maven.com
+
+# --- Advanced Tracking & Analytics ---
+0.0.0.0 hotjar.com
+0.0.0.0 mixpanel.com
+0.0.0.0 segment.io
+0.0.0.0 optimizely.com
+0.0.0.0 newrelic.com
+0.0.0.0 nr-data.net
+0.0.0.0 crazyegg.com
+
+# --- Mobile App Ad Networks ---
+0.0.0.0 inmobi.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 applovin.com
+0.0.0.0 adcolony.com
+0.0.0.0 ironsrc.com
+0.0.0.0 vungle.com
+0.0.0.0 mopub.com

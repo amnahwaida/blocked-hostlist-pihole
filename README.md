@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amnahwaida-181717?style=flat-square&logo=github)](https://github.com/amnahwaida/blocked-hostlist-pihole)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Hosts](https://img.shields.io/badge/Total_Domains-25%2C842-red?style=flat-square)]()
+[![Hosts](https://img.shields.io/badge/Total_Domains-25%2C866-red?style=flat-square)]()
 [![Lists](https://img.shields.io/badge/Blocklists-26-blue?style=flat-square)]()
 
 Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DNS sinkhole yang melindungi jaringan Anda dari iklan, tracking, malware, dan konten yang tidak diinginkan.
@@ -15,7 +15,7 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 
 | # | Blocklist | Deskripsi | Jumlah Domain | Raw URL |
 |---|-----------|-----------|:-------------:|---------|
-| 1 | **ads-tracking** | Iklan & pelacak (Google Ads, Criteo, Taboola, dll) | 138 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/ads-tracking) |
+| 1 | **ads-tracking** | Iklan & pelacak (Google, Amazon, MGID, Involve Asia, dll) | 175 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/ads-tracking) |
 | 2 | **ai** | Layanan AI, Chatbots & Generator Gambar (ChatGPT, Claude, dll) | 63 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/ai) |
 | 3 | **cryptomining** | Mining pools & web miners | 37 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/cryptomining) |
 | 4 | **dating-apps** | Aplikasi kencan (MiChat, Tinder, Bumble, Omi, dll) | 52 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/dating-apps) |
@@ -41,7 +41,7 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 24 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
 | 25 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
 | 26 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
-| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **25.842** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
+| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **25.866** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
 
 ---
 
@@ -135,7 +135,7 @@ Output contoh:
 ```
 🔨 Pi-hole Blocklist Builder
 ============================================
-  ✅ ads-tracking (138 entries)
+  ✅ ads-tracking (175 entries)
   ✅ ai (63 entries)
   ✅ cryptomining (37 entries)
   ✅ dating-apps (52 entries)
@@ -159,9 +159,9 @@ Output contoh:
 ============================================
 📊 Summary:
    Files processed: 26
-   Total entries:   32976
-   Duplicates:      7134
-   Unique entries:  25842
+   Total entries:   33013
+   Duplicates:      7147
+   Unique entries:  25866
 ============================================
 ✨ Done!
 ```

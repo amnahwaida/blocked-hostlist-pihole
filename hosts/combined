@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:33:57 UTC
+# Generated: 2026-03-28 22:35:24 UTC
 # ============================================
 
 
@@ -219,6 +219,8 @@
 0.0.0.0 abtestvm-sg.bytedance.com
 0.0.0.0 abtestvm-va.bytedance.com
 0.0.0.0 access.line.me
+0.0.0.0 accesstrade.co.id
+0.0.0.0 accesstrade.global
 0.0.0.0 accountkit.com
 0.0.0.0 accountkit.facebook.com
 0.0.0.0 account-public-service-prod03.ol.epicgames.com
@@ -258,12 +260,14 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad-experience.bytedance.com
 0.0.0.0 adf.ly
+0.0.0.0 adform.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-instantpage-i18n.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
 0.0.0.0 adjust.com
 0.0.0.0 ad-lb-alisg.byteoversea.net
 0.0.0.0 ad-lb-maliva.byteoversea.net
+0.0.0.0 ad-maven.com
 0.0.0.0 admin.bytedance.com
 0.0.0.0 admin.motor-boe.bytedance.com
 0.0.0.0 admin-x.bytedance.com
@@ -294,6 +298,7 @@
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-va.tiktok.com
 0.0.0.0 ads.yahoo.com
+0.0.0.0 adsystem.com
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.toutiao.com.bytedns.net
 0.0.0.0 ad-ttp2.tiktokv.eu
@@ -1058,6 +1063,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.musemuse.cn
 0.0.0.0 app.musical.ly
+0.0.0.0 appnexus.com
 0.0.0.0 approval.bytedance.com
 0.0.0.0 apps.bytedance.com
 0.0.0.0 app-settings.photonengine.io
@@ -1562,6 +1568,7 @@
 0.0.0.0 craiyon.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crash.snssdk.com
+0.0.0.0 crazyegg.com
 0.0.0.0 crazygames.com
 0.0.0.0 createssh.com
 0.0.0.0 creation.bytedance.com
@@ -1969,6 +1976,7 @@
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 extlog.snssdk.com
 0.0.0.0 eyeu.snssdk.com
+0.0.0.0 ezmob.com
 0.0.0.0 f2pool.com
 0.0.0.0 f3rsrpl.qfyf1toi.com
 0.0.0.0 f3-ttcdn-tos.pstatp.com
@@ -2747,6 +2755,7 @@
 0.0.0.0 inapp-ttp2.tiktokv.eu
 0.0.0.0 inapp-ttp2.tiktokv.eu.ttdns3.com
 0.0.0.0 index.bytedance.com
+0.0.0.0 indexexchange.com
 0.0.0.0 index.toutiao.com
 0.0.0.0 indiegala.com
 0.0.0.0 indodax.com
@@ -2758,6 +2767,7 @@
 0.0.0.0 info.bytedance.com
 0.0.0.0 inf-portal-boe.byted.org
 0.0.0.0 in.hotjar.com
+0.0.0.0 inmobi.com
 0.0.0.0 inner-rd.fe-tiktok-og-maliva-rowttp.maliva.tiktok-row.org
 0.0.0.0 innersloth.com
 0.0.0.0 instaforex.com
@@ -2833,6 +2843,7 @@
 0.0.0.0 inventory.roblox.com
 0.0.0.0 investing.com
 0.0.0.0 invideo.io
+0.0.0.0 involve.asia
 0.0.0.0 io-games.io
 0.0.0.0 iogames.space
 0.0.0.0 ioi.dk
@@ -2853,6 +2864,7 @@
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 i.redd.it
 0.0.0.0 ironsocket.com
+0.0.0.0 ironsrc.com
 0.0.0.0 irowiki.org
 0.0.0.0 is1-ipv6.snssdk.com
 0.0.0.0 is2.4chan.org
@@ -3640,6 +3652,7 @@
 0.0.0.0 media.discordapp.net
 0.0.0.0 media.licdn.com
 0.0.0.0 mediamatch.bytedance.com
+0.0.0.0 media.net
 0.0.0.0 media.steampowered.com
 0.0.0.0 media.tiktok.com
 0.0.0.0 mediation.adnxs.com
@@ -3661,6 +3674,7 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 m.freefire.com
 0.0.0.0 mg-cloud-api.bytedance.com
+0.0.0.0 mgid.com
 0.0.0.0 mg.tiktok.com
 0.0.0.0 mh.snssdk.com
 0.0.0.0 mh.snssdk.com.w.kunluncan.com
@@ -3759,6 +3773,7 @@
 0.0.0.0 mon-ws.snssdk.com
 0.0.0.0 moonton.com
 0.0.0.0 mope.io
+0.0.0.0 mopub.com
 0.0.0.0 moss-sg.snssdk.com
 0.0.0.0 m-p16.akamaized.net
 0.0.0.0 mpak-ainw1-up.muscdn.com
@@ -4043,6 +4058,7 @@
 0.0.0.0 novel-lq.snssdk.com
 0.0.0.0 novel.snssdk.com
 0.0.0.0 nqzeqb.xzcs3zlph.com
+0.0.0.0 nr-data.net
 0.0.0.0 nr-data.taboola.com
 0.0.0.0 ns-1475.awsdns-56.org
 0.0.0.0 ns-1574.awsdns-04.co.uk
@@ -4233,10 +4249,12 @@
 0.0.0.0 open.toutiao.com.bytedns.net
 0.0.0.0 open-useast2a.bytedanceapi.com
 0.0.0.0 openvpn.net
+0.0.0.0 openx.net
 0.0.0.0 oploverz.biz
 0.0.0.0 oploverz.in
 0.0.0.0 ops.musical.ly
 0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 optimizely.com
 0.0.0.0 orange.isnssdk.com
 0.0.0.0 order.snssdk.com
 0.0.0.0 order.snssdk.com.w.kunluncan.com
@@ -4256,6 +4274,7 @@
 0.0.0.0 ouo.io
 0.0.0.0 o-us.ibytedtos.com
 0.0.0.0 outbrain.com
+0.0.0.0 outbrainimg.com
 0.0.0.0 out.reddit.com
 0.0.0.0 ovpn.com
 0.0.0.0 owl-sg.snssdk.com
@@ -5016,6 +5035,7 @@
 0.0.0.0 public-ubiservices.ubi.com
 0.0.0.0 publish.bytedance.com
 0.0.0.0 publish.twitter.com
+0.0.0.0 pubmatic.com
 0.0.0.0 puffgames.com
 0.0.0.0 puffinbrowser.com
 0.0.0.0 pull-a5-gcp01.tiktokcdn.com
@@ -23052,6 +23072,7 @@
 0.0.0.0 serve.popads.net
 0.0.0.0 server.jsecoin.com
 0.0.0.0 service-bj.bytedance.com
+0.0.0.0 servicer.mgid.com
 0.0.0.0 services.unity.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 service.tiktok.com
@@ -23345,6 +23366,7 @@
 0.0.0.0 so.toutiao.com
 0.0.0.0 so.toutiao.com.w.cdngslb.com
 0.0.0.0 soundcloud.com
+0.0.0.0 sovrn.com
 0.0.0.0 space.toutiao.com
 0.0.0.0 spankbang.com
 0.0.0.0 spclient.wg.spotify.com
@@ -23545,6 +23567,7 @@
 0.0.0.0 t6.rbxcdn.com
 0.0.0.0 t7.rbxcdn.com
 0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
 0.0.0.0 tagged.com
 0.0.0.0 take2.com
 0.0.0.0 take2games.com
@@ -24975,6 +24998,7 @@
 0.0.0.0 v.tiktokv.com
 0.0.0.0 vt.tiktok.com
 0.0.0.0 vt.tiktok.com.edgesuite.net
+0.0.0.0 vungle.com
 0.0.0.0 vv1.ipstatp.com
 0.0.0.0 vv.ipstatp.com
 0.0.0.0 vv-t1.ipstatp.com
