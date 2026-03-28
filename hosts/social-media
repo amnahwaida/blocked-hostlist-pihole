@@ -1,0 +1,128 @@
+# ============================================
+# Social Media Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks various social networks, communities,
+# and messaging web clients that are NOT 
+# covered in the standalone lists (Facebook, 
+# Instagram, TikTok, Twitter, Snapchat).
+# ============================================
+
+# --- Threads (Meta) ---
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+
+# --- Reddit ---
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 out.reddit.com
+0.0.0.0 ssl.reddit.com
+0.0.0.0 api.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 v.redd.it
+0.0.0.0 i.redd.it
+0.0.0.0 e.reddit.com
+0.0.0.0 redditinc.com
+0.0.0.0 redditmail.com
+0.0.0.0 redditstatic.com
+0.0.0.0 www.redditstatic.com
+0.0.0.0 redditmedia.com
+
+# --- Pinterest ---
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 id.pinterest.com
+0.0.0.0 api.pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 i.pinimg.com
+0.0.0.0 s.pinimg.com
+
+# --- LinkedIn ---
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 id.linkedin.com
+0.0.0.0 media.licdn.com
+0.0.0.0 static.licdn.com
+0.0.0.0 dms.licdn.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 snap.licdn.com
+
+# --- Tumblr ---
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 api.tumblr.com
+0.0.0.0 media.tumblr.com
+0.0.0.0 assets.tumblr.com
+
+# --- Quora ---
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+0.0.0.0 id.quora.com
+0.0.0.0 qr.ae
+0.0.0.0 quoracdn.net
+0.0.0.0 qsf.ec.quoracdn.net
+
+# --- Telegram (Web/API) ---
+# Note: Completely blocking Telegram apps can be hard due to DC proxies
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 core.telegram.org
+0.0.0.0 api.telegram.org
+0.0.0.0 t.me
+0.0.0.0 telegram.me
+
+# --- Line (Web/API) ---
+0.0.0.0 line.me
+0.0.0.0 www.line.me
+0.0.0.0 access.line.me
+0.0.0.0 api.line.me
+0.0.0.0 obs.line-apps.com
+0.0.0.0 dl.profile.line-cdn.net
+0.0.0.0 liff.line.me
+
+# --- VKontakte (VK) ---
+0.0.0.0 vk.com
+0.0.0.0 www.vk.com
+0.0.0.0 m.vk.com
+0.0.0.0 api.vk.com
+0.0.0.0 vk-cdn.net
+0.0.0.0 userapi.com
+0.0.0.0 sun9-1.userapi.com
+
+# --- WeChat / QQ ---
+0.0.0.0 wechat.com
+0.0.0.0 www.wechat.com
+0.0.0.0 web.wechat.com
+0.0.0.0 qq.com
+0.0.0.0 www.qq.com
+0.0.0.0 weibo.com
+0.0.0.0 www.weibo.com
+
+# --- Medium ---
+0.0.0.0 medium.com
+0.0.0.0 www.medium.com
+0.0.0.0 cdn-images-1.medium.com
+0.0.0.0 miro.medium.com
+0.0.0.0 api.medium.com
+
+# --- Miscellaneous Communities ---
+0.0.0.0 discord.com
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
+0.0.0.0 i.imgur.com
+0.0.0.0 vsco.co
+0.0.0.0 www.vsco.co
+0.0.0.0 flickr.com
+0.0.0.0 www.flickr.com
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 badoo.com
+0.0.0.0 www.badoo.com
+0.0.0.0 okcupid.com
+0.0.0.0 www.okcupid.com
