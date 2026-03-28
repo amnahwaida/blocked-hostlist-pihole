@@ -565,3 +565,144 @@
 0.0.0.0 battleye.com
 0.0.0.0 www.battleye.com
 0.0.0.0 vanguard.riotgames.com
+
+# ==========================================
+# ADDITIONAL INDIE & LESS POPULAR PLATFORMS
+# ==========================================
+
+# --- Game Key Stores (often used for indie/cheap games) ---
+0.0.0.0 g2a.com
+0.0.0.0 www.g2a.com
+0.0.0.0 cdkeys.com
+0.0.0.0 www.cdkeys.com
+0.0.0.0 instant-gaming.com
+0.0.0.0 www.instant-gaming.com
+0.0.0.0 eneba.com
+0.0.0.0 www.eneba.com
+0.0.0.0 gamivo.com
+0.0.0.0 fanatical.com
+0.0.0.0 indiegala.com
+
+# --- Niche / Indie Hosting ---
+0.0.0.0 gamejolt.net
+0.0.0.0 gamepipes.io
+0.0.0.0 itch.zone
+
+# ==========================================
+# GAME INFRASTRUCTURE & BACKENDS (Used by Indie/New Games)
+# ==========================================
+
+# --- Photon Engine (Multiplayer for 1000s of indie games) ---
+0.0.0.0 photonengine.com
+0.0.0.0 www.photonengine.com
+0.0.0.0 photonengine.io
+0.0.0.0 app-settings.photonengine.io
+0.0.0.0 ns.exitgames.com
+
+# --- Unity Gaming Services ---
+0.0.0.0 unity3d.com
+0.0.0.0 unity.com
+0.0.0.0 services.unity.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 multiplay.com
+
+# --- PlayFab (Microsoft Game Backend) ---
+0.0.0.0 playfabapi.com
+0.0.0.0 playfab.com
+0.0.0.0 www.playfab.com
+
+# --- GameAnalytics ---
+0.0.0.0 gameanalytics.com
+0.0.0.0 api.gameanalytics.com
+
+# ==========================================
+# INDIE / POPULAR PUBLISHERS & TITLES
+# ==========================================
+
+# --- Innersloth / Among Us ---
+0.0.0.0 innersloth.com
+0.0.0.0 among.us
+
+# --- Devolver Digital ---
+0.0.0.0 devolverdigital.com
+
+# --- Team17 ---
+0.0.0.0 team17.com
+
+# --- Annapurna Interactive ---
+0.0.0.0 annapurnainteractive.com
+
+# --- Coffee Stain Studios ---
+0.0.0.0 coffeestain.se
+
+# --- TinyBuild ---
+0.0.0.0 tinybuild.com
+
+# --- Raw Fury ---
+0.0.0.0 rawfury.com
+
+# --- Landfall Games ---
+0.0.0.0 landfall.se
+
+# --- Subset Games ---
+0.0.0.0 subsetgames.com
+
+# --- Supergiant Games ---
+0.0.0.0 supergiantgames.com
+
+# --- Stardew Valley ---
+0.0.0.0 stardewvalley.net
+
+# --- Terraria ---
+0.0.0.0 terraria.org
+
+# --- Roblox / Multi-platform ---
+0.0.0.0 rbxdn.com
+0.0.0.0 rbxcdn.net
+
+# ==========================================
+# HYPER-CASUAL & MOBILE PUBLISHERS
+# ==========================================
+
+# --- VOODOO ---
+0.0.0.0 voodoo.io
+
+# --- SayGames ---
+0.0.0.0 saygames.io
+
+# --- Ketchapp ---
+0.0.0.0 ketchapp.com
+
+# --- Playrix ---
+0.0.0.0 playrix.com
+
+# --- Scopely ---
+0.0.0.0 scopely.com
+
+# --- Lilith Games ---
+0.0.0.0 lilithgames.com
+
+# --- AppLovin (often game related ads/infra) ---
+0.0.0.0 applovin.com
+
+# ==========================================
+# ADDITIONAL WEB & UNBLOCKED GAMES
+# ==========================================
+
+0.0.0.0 coolmathgames.com
+0.0.0.0 www.coolmathgames.com
+0.0.0.0 agame.com
+0.0.0.0 spilgames.com
+0.0.0.0 frvr.com
+0.0.0.0 primarygames.com
+0.0.0.0 hoodamath.com
+0.0.0.0 mathplayground.com
+0.0.0.0 abcya.com
+0.0.0.0 boredbutton.com
+0.0.0.0 game-center.app
+0.0.0.0 games.com
+0.0.0.0 freeonlinegames.com
+0.0.0.0 fog.com
+0.0.0.0 maxgames.com
+0.0.0.0 physicsgames.net
