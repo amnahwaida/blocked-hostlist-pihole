@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:29:40 UTC
+# Generated: 2026-03-28 22:30:31 UTC
 # ============================================
 
 
@@ -1087,6 +1087,7 @@
 0.0.0.0 assets.tokopedia.net
 0.0.0.0 assets.tumblr.com
 0.0.0.0 assets.xbox.com
+0.0.0.0 astrill.com
 0.0.0.0 atari.com
 0.0.0.0 attachment.fbsbx.com
 0.0.0.0 audio-ec.spotify.com
@@ -1270,6 +1271,7 @@
 0.0.0.0 boe-ra.byteoversea.com
 0.0.0.0 boe-verify.snssdk.com
 0.0.0.0 bola88.com
+0.0.0.0 bolehvpn.net
 0.0.0.0 bolt-gcdn.sc-cdn.net
 0.0.0.0 bolt.snssdk.com
 0.0.0.0 bongacams.com
@@ -1286,6 +1288,7 @@
 0.0.0.0 brawlstars.com
 0.0.0.0 brazzers.com
 0.0.0.0 bridge.bytedance.com
+0.0.0.0 bridges.torproject.org
 0.0.0.0 brn-cgk-v1.l.byteoversea.net
 0.0.0.0 browsec.com
 0.0.0.0 b.scorecardresearch.com
@@ -1353,6 +1356,7 @@
 0.0.0.0 bytps.snssdk.com
 0.0.0.0 c01.i07.arnic.lv3.cloudglb.com
 0.0.0.0 c1.l.bytedns.net
+0.0.0.0 cactusvpn.com
 0.0.0.0 c.ai
 0.0.0.0 calender.snssdk.com
 0.0.0.0 callofduty.com
@@ -1472,6 +1476,7 @@
 0.0.0.0 chaturbate.com
 0.0.0.0 checkout.gog.com
 0.0.0.0 checkout.steampowered.com
+0.0.0.0 check.torproject.org
 0.0.0.0 chengzijianzhan.com
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
@@ -1943,6 +1948,7 @@
 0.0.0.0 eva.snssdk.com
 0.0.0.0 event.mobilelegends.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 eviatel.com
 0.0.0.0 evil.com
 0.0.0.0 ev.io
 0.0.0.0 exchange.betfair.com
@@ -1978,6 +1984,7 @@
 0.0.0.0 fapello.com
 0.0.0.0 fastcdn.mihoyo.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fast-proxy.com
 0.0.0.0 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.net
@@ -2540,6 +2547,7 @@
 0.0.0.0 hsr.hoyoverse.com
 0.0.0.0 htbs.com
 0.0.0.0 httpdns.byteoversea.com
+0.0.0.0 httpinjector.com
 0.0.0.0 htyy.toutiao.com
 0.0.0.0 huggingface.co
 0.0.0.0 hulu.com
@@ -2566,6 +2574,7 @@
 0.0.0.0 i1.pstatp.com
 0.0.0.0 i1.sgsnssdk.com
 0.0.0.0 i22-tb-quic.sgsnssdk.com
+0.0.0.0 i2p2.de
 0.0.0.0 i2.pstatp.com
 0.0.0.0 i3.pstatp.com
 0.0.0.0 i.4cdn.org
@@ -2826,6 +2835,7 @@
 0.0.0.0 iqoption.com
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 i.redd.it
+0.0.0.0 ironsocket.com
 0.0.0.0 irowiki.org
 0.0.0.0 is1-ipv6.snssdk.com
 0.0.0.0 is2.4chan.org
@@ -3067,7 +3077,9 @@
 0.0.0.0 konami.com
 0.0.0.0 kongregate.com
 0.0.0.0 kotaku.com
+0.0.0.0 kpntunnel.com
 0.0.0.0 kproxy.com
+0.0.0.0 kproxy.org
 0.0.0.0 krafton.com
 0.0.0.0 kraken.com
 0.0.0.0 krb5auth1.byted.org
@@ -3128,6 +3140,7 @@
 0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 leonardo.ai
 0.0.0.0 leovegas.com
+0.0.0.0 leovpn.com
 0.0.0.0 letsencrypt.bytecdn.cn
 0.0.0.0 level3.blizzard.com
 0.0.0.0 levelinfinite.com
@@ -3950,6 +3963,7 @@
 0.0.0.0 nanime.in
 0.0.0.0 nanime.tv
 0.0.0.0 nanopool.org
+0.0.0.0 napsternetv.com
 0.0.0.0 nashservice.bytedance.com
 0.0.0.0 nativeapp.toutiao.com
 0.0.0.0 naughtyamerica.com
@@ -4161,6 +4175,7 @@
 0.0.0.0 omi.sg
 0.0.0.0 onboard.bytedance.com
 0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
+0.0.0.0 onion.guide
 0.0.0.0 onlyfans.com
 0.0.0.0 onstove.com
 0.0.0.0 open16-va.tiktokv.com
@@ -4931,9 +4946,11 @@
 0.0.0.0 protonvpn.com
 0.0.0.0 proxfree.com
 0.0.0.0 proxyium.com
+0.0.0.0 proxy.org
 0.0.0.0 proxyproxy.org
 0.0.0.0 proxyserver.com
 0.0.0.0 proxysite.com
+0.0.0.0 proxy.webshare.io
 0.0.0.0 pscp.tv
 0.0.0.0 p.sgpstatp.com
 0.0.0.0 p.sgsnssdk.com
@@ -22868,6 +22885,7 @@
 0.0.0.0 s9.pstatp.com
 0.0.0.0 s9.pstatp.com.bsgslb.com
 0.0.0.0 s.activision.com
+0.0.0.0 safervpn.com
 0.0.0.0 samehadaku.care
 0.0.0.0 samehadaku.tv
 0.0.0.0 samehadaku.vip
@@ -22983,6 +23001,7 @@
 0.0.0.0 security-o.snssdk.com
 0.0.0.0 security.snssdk.com
 0.0.0.0 security.snssdk.com.w.kunluncan.com
+0.0.0.0 seed4.me
 0.0.0.0 sega.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
@@ -23241,9 +23260,11 @@
 0.0.0.0 s.kaskus.id
 0.0.0.0 skribbl.io
 0.0.0.0 slb-lb.bytedns.net
+0.0.0.0 slickvpn.com
 0.0.0.0 slide.toutiao.com
 0.0.0.0 slither.io
 0.0.0.0 slushpool.com
+0.0.0.0 smartproxy.com
 0.0.0.0 smilegate.com
 0.0.0.0 smr-aliva.byteoversea.com
 0.0.0.0 smr-aliva.byteoversea.com.edgekey.net
@@ -23298,6 +23319,7 @@
 0.0.0.0 speech-lf.bytedance.com
 0.0.0.0 speech-maliva.bytedance.com
 0.0.0.0 speech-test.bytedance.com
+0.0.0.0 speedify.com
 0.0.0.0 spe-f2-frontier-hl.snssdk.com
 0.0.0.0 spe-frontier-a.isnssdk.com
 0.0.0.0 spe-frontier-a.snssdk.com
@@ -23424,6 +23446,7 @@
 0.0.0.0 stream.snssdk.com
 0.0.0.0 stream.twitter.com
 0.0.0.0 stripchat.com
+0.0.0.0 strongvpn.com
 0.0.0.0 studio.godaddy.com
 0.0.0.0 studio.twitter.com
 0.0.0.0 studio.youtube.com
@@ -23851,6 +23874,7 @@
 0.0.0.0 topbuzz-lb-alisg.byteoversea.net
 0.0.0.0 topbuzz-lb-maliva.byteoversea.net
 0.0.0.0 torguard.net
+0.0.0.0 torproject.org
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com.edgekey.net
 0.0.0.0 tos-ag-cu-agsy.snssdk.com
@@ -24092,6 +24116,7 @@
 0.0.0.0 tr.rbxcdn.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 trunkstable.instagram.com
+0.0.0.0 trust.zone
 0.0.0.0 tsearch-hl.snssdk.com
 0.0.0.0 tsearch-lf.snssdk.com
 0.0.0.0 tsearchold-hl.snssdk.com
@@ -24129,6 +24154,7 @@
 0.0.0.0 tumblr.com
 0.0.0.0 tuner.pandora.com
 0.0.0.0 tunnelbear.com
+0.0.0.0 tunnelguru.com
 0.0.0.0 turbovpn.co
 0.0.0.0 turbovpn.com
 0.0.0.0 tv.tiktok.com
@@ -24862,7 +24888,9 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpn2.byted.org
+0.0.0.0 vpngate.net
 0.0.0.0 vpnproxy.io
+0.0.0.0 vpnsecure.me
 0.0.0.0 v.pstatp.com
 0.0.0.0 vrchat.com
 0.0.0.0 v.redd.it
@@ -24881,6 +24909,7 @@
 0.0.0.0 vv.ipstatp.com
 0.0.0.0 vv-t1.ipstatp.com
 0.0.0.0 vx-bdp.tiktokv.com
+0.0.0.0 vyprvon.com
 0.0.0.0 vyprvpn.com
 0.0.0.0 vzbmx.xzcs3zlph.com
 0.0.0.0 vzbmx.xzcs3zlph.com.edgesuite.net
@@ -25193,6 +25222,7 @@
 0.0.0.0 weblb-wg.spotify.com
 0.0.0.0 webminepool.com
 0.0.0.0 webmssdk16-normal-no1a.tiktokw.eu
+0.0.0.0 webproxy.net
 0.0.0.0 web.roblox.com
 0.0.0.0 web-sg.tiktok.com
 0.0.0.0 web.snapchat.com
@@ -25786,6 +25816,7 @@
 0.0.0.0 zendproxy.com
 0.0.0.0 zenless.hoyoverse.com
 0.0.0.0 zenmate.com
+0.0.0.0 zenvpn.net
 0.0.0.0 zerxygpl.mzfvozqybf.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 zhenzhen.snssdk.com
@@ -25802,6 +25833,7 @@
 0.0.0.0 zong-isb-v1.l.byteoversea.net
 0.0.0.0 zong-khi-v1.l.byteoversea.net
 0.0.0.0 zong-lhe-v1.l.byteoversea.net
+0.0.0.0 zoogvpn.com
 0.0.0.0 zoro.to
 0.0.0.0 z-p42-instagram.c10r.instagram.com
 0.0.0.0 zqq1.v.bsgslb.com

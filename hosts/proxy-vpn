@@ -114,3 +114,47 @@
 0.0.0.0 unblockme.id
 0.0.0.0 proxyproxy.org
 0.0.0.0 proxyserver.com
+
+# ==========================================
+# OBSIRE & NICHE VPN/PROXY (LESSER KNOWN)
+# ==========================================
+
+# --- Niche / Regional VPNs ---
+0.0.0.0 astrill.com
+0.0.0.0 bolehvpn.net
+0.0.0.0 vpnsecure.me
+0.0.0.0 ironsocket.com
+0.0.0.0 slickvpn.com
+0.0.0.0 cactusvpn.com
+0.0.0.0 safervpn.com
+0.0.0.0 zenvpn.net
+0.0.0.0 vpngate.net
+0.0.0.0 seed4.me
+0.0.0.0 speedify.com
+0.0.0.0 zoogvpn.com
+0.0.0.0 trust.zone
+0.0.0.0 strongvpn.com
+0.0.0.0 vyprvon.com
+0.0.0.0 leovpn.com
+
+# --- Mobile Bypass Tools (Popular in SE Asia/ID) ---
+0.0.0.0 tunnelguru.com
+0.0.0.0 httpinjector.com
+0.0.0.0 kpntunnel.com
+0.0.0.0 napsternetv.com
+0.0.0.0 eviatel.com
+
+# --- Tor & Deep Web Bypasses (Commonly used to escape filters) ---
+0.0.0.0 torproject.org
+0.0.0.0 check.torproject.org
+0.0.0.0 bridges.torproject.org
+0.0.0.0 onion.guide
+0.0.0.0 i2p2.de
+
+# --- Obscure / Disposable Proxies ---
+0.0.0.0 proxy.org
+0.0.0.0 fast-proxy.com
+0.0.0.0 webproxy.net
+0.0.0.0 kproxy.org
+0.0.0.0 proxy.webshare.io
+0.0.0.0 smartproxy.com
