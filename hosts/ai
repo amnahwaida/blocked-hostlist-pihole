@@ -1,0 +1,91 @@
+# ============================================
+# AI Services Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major AI chatbots, image generators, 
+# and LLM platforms (useful for schools/exams)
+# ============================================
+
+# --- OpenAI / ChatGPT ---
+0.0.0.0 openai.com
+0.0.0.0 www.openai.com
+0.0.0.0 chat.openai.com
+0.0.0.0 chatgpt.com
+0.0.0.0 www.chatgpt.com
+0.0.0.0 api.openai.com
+0.0.0.0 ios.chat.openai.com
+0.0.0.0 cdn.openai.com
+0.0.0.0 auth0.openai.com
+0.0.0.0 platform.openai.com
+
+# --- Anthropic / Claude ---
+0.0.0.0 anthropic.com
+0.0.0.0 www.anthropic.com
+0.0.0.0 claude.ai
+0.0.0.0 www.claude.ai
+0.0.0.0 api.anthropic.com
+
+# --- Google Gemini / Bard ---
+0.0.0.0 gemini.google.com
+0.0.0.0 bard.google.com
+0.0.0.0 aistudio.google.com
+0.0.0.0 generativeai.google
+0.0.0.0 deepmind.google
+0.0.0.0 deepmind.com
+
+# --- Microsoft Copilot ---
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 sydney.bing.com
+# Note: full blocking of Copilot may require blocking bing.com, 
+# which is omitted here to allow normal search to function
+
+# --- Perplexity ---
+0.0.0.0 perplexity.ai
+0.0.0.0 www.perplexity.ai
+0.0.0.0 api.perplexity.ai
+
+# --- Character.AI ---
+0.0.0.0 character.ai
+0.0.0.0 www.character.ai
+0.0.0.0 beta.character.ai
+0.0.0.0 c.ai
+
+# --- Hugging Face ---
+0.0.0.0 huggingface.co
+0.0.0.0 www.huggingface.co
+0.0.0.0 hf.co
+
+# --- Image Generators (Midjourney, DALL-E, etc) ---
+0.0.0.0 midjourney.com
+0.0.0.0 www.midjourney.com
+0.0.0.0 leonardo.ai
+0.0.0.0 www.leonardo.ai
+0.0.0.0 stability.ai
+0.0.0.0 www.stability.ai
+0.0.0.0 civitai.com
+0.0.0.0 www.civitai.com
+0.0.0.0 craiyon.com
+0.0.0.0 runwayml.com
+0.0.0.0 www.runwayml.com
+
+# --- Other Popular AI Tools ---
+0.0.0.0 poe.com
+0.0.0.0 www.poe.com
+0.0.0.0 phind.com
+0.0.0.0 www.phind.com
+0.0.0.0 you.com
+0.0.0.0 www.you.com
+0.0.0.0 quillbot.com
+0.0.0.0 grammarly.com
+0.0.0.0 copy.ai
+0.0.0.0 jasper.ai
+0.0.0.0 blackbox.ai
+0.0.0.0 claude.ai
+0.0.0.0 mistral.ai
+0.0.0.0 chatpdf.com
+0.0.0.0 gamma.app
+0.0.0.0 tome.app
+0.0.0.0 notion.so/product/ai
+0.0.0.0 groq.com
+0.0.0.0 www.groq.com

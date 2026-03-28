@@ -36,6 +36,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #
 # Individual lists available:
 #   - ads-tracking    : Ads & tracking domains
+#   - ai              : AI Chatbots & Image Generators
 #   - facebook        : Facebook & Meta services
 #   - gambling        : Gambling & betting sites
 #   - gaming          : Mobile, PC & web games
