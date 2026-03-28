@@ -36,6 +36,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #
 # Individual lists available:
 #   - ads-tracking    : Ads & tracking domains
+#   - cryptomining    : Mining pools & scripts
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
 #   - editing-apps    : Design, Photo & Video tools

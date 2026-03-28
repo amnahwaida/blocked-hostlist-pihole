@@ -8,6 +8,7 @@
 #
 # Individual lists available:
 #   - ads-tracking    : Ads & tracking domains
+#   - cryptomining    : Mining pools & scripts
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
 #   - editing-apps    : Design, Photo & Video tools
@@ -33,13 +34,15 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:24:19 UTC
+# Generated: 2026-03-28 22:26:37 UTC
 # ============================================
 
 
 # --- ads-tracking ---
 
 # --- ai ---
+
+# --- cryptomining ---
 
 # --- dating-apps ---
 
@@ -123,6 +126,7 @@
 0.0.0.0 22bet.com
 0.0.0.0 2-edge-chat.facebook.com
 0.0.0.0 2k.com
+0.0.0.0 2miners.com
 0.0.0.0 34.196.79.125
 0.0.0.0 360buy.com
 0.0.0.0 3dokby.toutiao50.com
@@ -396,6 +400,8 @@
 0.0.0.0 aniwave.to
 0.0.0.0 annapurnainteractive.com
 0.0.0.0 anthropic.com
+0.0.0.0 antpool.com
+0.0.0.0 antpool.net
 0.0.0.0 apex.ea.com
 0.0.0.0 api100-core-c-hl.amemv.com
 0.0.0.0 api100-core-c-lf.amemv.com
@@ -907,6 +913,7 @@
 0.0.0.0 api-h2.tiktokv.com
 0.0.0.0 api-h2.tiktokv.com.edgekey.net
 0.0.0.0 api.hinge.co
+0.0.0.0 api.hiveos.farm
 0.0.0.0 api-hl.amemv.com
 0.0.0.0 api-hl.amemv.com.w.kunluncan.com
 0.0.0.0 api.huoshan.com.bytedns.net
@@ -1001,6 +1008,7 @@
 0.0.0.0 api.tantanapp.com
 0.0.0.0 api.telegram.org
 0.0.0.0 api.tellonym.me
+0.0.0.0 api-test.nicehash.com
 0.0.0.0 api-test-pcs.snssdk.com
 0.0.0.0 api.tidal.com
 0.0.0.0 api.tidalhifi.com
@@ -1218,6 +1226,7 @@
 0.0.0.0 binomo.com
 0.0.0.0 binomo-web.com
 0.0.0.0 bitfinex.com
+0.0.0.0 bitfly.at
 0.0.0.0 bitget.com
 0.0.0.0 bitmoji.com
 0.0.0.0 bitstamp.net
@@ -1270,6 +1279,7 @@
 0.0.0.0 boredbutton.com
 0.0.0.0 bos.bytegeo.akadns.net
 0.0.0.0 bowland.bytedance.com
+0.0.0.0 braiins.com
 0.0.0.0 branch.io
 0.0.0.0 brawlstars.com
 0.0.0.0 brazzers.com
@@ -1490,6 +1500,7 @@
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 cmbchina.com
 0.0.0.0 cmd368.com
+0.0.0.0 cnhash.com
 0.0.0.0 cnhv.co
 0.0.0.0 code.byted.org
 0.0.0.0 code.facebook.com
@@ -1558,6 +1569,8 @@
 0.0.0.0 crypto.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptoloot.pro
+0.0.0.0 cryptotabbrowser.com
+0.0.0.0 cryptotab.net
 0.0.0.0 cscm.bytedance.com
 0.0.0.0 csp.snssdk.com
 0.0.0.0 cs.snssdk.com
@@ -1884,6 +1897,7 @@
 0.0.0.0 engine.propellerads.com
 0.0.0.0 enshrouded.com
 0.0.0.0 env-boe.byted.org
+0.0.0.0 eobot.com
 0.0.0.0 epicgames.com
 0.0.0.0 epicgames-download1.akamaized.net
 0.0.0.0 eporner.com
@@ -1904,12 +1918,18 @@
 0.0.0.0 equinix-sjc-v2.l.byteoversea.net
 0.0.0.0 erase.bg
 0.0.0.0 e.reddit.com
+0.0.0.0 erg.2miners.com
 0.0.0.0 error.facebook.com
 0.0.0.0 eshop.nintendo.net
 0.0.0.0 esignature.bytedance.com
 0.0.0.0 esign.bytedance.com
 0.0.0.0 e.snssdk.com
 0.0.0.0 esop.bytedance.com
+0.0.0.0 etc.2miners.com
+0.0.0.0 eth.2miners.com
+0.0.0.0 ethermine.org
+0.0.0.0 eth.nanopool.org
+0.0.0.0 ethpool.org
 0.0.0.0 etoro.com
 0.0.0.0 e.toutiao.com
 0.0.0.0 et.snssdk.com
@@ -1935,6 +1955,7 @@
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 extlog.snssdk.com
 0.0.0.0 eyeu.snssdk.com
+0.0.0.0 f2pool.com
 0.0.0.0 f3rsrpl.qfyf1toi.com
 0.0.0.0 f3-ttcdn-tos.pstatp.com
 0.0.0.0 facebook.com
@@ -1996,6 +2017,7 @@
 0.0.0.0 flip.bytedance.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 flyff.com
+0.0.0.0 flypool.org
 0.0.0.0 f-moneyloan.snssdk.com
 0.0.0.0 f-moneyloantest.snssdk.com
 0.0.0.0 fmovies.to
@@ -2333,6 +2355,7 @@
 0.0.0.0 happn.com
 0.0.0.0 hardware.bytedance.com
 0.0.0.0 hardware-seal-vpn.bytedance.com
+0.0.0.0 hashflare.io
 0.0.0.0 hayday.com
 0.0.0.0 hbo.com
 0.0.0.0 hbomax.com
@@ -2357,6 +2380,8 @@
 0.0.0.0 hide.me
 0.0.0.0 hidester.com
 0.0.0.0 hinge.co
+0.0.0.0 hiveon.net
+0.0.0.0 hiveos.farm
 0.0.0.0 hk4e-api.mihoyo.com
 0.0.0.0 hk4e-sdk.mihoyo.com
 0.0.0.0 h.l.bytedns.net
@@ -3613,6 +3638,7 @@
 0.0.0.0 minecraft.net
 0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
+0.0.0.0 minergate.com
 0.0.0.0 minero.cc
 0.0.0.0 miniappservice.bytedance.com
 0.0.0.0 miniclip.com
@@ -3660,6 +3686,7 @@
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.byteoversea.com.edgesuite.net
 0.0.0.0 mon-cold.snssdk.com
+0.0.0.0 monerohash.com
 0.0.0.0 mongoosev.byted.org
 0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon-hl.snssdk.com.w.kunluncan.com
@@ -3916,6 +3943,7 @@
 0.0.0.0 nameaweme.snssdk.com
 0.0.0.0 nanime.in
 0.0.0.0 nanime.tv
+0.0.0.0 nanopool.org
 0.0.0.0 nashservice.bytedance.com
 0.0.0.0 nativeapp.toutiao.com
 0.0.0.0 naughtyamerica.com
@@ -3945,6 +3973,7 @@
 0.0.0.0 nhentai.net
 0.0.0.0 nhn.com
 0.0.0.0 nianticlabs.com
+0.0.0.0 nicehash.com
 0.0.0.0 nikke-en.com
 0.0.0.0 nikkiup2u.com
 0.0.0.0 nintendo.co.id
@@ -4851,6 +4880,7 @@
 0.0.0.0 poki.com
 0.0.0.0 polaris-ns.byteoversea.com
 0.0.0.0 polyfill.bytedance.com
+0.0.0.0 poolin.com
 0.0.0.0 popads.net
 0.0.0.0 popcap.com
 0.0.0.0 popcash.net
@@ -22758,6 +22788,7 @@
 0.0.0.0 runeterra.leagueoflegends.com
 0.0.0.0 runwayml.com
 0.0.0.0 rupload.facebook.com
+0.0.0.0 rvn.2miners.com
 0.0.0.0 s0.bytecdn.cn
 0.0.0.0 s0.ipstatp.com
 0.0.0.0 s0.pstatp.com
@@ -23198,6 +23229,7 @@
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slide.toutiao.com
 0.0.0.0 slither.io
+0.0.0.0 slushpool.com
 0.0.0.0 smilegate.com
 0.0.0.0 smr-aliva.byteoversea.com
 0.0.0.0 smr-aliva.byteoversea.com.edgekey.net
@@ -23369,6 +23401,7 @@
 0.0.0.0 store.ubi.com
 0.0.0.0 story.snapchat.com
 0.0.0.0 s.toutiao.com
+0.0.0.0 stratum.nicehash.com
 0.0.0.0 streamingaudio.itunes.apple.com
 0.0.0.0 streaming-graph.facebook.com
 0.0.0.0 streamsb.com
@@ -23395,6 +23428,7 @@
 0.0.0.0 support.tiktok.com
 0.0.0.0 support.tiktok.com.edgesuite.net
 0.0.0.0 support.twitter.com
+0.0.0.0 supportxmr.com
 0.0.0.0 surfshark.com
 0.0.0.0 survey.tiktok.com
 0.0.0.0 surviv.io
@@ -24744,6 +24778,7 @@
 0.0.0.0 v-fastly.tiktokcdn.com
 0.0.0.0 vg23wcast.qfyf1toi.com
 0.0.0.0 v.hypstarcdn.com
+0.0.0.0 viabtc.com
 0.0.0.0 videoarch-aliec1-edge-lb.bytedns.net
 0.0.0.0 videoarch-awsbh-edge-lb.byteoversea.net
 0.0.0.0 videoarch-awsde-edge-lb.byteoversea.net
@@ -25446,6 +25481,7 @@
 0.0.0.0 www.ngl.link
 0.0.0.0 www.nhentai.net
 0.0.0.0 www.nianticlabs.com
+0.0.0.0 www.nicehash.com
 0.0.0.0 www.nintendo.co.id
 0.0.0.0 www.nintendo.com
 0.0.0.0 www.nordvpn.com
@@ -25666,6 +25702,7 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com.edgesuite.net
 0.0.0.0 xm.com
+0.0.0.0 xmr.nanopool.org
 0.0.0.0 xnotify.xbox.com
 0.0.0.0 xnxx-cdn.com
 0.0.0.0 xnxx.com
