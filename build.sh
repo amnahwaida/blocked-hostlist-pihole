@@ -48,6 +48,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
+#   - signal          : Signal Messenger app
 #   - snapchat        : Snapchat
 #   - social-media    : Reddit, Pinterest, LinkedIn, etc.
 #   - tiktok          : TikTok & ByteDance

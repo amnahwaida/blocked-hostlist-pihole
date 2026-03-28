@@ -1,0 +1,20 @@
+# ============================================
+# Signal Messenger Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks Signal Messenger app and desktop client.
+# ============================================
+
+0.0.0.0 signal.org
+0.0.0.0 www.signal.org
+0.0.0.0 api.directory.signal.org
+0.0.0.0 textsecure-service.whispersystems.org
+0.0.0.0 storage.signal.org
+0.0.0.0 cdn.signal.org
+0.0.0.0 cdn2.signal.org
+0.0.0.0 debuglogs.signal.org
+0.0.0.0 updates.signal.org
+0.0.0.0 updates2.signal.org
+0.0.0.0 whisper.systems
+0.0.0.0 www.whisper.systems

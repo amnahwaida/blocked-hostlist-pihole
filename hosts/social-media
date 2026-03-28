@@ -7204,3 +7204,22 @@
 0.0.0.0 www.wapa.com
 0.0.0.0 blued.com
 0.0.0.0 www.blued.com
+
+
+# ==========================================
+# SIGNAL MESSENGER (Merged)
+# ==========================================
+
+0.0.0.0 signal.org
+0.0.0.0 www.signal.org
+0.0.0.0 api.directory.signal.org
+0.0.0.0 textsecure-service.whispersystems.org
+0.0.0.0 storage.signal.org
+0.0.0.0 cdn.signal.org
+0.0.0.0 cdn2.signal.org
+0.0.0.0 debuglogs.signal.org
+0.0.0.0 updates.signal.org
+0.0.0.0 updates2.signal.org
+0.0.0.0 whisper.systems
+0.0.0.0 www.whisper.systems
+

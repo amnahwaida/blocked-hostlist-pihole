@@ -30,7 +30,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:11:41 UTC
+# Generated: 2026-03-28 22:15:18 UTC
 # ============================================
 
 
@@ -59,6 +59,8 @@
 # --- music-streaming ---
 
 # --- porn ---
+
+# --- signal ---
 
 # --- snapchat ---
 
@@ -862,6 +864,7 @@
 0.0.0.0 api-core-va.tiktokv.com.edgesuite.net
 0.0.0.0 api.deezer.com
 0.0.0.0 api-dev.musical.ly
+0.0.0.0 api.directory.signal.org
 0.0.0.0 api.discord.com
 0.0.0.0 api-eagle.amemv.com
 0.0.0.0 api-eagle.amemv.com.w.kunluncan.com
@@ -1324,6 +1327,7 @@
 0.0.0.0 cdn1-effect.snssdk.com
 0.0.0.0 cdn1.epicgames.com
 0.0.0.0 cdn2.epicgames.com
+0.0.0.0 cdn2.signal.org
 0.0.0.0 cdn3-effect.snssdk.com
 0.0.0.0 cdn77-pic.xnxx-cdn.com
 0.0.0.0 cdn77-vid.xnxx-cdn.com
@@ -1359,6 +1363,7 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.sgsnssdk.com
+0.0.0.0 cdn.signal.org
 0.0.0.0 cdn-t1.byteoversea.com
 0.0.0.0 cdn-t2.byteoversea.com
 0.0.0.0 cdn.taboola.com
@@ -1536,6 +1541,7 @@
 0.0.0.0 dealer.spotify.com
 0.0.0.0 debaac4b.tt.x.bsgslb.cn
 0.0.0.0 debaac5c.tt.x.bsgslb.cn
+0.0.0.0 debuglogs.signal.org
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 deepmind.com
 0.0.0.0 deepmind.google
@@ -22926,6 +22932,7 @@
 0.0.0.0 shop-uk.tiktok.com
 0.0.0.0 shorte.st
 0.0.0.0 sh.st
+0.0.0.0 signal.org
 0.0.0.0 signin.ea.com
 0.0.0.0 signup.leagueoflegends.com
 0.0.0.0 silvergames.com
@@ -23092,6 +23099,7 @@
 0.0.0.0 stock-hl.snssdk.com
 0.0.0.0 stock.snssdk.com
 0.0.0.0 stock-ws.snssdk.com
+0.0.0.0 storage.signal.org
 0.0.0.0 store.epicgames.com
 0.0.0.0 storemanager.tiktok.com
 0.0.0.0 store.nintendo.com
@@ -23197,6 +23205,7 @@
 0.0.0.0 testserver.musical.ly
 0.0.0.0 test-switch-lf.snssdk.com
 0.0.0.0 test-switch.snssdk.com
+0.0.0.0 textsecure-service.whispersystems.org
 0.0.0.0 textures.minecraft.net
 0.0.0.0 tfe-test.snssdk.com
 0.0.0.0 thelotter.com
@@ -23837,6 +23846,8 @@
 0.0.0.0 unpkg.pstatp.com.m.alikunlun.com
 0.0.0.0 unrealengine.com
 0.0.0.0 upbit.co.id
+0.0.0.0 updates2.signal.org
+0.0.0.0 updates.signal.org
 0.0.0.0 updatewebws.pstatp.com.wsglb0.com
 0.0.0.0 uplaypc-s-ubisoft.cdn.ubi.com
 0.0.0.0 upload.facebook.com
@@ -24855,6 +24866,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
 0.0.0.0 whatsapp.com
 0.0.0.0 whatsapp.net
+0.0.0.0 whisper.systems
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 widget-i18n.tiktokv.com
 0.0.0.0 widget-i18n.tiktokv.com.ttdns2.com
@@ -25177,6 +25189,7 @@
 0.0.0.0 www.sbobet.com
 0.0.0.0 www.secreto.site
 0.0.0.0 www.sgsnssdk.com
+0.0.0.0 www.signal.org
 0.0.0.0 www.silvergames.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 www.snssdk.com
@@ -25241,6 +25254,7 @@
 0.0.0.0 www.wechat.com
 0.0.0.0 www.weibo.com
 0.0.0.0 www.whatsapp.com
+0.0.0.0 www.whisper.systems
 0.0.0.0 www.williamhill.com
 0.0.0.0 www.worldfcdn.com
 0.0.0.0 www.worldofwarcraft.com
