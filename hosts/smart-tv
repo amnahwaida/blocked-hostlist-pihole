@@ -1,0 +1,50 @@
+# ============================================
+# Smart TV Ads & Telemetry Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks telemetry and advertisements for 
+# various Smart TV brands (Samsung, LG, Sony, etc).
+# ============================================
+
+# --- Samsung ---
+0.0.0.0 samsungads.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 log-ingestion.samsungads.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsung-otn.net
+0.0.0.0 otn.samsung.com
+
+# --- LG ---
+0.0.0.0 lgtvcommon.com
+0.0.0.0 ads.lgtvcommon.com
+0.0.0.0 lgtvsdp.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 lgsmartad.com
+0.0.0.0 ibis.lgappstv.com
+
+# --- Sony ---
+0.0.0.0 sony-as-config.sony.net
+0.0.0.0 log-ingestion.sony.net
+0.0.0.0 track.sony.net
+0.0.0.0 ads.sony.net
+
+# --- Roku ---
+0.0.0.0 roku.com (main site safety)
+0.0.0.0 ads.roku.com
+0.0.0.0 logs.roku.com
+0.0.0.0 cloudfront.net (Roku CDN for ads)
+0.0.0.0 scribe.roku.com
+
+# --- Vizio ---
+0.0.0.0 vizio.com (main site safety)
+0.0.0.0 ads.vizio.com
+0.0.0.0 log-ingestion.vizio.com
+
+# --- Generic Smart TV ---
+0.0.0.0 smart-tv-ads.com
+0.0.0.0 tv-telemetry.net
+0.0.0.0 hbb-tv.net
+0.0.0.0 redbutton.tv

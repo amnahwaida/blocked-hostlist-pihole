@@ -1,0 +1,62 @@
+# ============================================
+# Online TV & Live Streaming Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major online live TV streaming 
+# portals (Indonesia & Global).
+# ============================================
+
+# --- Indonesia Major Portals ---
+0.0.0.0 vidio.com
+0.0.0.0 app.vidio.com
+0.0.0.0 visionplus.id
+0.0.0.0 visionplus.com
+0.0.0.0 rctiplus.com
+0.0.0.0 rcti.tv
+0.0.0.0 metrotvnews.com
+0.0.0.0 transtv.co.id
+0.0.0.0 trans7.co.id
+0.0.0.0 mivo.com
+0.0.0.0 useetv.com
+0.0.0.0 indihome.co.id/tv
+0.0.0.0 tv-online.id
+0.0.0.0 tvstreaming.id
+0.0.0.0 live-streaming.id
+0.0.0.0 netmedia.co.id (Net TV)
+0.0.0.0 kompas.tv
+0.0.0.0 tvoneconnect.id
+0.0.0.0 jawapos.tv
+0.0.0.0 antvklik.com
+
+# --- Global & Generic Online TV ---
+0.0.0.0 pluto.tv
+0.0.0.0 tubitv.com
+0.0.0.0 rakuten.tv
+0.0.0.0 hulu.com (already in streaming?)
+0.0.0.0 crackle.com
+0.0.0.0 sling.com
+0.0.0.0 fubo.tv
+0.0.0.0 directv.com
+0.0.0.0 tv.apple.com
+0.0.0.0 samsungtvplus.com
+0.0.0.0 lgtvplus.com
+0.0.0.0 twitch.tv (already in gaming/streaming?)
+0.0.0.0 youtube.com/live (generic but for listing)
+0.0.0.0 kick.com (Live TV streaming clone)
+0.0.0.0 dlive.tv
+0.0.0.0 trovo.live
+0.0.0.0 nimo.tv
+0.0.0.0 nonolive.com
+
+# --- Pirate/Niche Live TV ---
+0.0.0.0 koora.com
+0.0.0.0 kora-stars.com
+0.0.0.0 score808.com (Niche Sports TV)
+0.0.0.0 rojadirecta.me
+0.0.0.0 tv-links.com
+0.0.0.0 livetv.sx
+0.0.0.0 vipbox.lc
+0.0.0.0 vipleague.lc
+0.0.0.0 totalsportek.com
+0.0.0.0 jokerguide.com

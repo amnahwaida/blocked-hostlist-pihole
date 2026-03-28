@@ -39,7 +39,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 23:27:18 UTC
+# Generated: 2026-03-28 23:37:19 UTC
 # ============================================
 
 
@@ -95,6 +95,8 @@
 
 # --- online-meetings ---
 
+# --- online-tv ---
+
 # --- paste-sites ---
 
 # --- porn ---
@@ -112,6 +114,8 @@
 # --- short-video ---
 
 # --- signal ---
+
+# --- smart-tv ---
 
 # --- snapchat ---
 
@@ -360,15 +364,20 @@
 0.0.0.0 ads.id
 0.0.0.0 ads-imapi.tiktok.com
 0.0.0.0 adsinsightslab.tiktok.com
+0.0.0.0 ads.lgtvcommon.com
+0.0.0.0 ads.roku.com
+0.0.0.0 ads.samsungads.com
 0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 ads.sony.net
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tiktok.com.edgekey.net
 0.0.0.0 ads-ttp2.tiktokw.eu
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-va.tiktok.com
+0.0.0.0 ads.vizio.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adsystem.com
 0.0.0.0 ad.toutiao.com
@@ -508,6 +517,7 @@
 0.0.0.0 anthropic.com
 0.0.0.0 antpool.com
 0.0.0.0 antpool.net
+0.0.0.0 antvklik.com
 0.0.0.0 anydesk.com
 0.0.0.0 anydesk.link
 0.0.0.0 anydesk.net
@@ -1186,6 +1196,7 @@
 0.0.0.0 app.toutiao.com
 0.0.0.0 app.toutiao.com.w.cdngslb.com
 0.0.0.0 app-va.tiktokv.com
+0.0.0.0 app.vidio.com
 0.0.0.0 apresolve.spotify.com
 0.0.0.0 a.pstatp.com
 0.0.0.0 ar-ar.facebook.com
@@ -1735,6 +1746,7 @@
 0.0.0.0 clouddns.net
 0.0.0.0 cloudflareclient.com
 0.0.0.0 cloudflare-dns.com
+0.0.0.0 cloudfront.net (Roku CDN for ads)
 0.0.0.0 cloud-gaming-api.net
 0.0.0.0 cloudprint.bytedance.com
 0.0.0.0 cloud.xbox.com
@@ -1777,6 +1789,7 @@
 0.0.0.0 community-lens.snapchat.com
 0.0.0.0 compass-ns.byteoversea.com
 0.0.0.0 compass-ns.byteoversea.net
+0.0.0.0 config.samsungads.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 configure-platform.bytedance.com
 0.0.0.0 connect.facebook.com
@@ -1807,6 +1820,7 @@
 0.0.0.0 cp-rp16-normal-useast2a.tiktokv.eu
 0.0.0.0 c.pstatp.com
 0.0.0.0 c.pstatp.com.w.cdngslb.com
+0.0.0.0 crackle.com
 0.0.0.0 craiyon.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crash.snssdk.com
@@ -1980,6 +1994,7 @@
 0.0.0.0 direct.quic-tiktok-core-proxy-i18n-v3.useast2a.byteglb.com
 0.0.0.0 direct.quic-webcast-core-proxy-i18n-v3.useast2a.byteglb.com
 0.0.0.0 direct.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com
+0.0.0.0 directv.com
 0.0.0.0 direct.videoarch-lb-i18n-v3.useast2a.bytelb.com
 0.0.0.0 discordapp.com
 0.0.0.0 discordapp.net
@@ -2002,6 +2017,7 @@
 0.0.0.0 dl.freefire.com
 0.0.0.0 dl.google.com (Chrome updates)
 0.0.0.0 dlinkddns.com
+0.0.0.0 dlive.tv
 0.0.0.0 dl.profile.line-cdn.net
 0.0.0.0 dm16-alisg.byteoversea.com
 0.0.0.0 dm16-alisg.byteoversea.com.edgekey.net
@@ -2317,6 +2333,7 @@
 0.0.0.0 eva.snssdk.com
 0.0.0.0 event.mobilelegends.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 events.samsungads.com
 0.0.0.0 eviatel.com
 0.0.0.0 evil.com
 0.0.0.0 ev.io
@@ -2497,6 +2514,7 @@
 0.0.0.0 ft.com
 0.0.0.0 ft.snssdk.com
 0.0.0.0 ft.snssdk.com.w.kunluncan.com
+0.0.0.0 fubo.tv
 0.0.0.0 fullssh.com
 0.0.0.0 funblocked.games
 0.0.0.0 funimation.com
@@ -2833,6 +2851,7 @@
 0.0.0.0 havaya.com
 0.0.0.0 hayday.com
 0.0.0.0 hayossh.com
+0.0.0.0 hbb-tv.net
 0.0.0.0 hbo.com
 0.0.0.0 hbomax.com
 0.0.0.0 hbr.org
@@ -3034,6 +3053,7 @@
 0.0.0.0 huggingface.co
 0.0.0.0 huggingface.co (major ML platform, block if needed)
 0.0.0.0 hulu.com
+0.0.0.0 hulu.com (already in streaming?)
 0.0.0.0 humblebundle.com
 0.0.0.0 hunter.bytedance.com
 0.0.0.0 huobi.com
@@ -3074,6 +3094,7 @@
 0.0.0.0 ib-hl.snssdk.com
 0.0.0.0 ib-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 ib-ipv6.snssdk.com
+0.0.0.0 ibis.lgappstv.com
 0.0.0.0 ib-lf.snssdk.com
 0.0.0.0 ib-lq.snssdk.com
 0.0.0.0 ib.snssdk.com
@@ -3232,6 +3253,7 @@
 0.0.0.0 indexexchange.com
 0.0.0.0 index.toutiao.com
 0.0.0.0 indiegala.com
+0.0.0.0 indihome.co.id/tv
 0.0.0.0 indodana.id
 0.0.0.0 indodax.com
 0.0.0.0 indoshare.me
@@ -3432,6 +3454,7 @@
 0.0.0.0 javpop.com
 0.0.0.0 javtoo.com
 0.0.0.0 jawapos.com
+0.0.0.0 jawapos.tv
 0.0.0.0 jdate.com
 0.0.0.0 jd.com
 0.0.0.0 jd.id
@@ -3448,6 +3471,7 @@
 0.0.0.0 jobs.bytedance.com
 0.0.0.0 job.toutiao.com
 0.0.0.0 join.me
+0.0.0.0 jokerguide.com
 0.0.0.0 jollychic.com
 0.0.0.0 joongang.co.kr
 0.0.0.0 joox.com
@@ -3615,6 +3639,7 @@
 0.0.0.0 ketchapp.com
 0.0.0.0 kickasstorrents.to
 0.0.0.0 kick.com
+0.0.0.0 kick.com (Live TV streaming clone)
 0.0.0.0 kids.youtube.com
 0.0.0.0 king.com
 0.0.0.0 kinguin.net
@@ -3634,6 +3659,8 @@
 0.0.0.0 kompas.tv
 0.0.0.0 konami.com
 0.0.0.0 kongregate.com
+0.0.0.0 koora.com
+0.0.0.0 kora-stars.com
 0.0.0.0 kotaku.com
 0.0.0.0 kpntunnel.com
 0.0.0.0 kproxy.com
@@ -3844,7 +3871,11 @@
 0.0.0.0 lg-lf.snssdk.com
 0.0.0.0 lg-lq.snssdk.com
 0.0.0.0 lgn.pubgmobile.com
+0.0.0.0 lgsmartad.com
 0.0.0.0 lg.snssdk.com
+0.0.0.0 lgtvcommon.com
+0.0.0.0 lgtvplus.com
+0.0.0.0 lgtvsdp.com
 0.0.0.0 lh-hl.snssdk.com
 0.0.0.0 lh-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 lh-lq.snssdk.com
@@ -4015,6 +4046,8 @@
 0.0.0.0 lively-ws-flv.muscdn.com
 0.0.0.0 lively-ws-hls.muscdn.com
 0.0.0.0 live.musical.ly
+0.0.0.0 live-streaming.id
+0.0.0.0 livetv.sx
 0.0.0.0 lk21.cx
 0.0.0.0 lk21official.com
 0.0.0.0 lk21.vip
@@ -4084,6 +4117,9 @@
 0.0.0.0 log-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 login5.spotify.com
 0.0.0.0 login.facebook.com
+0.0.0.0 log-ingestion.samsungads.com
+0.0.0.0 log-ingestion.sony.net
+0.0.0.0 log-ingestion.vizio.com
 0.0.0.0 login.gog.com
 0.0.0.0 login-no1a.www.tiktok.com
 0.0.0.0 login.steampowered.com
@@ -4102,6 +4138,7 @@
 0.0.0.0 logsg.xzcs3zlph.com.edgesuite.net
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.snssdk.com.bytedns.net
+0.0.0.0 logs.roku.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log.tiktokv.com
@@ -4323,6 +4360,7 @@
 0.0.0.0 miro.medium.com
 0.0.0.0 mirrors.kernel.org
 0.0.0.0 mistral.ai
+0.0.0.0 mivo.com
 0.0.0.0 mixdrop.co
 0.0.0.0 mixi.jp
 0.0.0.0 mixpanel.com
@@ -4661,6 +4699,7 @@
 0.0.0.0 neteasegames.com
 0.0.0.0 netflix.com
 0.0.0.0 netflix.com/games
+0.0.0.0 netmedia.co.id (Net TV)
 0.0.0.0 net-speed-test.org
 0.0.0.0 neuroflash.com
 0.0.0.0 new1-maliva-normal-lb.byteoversea.net
@@ -4688,6 +4727,7 @@
 0.0.0.0 nikke-en.com
 0.0.0.0 nikkei.com
 0.0.0.0 nikkiup2u.com
+0.0.0.0 nimo.tv
 0.0.0.0 NinjaProxy.org
 0.0.0.0 nintendo.co.id
 0.0.0.0 nintendo.com
@@ -4699,6 +4739,7 @@
 0.0.0.0 no-ip.com
 0.0.0.0 noip.com
 0.0.0.0 nomachine.com
+0.0.0.0 nonolive.com
 0.0.0.0 nopaste.com
 0.0.0.0 nordvpn.com
 0.0.0.0 notifications.roblox.com
@@ -4945,6 +4986,7 @@
 0.0.0.0 otakudesu.video
 0.0.0.0 otfp.byteoversea.com
 0.0.0.0 other.l.bytedns.net
+0.0.0.0 otn.samsung.com
 0.0.0.0 o.twimg.com
 0.0.0.0 ouo.io
 0.0.0.0 o-us.ibytedtos.com
@@ -5674,6 +5716,7 @@
 0.0.0.0 plesk.com (can host various tools)
 0.0.0.0 pluang.com
 0.0.0.0 plugin-patch-api.bytedance.com
+0.0.0.0 pluto.tv
 0.0.0.0 pn.ea.com
 0.0.0.0 pocketoption.com
 0.0.0.0 pocketpair.jp
@@ -23148,6 +23191,7 @@
 0.0.0.0 ragnarokonline.com
 0.0.0.0 rainway.com
 0.0.0.0 rakuten.com
+0.0.0.0 rakuten.tv
 0.0.0.0 ransomware-payment-portal.onion.pet
 0.0.0.0 rapidgator.net
 0.0.0.0 rapid-proxy.com
@@ -23158,6 +23202,8 @@
 0.0.0.0 rbxcdn.net
 0.0.0.0 rbxdn.com
 0.0.0.0 rc.snssdk.com
+0.0.0.0 rctiplus.com
+0.0.0.0 rcti.tv
 0.0.0.0 rc-verification16-normal-no1a.tiktokv.eu
 0.0.0.0 reading-hl.snssdk.com
 0.0.0.0 reading.snssdk.com
@@ -23169,6 +23215,7 @@
 0.0.0.0 rebrand.ly
 0.0.0.0 rebrandly.com
 0.0.0.0 recroom.com
+0.0.0.0 redbutton.tv
 0.0.0.0 reddit.com
 0.0.0.0 redditinc.com
 0.0.0.0 redditmail.com
@@ -23233,6 +23280,8 @@
 0.0.0.0 rocket.snssdk.com
 0.0.0.0 rocket.snssdk.com.w.kunluncan.com
 0.0.0.0 rockstargames.com
+0.0.0.0 rojadirecta.me
+0.0.0.0 roku.com (main site safety)
 0.0.0.0 romwe.com
 0.0.0.0 router.teamviewer.com
 0.0.0.0 rovio.com
@@ -23752,6 +23801,10 @@
 0.0.0.0 s.amemv.com
 0.0.0.0 s.amemv.com.w.kunlunca.com
 0.0.0.0 sami.bytedance.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsung-otn.net
+0.0.0.0 samsungtvplus.com
 0.0.0.0 sandeku.id
 0.0.0.0 sas.bytedance.com
 0.0.0.0 saveu.tiktokv.com
@@ -23795,12 +23848,14 @@
 0.0.0.0 scontent-waw1-1.cdninstagram.com
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scopely.com
+0.0.0.0 score808.com (Niche Sports TV)
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sc-prod.sc-static.net
 0.0.0.0 screenconnect.com
 0.0.0.0 screen-lock-admin.bytedance.com
 0.0.0.0 scribbr.com
 0.0.0.0 scribd.com (often hosts answer keys)
+0.0.0.0 scribe.roku.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 sc-static.net
 0.0.0.0 sdfp-sg.byteoversea.com
@@ -24178,11 +24233,14 @@
 0.0.0.0 slickvpn.com
 0.0.0.0 slickwrite.com
 0.0.0.0 slide.toutiao.com
+0.0.0.0 sling.com
 0.0.0.0 slither.io
 0.0.0.0 sls.update.microsoft.com
 0.0.0.0 slushpool.com
 0.0.0.0 smallseotools.com/article-rewriter
 0.0.0.0 smartproxy.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 smart-tv-ads.com
 0.0.0.0 smash.me
 0.0.0.0 smilegate.com
 0.0.0.0 smr-aliva.byteoversea.com
@@ -24233,6 +24291,7 @@
 0.0.0.0 sogou.com
 0.0.0.0 solidfiles.com
 0.0.0.0 solusiku.id
+0.0.0.0 sony-as-config.sony.net
 0.0.0.0 sonyentertainmentnetwork.com
 0.0.0.0 sora.com (OpenAI Sora)
 0.0.0.0 so.toutiao.com
@@ -25136,6 +25195,7 @@
 0.0.0.0 tos-useast2a.tiktokcdn.com
 0.0.0.0 tosv.byted.org
 0.0.0.0 tosv-va.tiktok-row.org
+0.0.0.0 totalsportek.com
 0.0.0.0 tot.hoyoverse.com
 0.0.0.0 touch.facebook.com
 0.0.0.0 touchvpn.net
@@ -25174,14 +25234,17 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.infobip.account.tiktok.com
 0.0.0.0 tracking.infobip.service.tiktok.com
+0.0.0.0 track.sony.net
 0.0.0.0 track.toutiao.com
 0.0.0.0 tradingview.com
+0.0.0.0 trans7.co.id
 0.0.0.0 transfer.sh
 0.0.0.0 transferxl.com
 0.0.0.0 translate-crx.bytedance.com
 0.0.0.0 translate-sdk.bytedance.com
 0.0.0.0 transmissionbt.com
 0.0.0.0 transparency.facebook.com
+0.0.0.0 transtv.co.id
 0.0.0.0 travel.bytedance.com
 0.0.0.0 traveloka.com
 0.0.0.0 trc.taboola.com
@@ -25235,6 +25298,7 @@
 0.0.0.0 ttvnw.net
 0.0.0.0 ttwid.bytedance.com
 0.0.0.0 tube8.com
+0.0.0.0 tubitv.com
 0.0.0.0 tuchong.pstatp.com
 0.0.0.0 tuchong.pstatp.com.w.cdngslb.com
 0.0.0.0 tumblr.com
@@ -25250,6 +25314,12 @@
 0.0.0.0 turnitin.com (keep if school actually uses it for detection)
 0.0.0.0 tusfiles.com
 0.0.0.0 tutorialspoint.com/execute_cpp_online.php
+0.0.0.0 tv.apple.com
+0.0.0.0 tv-links.com
+0.0.0.0 tvoneconnect.id
+0.0.0.0 tv-online.id
+0.0.0.0 tvstreaming.id
+0.0.0.0 tv-telemetry.net
 0.0.0.0 tv.tiktok.com
 0.0.0.0 tv-va.tiktok.com
 0.0.0.0 tv.youtube.com
@@ -25259,6 +25329,7 @@
 0.0.0.0 twinme.com
 0.0.0.0 twitchcdn.net
 0.0.0.0 twitch.tv
+0.0.0.0 twitch.tv (already in gaming/streaming?)
 0.0.0.0 twitpic.com
 0.0.0.0 twitter.com
 0.0.0.0 twittercommunity.com
@@ -25361,6 +25432,7 @@
 0.0.0.0 us-central1.gcp.api.snapchat.com
 0.0.0.0 us-east1-gcp.api.snapchat.com
 0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 useetv.com
 0.0.0.0 userapi.com
 0.0.0.0 userscloud.com
 0.0.0.0 users.roblox.com
@@ -26015,11 +26087,16 @@
 0.0.0.0 vigoreview.byteoversea.com
 0.0.0.0 vigovideo.net
 0.0.0.0 vine.co
+0.0.0.0 vipbox.lc
+0.0.0.0 vipleague.lc
 0.0.0.0 viproarkets.com
 0.0.0.0 v.ipstatp.com
+0.0.0.0 visionplus.com
+0.0.0.0 visionplus.id
 0.0.0.0 vistacreate.com
 0.0.0.0 viu.com
 0.0.0.0 viva.co.id
+0.0.0.0 vizio.com (main site safety)
 0.0.0.0 vk-cdn.net
 0.0.0.0 vk.com
 0.0.0.0 vm16-normal-useast2a.tiktokw.eu
@@ -27017,6 +27094,7 @@
 0.0.0.0 youthcamp.bytedance.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube.com
+0.0.0.0 youtube.com/live (generic but for listing)
 0.0.0.0 youtube.googleapis.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtube-ui.l.google.com
