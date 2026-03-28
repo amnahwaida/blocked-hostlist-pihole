@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:26:37 UTC
+# Generated: 2026-03-28 22:29:40 UTC
 # ============================================
 
 
@@ -316,6 +316,7 @@
 0.0.0.0 ailab-cv-sdk.bytedance.com
 0.0.0.0 aion.plaync.com
 0.0.0.0 a.ipstatp.com
+0.0.0.0 airvpn.org
 0.0.0.0 a.isnssdk.com
 0.0.0.0 aistudio.google.com
 0.0.0.0 ajaib.co.id
@@ -399,6 +400,7 @@
 0.0.0.0 animoto.com
 0.0.0.0 aniwave.to
 0.0.0.0 annapurnainteractive.com
+0.0.0.0 anonymouse.org
 0.0.0.0 anthropic.com
 0.0.0.0 antpool.com
 0.0.0.0 antpool.net
@@ -2378,6 +2380,7 @@
 0.0.0.0 hfm.com
 0.0.0.0 hggafcaacfc.temp.p23.tc.cdntip.com
 0.0.0.0 hide.me
+0.0.0.0 hidemyass.com
 0.0.0.0 hidester.com
 0.0.0.0 hinge.co
 0.0.0.0 hiveon.net
@@ -2386,6 +2389,7 @@
 0.0.0.0 hk4e-sdk.mihoyo.com
 0.0.0.0 h.l.bytedns.net
 0.0.0.0 hls-l11.tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 hma.com
 0.0.0.0 hn-cnc.polaris.byteoversea.com
 0.0.0.0 hola.org
 0.0.0.0 hole.io
@@ -2527,6 +2531,7 @@
 0.0.0.0 hotsoon.snssdk.com.w.kunluncan.com
 0.0.0.0 hotspotshield.com
 0.0.0.0 hotstar.com
+0.0.0.0 howdy.id
 0.0.0.0 hoyolab.com
 0.0.0.0 hoyoverse.com
 0.0.0.0 hqporner.com
@@ -2880,6 +2885,7 @@
 0.0.0.0 iu-lq.snssdk.com
 0.0.0.0 iu.snssdk.com
 0.0.0.0 iu.snssdk.com.w.kunluncan.com
+0.0.0.0 ivpn.net
 0.0.0.0 ixigua.com
 0.0.0.0 ixigua.com.bsgslb.com
 0.0.0.0 ixigua.com.xi.zwtianshangm.com
@@ -4184,6 +4190,7 @@
 0.0.0.0 open.toutiao.com
 0.0.0.0 open.toutiao.com.bytedns.net
 0.0.0.0 open-useast2a.bytedanceapi.com
+0.0.0.0 openvpn.net
 0.0.0.0 oploverz.biz
 0.0.0.0 oploverz.in
 0.0.0.0 ops.musical.ly
@@ -4208,6 +4215,7 @@
 0.0.0.0 o-us.ibytedtos.com
 0.0.0.0 outbrain.com
 0.0.0.0 out.reddit.com
+0.0.0.0 ovpn.com
 0.0.0.0 owl-sg.snssdk.com
 0.0.0.0 owl-sg.tiktokv.com
 0.0.0.0 owl.snssdk.com
@@ -4803,6 +4811,7 @@
 0.0.0.0 photopea.com
 0.0.0.0 p.hypstarcdn.com
 0.0.0.0 physicsgames.net
+0.0.0.0 pia.com
 0.0.0.0 pickad.bytedance.com
 0.0.0.0 pick.bytedance.com
 0.0.0.0 picmonkey.com
@@ -4910,6 +4919,7 @@
 0.0.0.0 primevideo.com
 0.0.0.0 princessconnect.jp
 0.0.0.0 private-attribution.us.tiktokv.com
+0.0.0.0 privateinternetaccess.com
 0.0.0.0 pro.coinbase.com
 0.0.0.0 procurement-portal.bytedance.com
 0.0.0.0 profile.callofduty.com
@@ -4921,6 +4931,8 @@
 0.0.0.0 protonvpn.com
 0.0.0.0 proxfree.com
 0.0.0.0 proxyium.com
+0.0.0.0 proxyproxy.org
+0.0.0.0 proxyserver.com
 0.0.0.0 proxysite.com
 0.0.0.0 pscp.tv
 0.0.0.0 p.sgpstatp.com
@@ -22953,6 +22965,7 @@
 0.0.0.0 secure.instagram.com
 0.0.0.0 secure.latest.instagram.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 securevpn.com
 0.0.0.0 security1.snssdk.com
 0.0.0.0 security1.snssdk.com.w.kunluncan.com
 0.0.0.0 security2.snssdk.com
@@ -23192,6 +23205,7 @@
 0.0.0.0 sgpoi.bytedance.com
 0.0.0.0 sgpstatp.com
 0.0.0.0 sgsnssdk.com
+0.0.0.0 shadowsocks.org
 0.0.0.0 shadow.tech
 0.0.0.0 shadowverse.jp
 0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
@@ -23269,6 +23283,7 @@
 0.0.0.0 socialclub.rockstargames.com
 0.0.0.0 social.xbox.com
 0.0.0.0 sociolla.com
+0.0.0.0 softether.org
 0.0.0.0 sonyentertainmentnetwork.com
 0.0.0.0 so.toutiao.com
 0.0.0.0 so.toutiao.com.w.cdngslb.com
@@ -23315,6 +23330,7 @@
 0.0.0.0 srp4.snssdk.com
 0.0.0.0 ssdk-sg.pangle.io.ttdns2.com
 0.0.0.0 s.sgpstatp.com
+0.0.0.0 sshocean.com
 0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.ipstatp.com.edgekey.net
@@ -23420,6 +23436,7 @@
 0.0.0.0 sunporno.com
 0.0.0.0 supercell.com
 0.0.0.0 supergiantgames.com
+0.0.0.0 supervpn.com
 0.0.0.0 supplier.bytedance.com
 0.0.0.0 support.activision.com
 0.0.0.0 support.discord.com
@@ -23530,6 +23547,7 @@
 0.0.0.0 thumb-p2.xhcdn.com
 0.0.0.0 thumb-p3.xhcdn.com
 0.0.0.0 thumb-p4.xhcdn.com
+0.0.0.0 thundervpn.com
 0.0.0.0 tibia.com
 0.0.0.0 ticast1.toutiao50.com
 0.0.0.0 tidal.com
@@ -23832,6 +23850,7 @@
 0.0.0.0 topbuzz-applog-alisg.l.byteoversea.net
 0.0.0.0 topbuzz-lb-alisg.byteoversea.net
 0.0.0.0 topbuzz-lb-maliva.byteoversea.net
+0.0.0.0 torguard.net
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com.edgekey.net
 0.0.0.0 tos-ag-cu-agsy.snssdk.com
@@ -24068,6 +24087,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trending.tiktok.com
 0.0.0.0 trends.tiktok.com
+0.0.0.0 trojan-gfw.github.io
 0.0.0.0 trovo.live
 0.0.0.0 tr.rbxcdn.com
 0.0.0.0 tr.snapchat.com
@@ -24109,6 +24129,8 @@
 0.0.0.0 tumblr.com
 0.0.0.0 tuner.pandora.com
 0.0.0.0 tunnelbear.com
+0.0.0.0 turbovpn.co
+0.0.0.0 turbovpn.com
 0.0.0.0 tv.tiktok.com
 0.0.0.0 tv-va.tiktok.com
 0.0.0.0 tv.youtube.com
@@ -24156,6 +24178,7 @@
 0.0.0.0 unblocked-games.com
 0.0.0.0 unblockedgames.net
 0.0.0.0 unblockedgamespod.com
+0.0.0.0 unblockme.id
 0.0.0.0 unibet.com
 0.0.0.0 unicom.h.l.bytedns.net
 0.0.0.0 unicom.y.l.bytedns.net
@@ -24381,10 +24404,12 @@
 0.0.0.0 v2-dy-y.ixigua.com
 0.0.0.0 v2-dy-z.ixigua.com
 0.0.0.0 v2-eu.gts.byteoversea.net
+0.0.0.0 v2fly.org
 0.0.0.0 v2m.tiktokcdn.com
 0.0.0.0 v2.pstatp.com
 0.0.0.0 v2.pstatp.com.cloudcdn.net
 0.0.0.0 v2.pstatp.com.cloudglb.com
+0.0.0.0 v2ray.com
 0.0.0.0 v2.tiktokcdn.com
 0.0.0.0 v2-tt.ixigua.com
 0.0.0.0 v2-tt.ixiguavideo.com
@@ -24837,6 +24862,7 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpn2.byted.org
+0.0.0.0 vpnproxy.io
 0.0.0.0 v.pstatp.com
 0.0.0.0 vrchat.com
 0.0.0.0 v.redd.it
@@ -24855,6 +24881,7 @@
 0.0.0.0 vv.ipstatp.com
 0.0.0.0 vv-t1.ipstatp.com
 0.0.0.0 vx-bdp.tiktokv.com
+0.0.0.0 vyprvpn.com
 0.0.0.0 vzbmx.xzcs3zlph.com
 0.0.0.0 vzbmx.xzcs3zlph.com.edgesuite.net
 0.0.0.0 w1bobealq.mzfvozqybf.com
@@ -25215,6 +25242,7 @@
 0.0.0.0 windscribe.com
 0.0.0.0 wings.bytedance.com
 0.0.0.0 wintercamp.bytedance.com
+0.0.0.0 wireguard.com
 0.0.0.0 wit.bytedance.com
 0.0.0.0 withhive.com
 0.0.0.0 wix-tiktokads.s3.amazonaws.com
@@ -25709,6 +25737,7 @@
 0.0.0.0 xtb.com
 0.0.0.0 xvideos-cdn.com
 0.0.0.0 xvideos.com
+0.0.0.0 x-vpn.io
 0.0.0.0 xwzx.815181.com.bytedns.net
 0.0.0.0 xxbg.snssdk.com
 0.0.0.0 xxz.toutiao.com
@@ -25719,6 +25748,7 @@
 0.0.0.0 yangkeduo.com
 0.0.0.0 yesstyle.com
 0.0.0.0 y.l.bytedns.net
+0.0.0.0 yogavpn.com
 0.0.0.0 yostar.com
 0.0.0.0 you.com
 0.0.0.0 youdianyisi.com
@@ -25753,6 +25783,7 @@
 0.0.0.0 zendesk2.tiktok.com
 0.0.0.0 zendesk3.tiktok.com
 0.0.0.0 zendesk4.tiktok.com
+0.0.0.0 zendproxy.com
 0.0.0.0 zenless.hoyoverse.com
 0.0.0.0 zenmate.com
 0.0.0.0 zerxygpl.mzfvozqybf.com

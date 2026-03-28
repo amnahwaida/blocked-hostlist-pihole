@@ -71,3 +71,46 @@
 0.0.0.0 browsec.com
 0.0.0.0 touchvpn.net
 0.0.0.0 betternet.co
+
+# ==========================================
+# EXPANDED VPN & PROXY (PC, MOBILE, MULTI-OS)
+# ==========================================
+
+# --- High-Volume Mobile VPNs (Android/iOS) ---
+0.0.0.0 turbovpn.co
+0.0.0.0 turbovpn.com
+0.0.0.0 thundervpn.com
+0.0.0.0 supervpn.com
+0.0.0.0 yogavpn.com
+0.0.0.0 x-vpn.io
+0.0.0.0 securevpn.com
+0.0.0.0 vpnproxy.io
+
+# --- Popular Privacy/Pro VPNs ---
+0.0.0.0 privateinternetaccess.com
+0.0.0.0 pia.com
+0.0.0.0 vyprvpn.com
+0.0.0.0 torguard.net
+0.0.0.0 airvpn.org
+0.0.0.0 ivpn.net
+0.0.0.0 ovpn.com
+0.0.0.0 hidemyass.com
+0.0.0.0 hma.com
+
+# --- Bypass Projects & Protocols (Infra) ---
+0.0.0.0 shadowsocks.org
+0.0.0.0 v2ray.com
+0.0.0.0 v2fly.org
+0.0.0.0 trojan-gfw.github.io
+0.0.0.0 openvpn.net
+0.0.0.0 wireguard.com
+0.0.0.0 softether.org
+0.0.0.0 sshocean.com
+0.0.0.0 howdy.id
+
+# --- Additional Web Proxies ---
+0.0.0.0 anonymouse.org
+0.0.0.0 zendproxy.com
+0.0.0.0 unblockme.id
+0.0.0.0 proxyproxy.org
+0.0.0.0 proxyserver.com
