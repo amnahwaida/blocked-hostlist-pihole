@@ -706,3 +706,70 @@
 0.0.0.0 fog.com
 0.0.0.0 maxgames.com
 0.0.0.0 physicsgames.net
+
+# ==========================================
+# LATEST TRENDING GAMES (2024-2026)
+# ==========================================
+
+# --- Pocketpair (Palworld) ---
+0.0.0.0 pocketpair.jp
+0.0.0.0 palworld.game
+
+# --- Kuro Games (Wuthering Waves) ---
+0.0.0.0 kurogame.com
+0.0.0.0 wutheringwaves.gg
+0.0.0.0 api.kurogame.com
+
+# --- Arrowhead / Helldivers 2 ---
+0.0.0.0 arrowheadgamestudios.com
+0.0.0.0 helldivers2.com
+
+# --- Zeekerss (Lethal Company) ---
+0.0.0.0 zeekerss.com
+
+# --- Keen Games (Enshrouded) ---
+0.0.0.0 keengames.com
+0.0.0.0 enshrouded.com
+
+# --- Manor Lords / Slavic Magic ---
+0.0.0.0 manorlords.com
+
+# --- VRChat & Metaverse ---
+0.0.0.0 vrchat.com
+0.0.0.0 www.vrchat.com
+0.0.0.0 api.vrchat.cloud
+0.0.0.0 recroom.com
+0.0.0.0 www.recroom.com
+
+# --- Level Infinite / Tencent International ---
+0.0.0.0 levelinfinite.com
+0.0.0.0 nikke-en.com
+0.0.0.0 honorofkings.com
+
+# --- Gray Zone Warfare / Madfinger ---
+0.0.0.0 madfingergames.com
+0.0.0.0 grayzonewarfare.com
+
+# --- Bodycam / Reissad Studio ---
+0.0.0.0 reissad.com
+
+# --- Delta Force / Team Jade ---
+0.0.0.0 playdeltaforce.com
+
+# ==========================================
+# CLOUD GAMING PLATFORMS
+# ==========================================
+
+# --- GeForce NOW / NVIDIA ---
+0.0.0.0 nvidiagrid.net
+0.0.0.0 geforcenow.com
+
+# --- Xbox Cloud Gaming ---
+0.0.0.0 xboxlive.com/cloudgaming
+
+# --- Luna / Amazon ---
+0.0.0.0 luna.amazon.com
+
+# --- Boosteroid / Shadow ---
+0.0.0.0 boosteroid.com
+0.0.0.0 shadow.tech

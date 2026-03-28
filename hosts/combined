@@ -31,7 +31,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:16:49 UTC
+# Generated: 2026-03-28 22:18:15 UTC
 # ============================================
 
 
@@ -895,6 +895,7 @@
 0.0.0.0 api.joox.com
 0.0.0.0 api-jooxtv.joox.com
 0.0.0.0 api.king.com
+0.0.0.0 api.kurogame.com
 0.0.0.0 api.line.me
 0.0.0.0 api-live.amemv.com
 0.0.0.0 api-live.amemv.com.w.kunluncan.com
@@ -999,6 +1000,7 @@
 0.0.0.0 api-va.tiktokv.com
 0.0.0.0 api-va.tiktokv.com.edgekey.net
 0.0.0.0 api.vk.com
+0.0.0.0 api.vrchat.cloud
 0.0.0.0 api.x.com
 0.0.0.0 api-yak.amemv.com
 0.0.0.0 api-yak-hl.amemv.com
@@ -1043,6 +1045,7 @@
 0.0.0.0 armorgames.com
 0.0.0.0 armor-sg.bytedance.com
 0.0.0.0 armor-va.bytedance.com
+0.0.0.0 arrowheadgamestudios.com
 0.0.0.0 artifact.bytedance.com
 0.0.0.0 artists.tiktok.com
 0.0.0.0 artist.tiktok.com
@@ -1225,6 +1228,7 @@
 0.0.0.0 book.snssdk.com.w.kunluncan.com
 0.0.0.0 boombeach.com
 0.0.0.0 boomlive.tv
+0.0.0.0 boosteroid.com
 0.0.0.0 boredbutton.com
 0.0.0.0 bos.bytegeo.akadns.net
 0.0.0.0 bowland.bytedance.com
@@ -1813,6 +1817,7 @@
 0.0.0.0 eneba.com
 0.0.0.0 engineering.instagram.com
 0.0.0.0 engine.propellerads.com
+0.0.0.0 enshrouded.com
 0.0.0.0 env-boe.byted.org
 0.0.0.0 epicgames.com
 0.0.0.0 epicgames-download1.akamaized.net
@@ -2154,6 +2159,7 @@
 0.0.0.0 gecko-va-useast2a.musical.ly
 0.0.0.0 gecko-va-useast2a.musical.ly.edgesuite.net
 0.0.0.0 gedfaccdcf.temp.p23.tc.cdntip.com
+0.0.0.0 geforcenow.com
 0.0.0.0 gelbooru.com
 0.0.0.0 gemini.com
 0.0.0.0 gemini.google.com
@@ -2197,6 +2203,7 @@
 0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphql.instagram.com
+0.0.0.0 grayzonewarfare.com
 0.0.0.0 greenmangaming.com
 0.0.0.0 grelationship-sg.snssdk.com
 0.0.0.0 grindr.com
@@ -2242,6 +2249,7 @@
 0.0.0.0 <<<<<<< HEAD
 0.0.0.0 healthchina.bytedance.com
 0.0.0.0 hearthstone.blizzard.com
+0.0.0.0 helldivers2.com
 0.0.0.0 helo.sgsnssdk.com
 0.0.0.0 helpdesk.bytedance.com
 0.0.0.0 help.instagram.com
@@ -2267,6 +2275,7 @@
 0.0.0.0 homed.snssdk.com.w.kunluncan.com
 0.0.0.0 honkai.com
 0.0.0.0 honkaiimpact3.hoyoverse.com
+0.0.0.0 honorofkings.com
 0.0.0.0 hoodamath.com
 0.0.0.0 hotapi100-normal-useast1a.tiktokv.com
 0.0.0.0 hotapi101-normal-useast1a.tiktokv.com
@@ -2901,6 +2910,7 @@
 0.0.0.0 kds-sg.bytedance.com
 0.0.0.0 kds-sg.byteoversea.com
 0.0.0.0 kds-useast2a.byteoversea.com
+0.0.0.0 keengames.com
 0.0.0.0 kefu.bytedance.com
 0.0.0.0 ken.snssdk.com
 0.0.0.0 ketchapp.com
@@ -2925,6 +2935,7 @@
 0.0.0.0 kucoin.com
 0.0.0.0 kuramanime.biz
 0.0.0.0 kuramanime.net
+0.0.0.0 kurogame.com
 0.0.0.0 l2-toutiao-ml.gslb.ks-cdn1.com
 0.0.0.0 l2-toutiao-ml.gslb.ksyuncdn.com
 0.0.0.0 l9bclvbns.xzcs3zlph.com
@@ -2971,6 +2982,7 @@
 0.0.0.0 leovegas.com
 0.0.0.0 letsencrypt.bytecdn.cn
 0.0.0.0 level3.blizzard.com
+0.0.0.0 levelinfinite.com
 0.0.0.0 lf0-feedback-private-va.tiktok.com
 0.0.0.0 lf16-cdn-tos.tiktokcdn-us.com
 0.0.0.0 lf16-effectcdn-sg.tiktokcdn.com
@@ -3366,6 +3378,7 @@
 0.0.0.0 luckycat-power-lf.snssdk.com
 0.0.0.0 luckycat-power-lq.snssdk.com
 0.0.0.0 luckycat-power.snssdk.com
+0.0.0.0 luna.amazon.com
 0.0.0.0 luno.com
 0.0.0.0 lvc.bytedance.com
 0.0.0.0 lvc-data.bytedance.com
@@ -3383,6 +3396,7 @@
 0.0.0.0 m1-16.tiktok.com
 0.0.0.0 m2-16.tiktok.com
 0.0.0.0 madewithover.com
+0.0.0.0 madfingergames.com
 0.0.0.0 mail.bytedance.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
@@ -3393,6 +3407,7 @@
 0.0.0.0 mangolive.com
 0.0.0.0 mangolive.net
 0.0.0.0 manifest.googlevideo.com
+0.0.0.0 manorlords.com
 0.0.0.0 map.bytedance.com
 0.0.0.0 maplestory.nexon.com
 0.0.0.0 maplestory.nexon.net
@@ -3799,6 +3814,7 @@
 0.0.0.0 ngl.link
 0.0.0.0 nhentai.net
 0.0.0.0 nianticlabs.com
+0.0.0.0 nikke-en.com
 0.0.0.0 nintendo.co.id
 0.0.0.0 nintendo.com
 0.0.0.0 nintendo.net
@@ -3834,6 +3850,7 @@
 0.0.0.0 ns.s.bytetcdn.com
 0.0.0.0 nsx-e.np.dl.playstation.net
 0.0.0.0 nsx.np.dl.playstation.net
+0.0.0.0 nvidiagrid.net
 0.0.0.0 o13.ptr2902.service.tiktok.com
 0.0.0.0 o14.ptr1445.account.tiktok.com
 0.0.0.0 o15.ptr425.account.tiktok.com
@@ -4562,6 +4579,7 @@
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 page.snssdk.com
 0.0.0.0 palm.bytedance.com
+0.0.0.0 palworld.game
 0.0.0.0 pandora.com
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com
@@ -4657,6 +4675,7 @@
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.openai.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 playdeltaforce.com
 0.0.0.0 player.twitch.tv
 0.0.0.0 playfabapi.com
 0.0.0.0 playfab.com
@@ -4673,6 +4692,7 @@
 0.0.0.0 plugin-patch-api.bytedance.com
 0.0.0.0 pn.ea.com
 0.0.0.0 pocketoption.com
+0.0.0.0 pocketpair.jp
 0.0.0.0 poe.com
 0.0.0.0 pof.com
 0.0.0.0 poi-admin.bytedance.com
@@ -22092,6 +22112,7 @@
 0.0.0.0 rebahin.com
 0.0.0.0 rebahin.tv
 0.0.0.0 rebahin.vip
+0.0.0.0 recroom.com
 0.0.0.0 reddit.com
 0.0.0.0 redditinc.com
 0.0.0.0 redditmail.com
@@ -22108,6 +22129,7 @@
 0.0.0.0 redtube.com
 0.0.0.0 ref.bytedance.com
 0.0.0.0 refer.bytedance.com
+0.0.0.0 reissad.com
 0.0.0.0 rekeningku.com
 0.0.0.0 rela.pc.cdn.bitgravity.com
 0.0.0.0 remove.bg
@@ -22967,6 +22989,7 @@
 0.0.0.0 sgpoi.bytedance.com
 0.0.0.0 sgpstatp.com
 0.0.0.0 sgsnssdk.com
+0.0.0.0 shadow.tech
 0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 share.musemuse.cn
 0.0.0.0 share-sg.snssdk.com
@@ -24572,6 +24595,7 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpn2.byted.org
 0.0.0.0 v.pstatp.com
+0.0.0.0 vrchat.com
 0.0.0.0 v.redd.it
 0.0.0.0 vrv.co
 0.0.0.0 vsco.co
@@ -24951,6 +24975,7 @@
 0.0.0.0 wshifen.com
 0.0.0.0 ws-hl.l.bytedns.net
 0.0.0.0 ws.l.bytedns.net
+0.0.0.0 wutheringwaves.gg
 0.0.0.0 www.1v1.lol
 0.0.0.0 www.1xbet.com
 0.0.0.0 www.22bet.com
@@ -25237,6 +25262,7 @@
 0.0.0.0 www.quotex.io
 0.0.0.0 www.qxbroker.com
 0.0.0.0 www.realitykings.com
+0.0.0.0 www.recroom.com
 0.0.0.0 www.reddit.com
 0.0.0.0 www.redditstatic.com
 0.0.0.0 www.redtube.com
@@ -25313,6 +25339,7 @@
 0.0.0.0 www.vidio.com
 0.0.0.0 www.viu.com
 0.0.0.0 www.vk.com
+0.0.0.0 www.vrchat.com
 0.0.0.0 www.vsco.co
 0.0.0.0 www.wapa.com
 0.0.0.0 www.waplog.com
@@ -25346,6 +25373,7 @@
 0.0.0.0 xbox.com
 0.0.0.0 xbox-ecn.vo.msecnd.net
 0.0.0.0 xboxlive.com
+0.0.0.0 xboxlive.com/cloudgaming
 0.0.0.0 x.com
 0.0.0.0 xda-developers.com
 0.0.0.0 xdevice-api.tiktokv.com
@@ -25421,6 +25449,7 @@
 0.0.0.0 zd.feishu.bytedance.com
 0.0.0.0 zdmall.snssdk.com
 0.0.0.0 zdmall.snssdk.com.w.kunluncan.com
+0.0.0.0 zeekerss.com
 0.0.0.0 zendesk1.tiktok.com
 0.0.0.0 zendesk2.tiktok.com
 0.0.0.0 zendesk3.tiktok.com
