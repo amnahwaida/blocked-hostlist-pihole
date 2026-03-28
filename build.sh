@@ -48,6 +48,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - malware-phishing: Malware & security threats
 #   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
+#   - news-weather    : News portals & weather
 #   - porn            : Adult content (18+)
 #   - proxy-vpn       : VPNs & Web Proxies
 #   - shopping        : E-commerce platforms

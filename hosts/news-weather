@@ -1,0 +1,123 @@
+# ============================================
+# News & Weather Services Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major news portals and weather forecasting 
+# services (Global & Indonesia).
+# ============================================
+
+# ==========================================
+# INDONESEIAN NEWS PORTALS (Mainstream)
+# ==========================================
+
+# --- Detik & Kompas ---
+0.0.0.0 detik.com
+0.0.0.0 www.detik.com
+0.0.0.0 kompas.com
+0.0.0.0 www.kompas.com
+0.0.0.0 kompas.tv
+
+# --- Tribun Network (Very common distraction) ---
+0.0.0.0 tribunnews.com
+0.0.0.0 tribun.news
+
+# --- Liputan6 & CNN/CNBC Indo ---
+0.0.0.0 liputan6.com
+0.0.0.0 cnnindonesia.com
+0.0.0.0 cnbcindonesia.com
+
+# --- Kumparan, IDN Times, Temp ---
+0.0.0.0 kumparan.com
+0.0.0.0 idntimes.com
+0.0.0.0 tempo.co
+
+# --- Okezone, Sindonews, Viva ---
+0.0.0.0 okezone.com
+0.0.0.0 sindonews.com
+0.0.0.0 viva.co.id
+
+# ==========================================
+# INTERNATIONAL NEWS PORTALS
+# ==========================================
+
+0.0.0.0 bbc.com
+0.0.0.0 bbc.co.uk
+0.0.0.0 cnn.com
+0.0.0.0 reuters.com
+0.0.0.0 apnews.com
+0.0.0.0 nytimes.com
+0.0.0.0 wsj.com
+0.0.0.0 bloomberg.com
+0.0.0.0 aljazeera.com
+0.0.0.0 foxnews.com
+0.0.0.0 theguardian.com
+0.0.0.0 huffpost.com
+
+# ==========================================
+# WEATHER SERVICES
+# ==========================================
+
+0.0.0.0 accuweather.com
+0.0.0.0 weather.com
+0.0.0.0 wunderground.com
+0.0.0.0 windy.com
+0.0.0.0 meteoblue.com
+0.0.0.0 weather.yahoo.com
+0.0.0.0 msn.com/en-us/weather
+
+# ==========================================
+# EXPANDED NEWS (TECH, SPORTS, REGIONAL)
+# ==========================================
+
+# --- Indonesian Media Expansion ---
+0.0.0.0 suara.com
+0.0.0.0 merdeka.com
+0.0.0.0 rmol.id
+0.0.0.0 beritasatu.com
+0.0.0.0 metrotvnews.com
+0.0.0.0 inews.id
+0.0.0.0 okezone.com
+0.0.0.0 sindonews.com
+0.0.0.0 jpnn.com
+0.0.0.0 jawapos.com
+0.0.0.0 fajar.co.id
+0.0.0.0 pikiran-rakyat.com
+
+# --- Indonesian Tech & Digital News ---
+0.0.0.0 dailysocial.id
+0.0.0.0 gizmology.id
+0.0.0.0 technologue.id
+0.0.0.0 gadgetren.com
+0.0.0.0 infokomputer.grid.id
+
+# --- Indonesian Sports News ---
+0.0.0.0 bola.net
+0.0.0.0 bola.com
+0.0.0.0 topskor.id
+0.0.0.0 skor.id
+
+# --- Global Tech News ---
+0.0.0.0 theverge.com
+0.0.0.0 techcrunch.com
+0.0.0.0 engadget.com
+0.0.0.0 wired.com
+0.0.0.0 gizmodo.com
+0.0.0.0 arstechnica.com
+0.0.0.0 cnet.com
+0.0.0.0 zdnet.com
+0.0.0.0 mashable.com
+
+# --- Global Business & Finance ---
+0.0.0.0 ft.com
+0.0.0.0 forbes.com
+0.0.0.0 fortune.com
+0.0.0.0 businessinsider.com
+0.0.0.0 hbr.org
+
+# --- Global Sports News ---
+0.0.0.0 espn.com
+0.0.0.0 skysports.com
+0.0.0.0 eurosport.com
+0.0.0.0 fifa.com
+0.0.0.0 nba.com
