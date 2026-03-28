@@ -1,0 +1,69 @@
+# ============================================
+# Remote Desktop & Remote Control Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major remote access and coordination 
+# services (AnyDesk, TeamViewer, etc).
+# ============================================
+
+# --- AnyDesk ---
+0.0.0.0 anydesk.com
+0.0.0.0 www.anydesk.com
+0.0.0.0 boot.anydesk.com
+0.0.0.0 relay.anydesk.com
+0.0.0.0 update.anydesk.com
+0.0.0.0 anydesk.net
+0.0.0.0 anydesk.link
+
+# --- TeamViewer ---
+0.0.0.0 teamviewer.com
+0.0.0.0 www.teamviewer.com
+0.0.0.0 master.teamviewer.com
+0.0.0.0 router.teamviewer.com
+0.0.0.0 ping.teamviewer.com
+0.0.0.0 server.teamviewer.com
+0.0.0.0 teamviewer.master.com
+
+# --- Chrome Remote Desktop ---
+0.0.0.0 remotedesktop.google.com
+0.0.0.0 remotedesktop.google.com.nsatc.net
+0.0.0.0 talkgadget.google.com
+
+# --- LogMeIn / GoToMyPC ---
+0.0.0.0 logmein.com
+0.0.0.0 gotomypc.com
+0.0.0.0 logme.in
+0.0.0.0 join.me
+0.0.0.0 hamachi.cc
+
+# --- Splashtop ---
+0.0.0.0 splashtop.com
+0.0.0.0 splashtop.net
+
+# --- VNC / RDP-over-HTTP / NoMachine ---
+0.0.0.0 realvnc.com
+0.0.0.0 tightvnc.com
+0.0.0.0 ultralvnc.com
+0.0.0.0 nomachine.com
+0.0.0.0 zerotier.com
+0.0.0.0 tailscale.com
+
+# --- Remote Support ---
+0.0.0.0 screenconnect.com
+0.0.0.0 connectwise.com
+0.0.0.0 bomgar.com
+0.0.0.0 beyondtrust.com
+0.0.0.0 dameware.com
+0.0.0.0 dwrcs.com
+0.0.0.0 rustdesk.com
+0.0.0.0 aerosync.com
+0.0.0.0 aeroadmin.com
+0.0.0.0 ammyy.com
+0.0.0.0 ultraviewer.net
+0.0.0.0 suprmeremote.com
+0.0.0.0 showmypc.com
+0.0.0.0 parsec.app
+0.0.0.0 parsec.tv
+0.0.0.0 moonlight-stream.org
+0.0.0.0 remmina.org

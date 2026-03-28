@@ -1,0 +1,105 @@
+# ============================================
+# Academic Cheating & AI Paraphrasing Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major tools used for academic dishonesty, 
+# automatic paraphrasing, and answer sharing.
+# ============================================
+
+# --- AI Paraphrasing & Humanizers ---
+0.0.0.0 quillbot.com
+0.0.0.0 www.quillbot.com
+0.0.0.0 spinbot.com
+0.0.0.0 smallseotools.com/article-rewriter
+0.0.0.0 paraphraser.io
+0.0.0.0 wordai.com
+0.0.0.0 rewriter.io
+0.0.0.0 ai-humanizer.ai
+0.0.0.0 undetected.ai
+0.0.0.0 stealthgpt.ai
+0.0.0.0 undetectable.ai
+0.0.0.0 bypassai.io
+0.0.0.0 writehuman.ai
+
+# --- Q&A / Homework Sharing ---
+0.0.0.0 chegg.com
+0.0.0.0 www.chegg.com
+0.0.0.0 coursehero.com
+0.0.0.0 brainly.com
+0.0.0.0 brainly.co.id
+0.0.0.0 brainly.in
+0.0.0.0 brainly.ph
+0.0.0.0 quora.com (sometimes educational, but often for answers)
+0.0.0.0 bartleby.com
+0.0.0.0 slader.com (now Quizlet parts)
+0.0.0.0 quizlet.com (useful but often used for answer key sharing)
+0.0.0.0 studocu.com
+0.0.0.0 scribd.com (often hosts answer keys)
+0.0.0.0 docsity.com
+0.0.0.0 academia.edu (useful but used for cheating docs too)
+0.0.0.0 homeworkmarket.com
+0.0.0.0 sweetstudy.com
+0.0.0.0 paperhelp.org
+0.0.0.0 essaytyper.com
+
+# --- Mathematical Solvers (Step-by-Step) ---
+0.0.0.0 photomath.com
+0.0.0.0 photomath.net
+0.0.0.0 symbolab.com
+0.0.0.0 wolframalpha.com (powerful tool, but used for solving work)
+0.0.0.0 mathway.com
+0.0.0.0 cymath.com
+
+# --- Plagiarism Bypassers ---
+0.0.0.0 plagiarismbypass.com
+0.0.0.0 duplichecker.com
+0.0.0.0 plagiarismdetector.net
+0.0.0.0 papersowl.com
+0.0.0.0 essaybot.com
+0.0.0.0 grammarly.com (highly recommended to keep, but can be blocked if requested)
+0.0.0.0 gingersoftware.com
+0.0.0.0 hemingwayapp.com
+0.0.0.0 prowritingaid.com
+0.0.0.0 paperpal.com
+0.0.0.0 writesonic.com
+0.0.0.0 copy.ai
+0.0.0.0 rytr.me
+0.0.0.0 jasper.ai
+0.0.0.0 copyai.com
+0.0.0.0 anyword.com
+0.0.0.0 hypotenuse.ai
+0.0.0.0 simplified.com
+0.0.0.0 copymatic.ai
+0.0.0.0 scalenut.com
+0.0.0.0 closerscopy.com
+0.0.0.0 peppertype.ai
+0.0.0.0 fratase.io
+0.0.0.0 wordtune.com
+0.0.0.0 linguix.com
+0.0.0.0 languagetool.org
+0.0.0.0 slickwrite.com
+0.0.0.0 afterthedeadline.com
+0.0.0.0 whitetm.com
+0.0.0.0 plesk.com (can host various tools)
+0.0.0.0 text-compare.com
+0.0.0.0 diffchecker.com
+0.0.0.0 copyleaks.com
+0.0.0.0 turnitin.com (keep if school actually uses it for detection)
+0.0.0.0 scribbr.com
+0.0.0.0 citationmachine.net
+0.0.0.0 easybib.com
+0.0.0.0 bibme.org
+0.0.0.0 refme.com
+0.0.0.0 menderey.com
+0.0.0.0 zotero.org
+0.0.0.0 endnote.com
+0.0.0.0 citethisforme.com
+"""
+
+target_file = 'hosts/academic-cheating'
+
+with open(target_file, 'a') as f:
+    f.write(CodeContent)
+
+print("Academic cheating and AI paraphrasing blocklist created")

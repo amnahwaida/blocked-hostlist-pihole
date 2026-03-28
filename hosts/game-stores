@@ -1,0 +1,92 @@
+# ============================================
+# Game Storefronts & Launchers Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major digital game stores, launchers, 
+# and distribution platforms.
+# ============================================
+
+# --- PC Major Stores ---
+0.0.0.0 steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 steamstat.us
+0.0.0.0 epicgames.com
+0.0.0.0 gog.com
+0.0.0.0 gog-statics.com
+0.0.0.0 origin.com
+0.0.0.0 ea.com (specific ea store domains)
+0.0.0.0 tracker-ea.com
+0.0.0.0 battle.net
+0.0.0.0 blizzard.com
+0.0.0.0 blizzard.net
+0.0.0.0 ubisoft.com (store specific)
+0.0.0.0 uplay.com
+0.0.0.0 ubi.com
+0.0.0.0 rockstargames.com
+0.0.0.0 socialclub.rockstargames.com
+
+# --- Console Major Stores ---
+0.0.0.0 nintendo.com
+0.0.0.0 nintendo.net
+0.0.0.0 nintendo.jp
+0.0.0.0 playstation.com
+0.0.0.0 sonyentertainmentnetwork.com
+0.0.0.0 playstation.net
+0.0.0.0 playstationnetwork.com
+0.0.0.0 xbox.com
+0.0.0.0 xboxlive.com
+0.0.0.0 microsoft.com (specific xbox store domains)
+0.0.0.0 mp.microsoft.com
+0.0.0.0 store-images.s-microsoft.com
+
+# --- Others & Mobile Stores ---
+0.0.0.0 itch.io
+0.0.0.0 gamejolt.com
+0.0.0.0 humblebundle.com
+0.0.0.0 greenmangaming.com
+0.0.0.0 fanatical.com
+0.0.0.0 kinguin.net
+0.0.0.0 g2a.com
+0.0.0.0 cdkeys.com
+0.0.0.0 play.google.com (can be too far, but often blocked if needed)
+0.0.0.0 apps.apple.com
+0.0.0.0 appstore.com
+0.0.0.0 mzstatic.com
+0.0.0.0 galaxy.store
+0.0.0.0 apkpure.com
+0.0.0.0 taptap.io
+0.0.0.0 softonic.com
+0.0.0.0 filehippo.com
+0.0.0.0 download.cnet.com
+0.0.0.0 uptodown.com
+0.0.0.0 malavida.com
+0.0.0.0 moddroid.co
+0.0.0.0 an1.com
+0.0.0.0 happymod.com
+0.0.0.0 rexdl.com
+0.0.0.0 revdl.com
+0.0.0.0 techbigs.com
+0.0.0.0 an1.io
+0.0.0.0 a2zapk.com
+0.0.0.0 sbupload.com
+0.0.0.0 ddownload.com
+0.0.0.0 bayfiles.com
+0.0.0.0 gofile.io
+0.0.0.0 anonfiles.com
+0.0.0.0 turbobit.net
+0.0.0.0 rapidgator.net
+0.0.0.0 uploaded.net
+0.0.0.0 1fichier.com
+0.0.0.0 uptobox.com
+0.0.0.0 datafilehost.com
+0.0.0.0 sendspace.com
+0.0.0.0 zippyshare.com (defunct but good for mirrors)
+"""
+
+target_file = 'hosts/game-stores'
+
+with open(target_file, 'a') as f:
+    f.write(CodeContent)
+
+print("Game storefronts and launchers blocklist created")

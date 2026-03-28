@@ -1,0 +1,64 @@
+# ============================================
+# URL Shorteners Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major URL shortening services often 
+# used to mask blocked content or bypass filters.
+# ============================================
+
+# --- Major Global Shorteners ---
+0.0.0.0 bit.ly
+0.0.0.0 tinyurl.com
+0.0.0.0 t.co
+0.0.0.0 is.gd
+0.0.0.0 buff.ly
+0.0.0.0 adf.ly
+0.0.0.0 goo.gl
+0.0.0.0 ow.ly
+0.0.0.0 bl.ink
+0.0.0.0 rebrandly.com
+0.0.0.0 bitly.com
+0.0.0.0 bitly.is
+0.0.0.0 j.mp
+0.0.0.0 snip.ly
+0.0.0.0 b.link
+0.0.0.0 bit.do
+0.0.0.0 mcaf.ee
+0.0.0.0 su.pr
+0.0.0.0 budurl.com
+0.0.0.0 cli.gs
+
+# --- Social Media Shorteners ---
+0.0.0.0 fb.me
+0.0.0.0 lnkd.in
+0.0.0.0 t.cn
+0.0.0.0 wp.me
+0.0.0.0 amzn.to
+0.0.0.0 trib.al
+0.0.0.0 nyti.ms
+0.0.0.0 yhoo.it
+0.0.0.0 wpo.st
+0.0.0.0 wkrb.it
+
+# --- Regional & Smaller ---
+0.0.0.0 s.id
+0.0.0.0 bit.ly.id
+0.0.0.0 d.ae
+0.0.0.0 clck.ru
+0.0.0.0 u.to
+0.0.0.0 goo.by
+0.0.0.0 url.ie
+0.0.0.0 tiny.cc
+0.0.0.0 tr.im
+0.0.0.0 shink.me
+0.0.0.0 adfoc.us
+0.0.0.0 linkshrink.net
+0.0.0.0 linkvertise.com
+0.0.0.0 adyou.me
+0.0.0.0 croco.site
+0.0.0.0 cuty.io
+0.0.0.0 shrinkme.io
+0.0.0.0 ouo.io
+0.0.0.0 bc.vc
+0.0.0.0 tiny.pl

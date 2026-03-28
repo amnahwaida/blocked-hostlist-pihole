@@ -39,9 +39,11 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:59:58 UTC
+# Generated: 2026-03-28 23:06:01 UTC
 # ============================================
 
+
+# --- academic-cheating ---
 
 # --- ads-tracking ---
 
@@ -63,6 +65,8 @@
 
 # --- gambling ---
 
+# --- game-stores ---
+
 # --- gaming ---
 
 # --- instagram ---
@@ -81,6 +85,8 @@
 
 # --- proxy-vpn ---
 
+# --- remote-control ---
+
 # --- shopping ---
 
 # --- short-video ---
@@ -98,6 +104,8 @@
 # --- trading-crypto ---
 
 # --- twitter ---
+
+# --- url-shortener ---
 
 # --- video-streaming ---
 
@@ -200,6 +208,7 @@
 0.0.0.0 a21.z.akamai.net
 0.0.0.0 a2.ipstatp.com
 0.0.0.0 a2.pstatp.com
+0.0.0.0 a2zapk.com
 0.0.0.0 a3.bytecdn.cn
 0.0.0.0 a3-ipv6.pstatp.com
 0.0.0.0 a3-ipv6.pstatp.com.w.cdngslb.com
@@ -240,6 +249,7 @@
 0.0.0.0 abtestvm.bytedance.com
 0.0.0.0 abtestvm-sg.bytedance.com
 0.0.0.0 abtestvm-va.bytedance.com
+0.0.0.0 academia.edu (useful but used for cheating docs too)
 0.0.0.0 access.line.me
 0.0.0.0 accesstrade.co.id
 0.0.0.0 accesstrade.global
@@ -284,6 +294,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad-experience.bytedance.com
 0.0.0.0 adf.ly
+0.0.0.0 adfoc.us
 0.0.0.0 adform.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-instantpage-i18n.tiktokv.com
@@ -329,11 +340,15 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 advertising.com
 0.0.0.0 adx.toutiao.com
+0.0.0.0 adyou.me
+0.0.0.0 aeroadmin.com
+0.0.0.0 aerosync.com
 0.0.0.0 aff-id.tiktok.com
 0.0.0.0 affiliate-id.tiktok.com
 0.0.0.0 affiliate.tiktok.com
 0.0.0.0 aff.tiktok.com
 0.0.0.0 afreecatv.com
+0.0.0.0 afterthedeadline.com
 0.0.0.0 agame.com
 0.0.0.0 agar.io
 0.0.0.0 agent.toutiao.com
@@ -341,6 +356,7 @@
 0.0.0.0 ai.bytedance.com
 0.0.0.0 aicamp.bytedance.com
 0.0.0.0 aideas.toutiao.com
+0.0.0.0 ai-humanizer.ai
 0.0.0.0 ailab.bytedance.com
 0.0.0.0 ai-lab-challenge.bytedance.com
 0.0.0.0 ailab-cv-sdk.bytedance.com
@@ -412,9 +428,12 @@
 0.0.0.0 amemv-quic-upload.l.bytedns.net
 0.0.0.0 amfr.snssdk.com
 0.0.0.0 ammp.byteoversea.com
+0.0.0.0 ammyy.com
 0.0.0.0 among.us
 0.0.0.0 amplitude.com
 0.0.0.0 amzn.to
+0.0.0.0 an1.com
+0.0.0.0 an1.io
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics-i18n.tiktok.com
@@ -434,10 +453,15 @@
 0.0.0.0 animoto.com
 0.0.0.0 aniwave.to
 0.0.0.0 annapurnainteractive.com
+0.0.0.0 anonfiles.com
 0.0.0.0 anonymouse.org
 0.0.0.0 anthropic.com
 0.0.0.0 antpool.com
 0.0.0.0 antpool.net
+0.0.0.0 anydesk.com
+0.0.0.0 anydesk.link
+0.0.0.0 anydesk.net
+0.0.0.0 anyword.com
 0.0.0.0 apex.ea.com
 0.0.0.0 api100-core-c-hl.amemv.com
 0.0.0.0 api100-core-c-lf.amemv.com
@@ -1070,6 +1094,7 @@
 0.0.0.0 api-yak.amemv.com
 0.0.0.0 api-yak-hl.amemv.com
 0.0.0.0 api.zynga.com
+0.0.0.0 apkpure.com
 0.0.0.0 aplus.bytedance.com
 0.0.0.0 apmlog.snssdk.com
 0.0.0.0 apnews.com
@@ -1094,12 +1119,14 @@
 0.0.0.0 app.musical.ly
 0.0.0.0 appnexus.com
 0.0.0.0 approval.bytedance.com
+0.0.0.0 apps.apple.com
 0.0.0.0 apps.bytedance.com
 0.0.0.0 app-settings.photonengine.io
 0.0.0.0 apps.facebook.com
 0.0.0.0 appsflyer.com
 0.0.0.0 app.snapchat.com
 0.0.0.0 app.snssdk.com
+0.0.0.0 appstore.com
 0.0.0.0 app-test.musemuse.cn
 0.0.0.0 app.toutiao.com
 0.0.0.0 app.toutiao.com.w.cdngslb.com
@@ -1213,11 +1240,13 @@
 0.0.0.0 banggood.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 bard.google.com
+0.0.0.0 bartleby.com
 0.0.0.0 battlefield.com
 0.0.0.0 battlelog.battlefield.com
 0.0.0.0 battle.net
 0.0.0.0 battlenet.com.cn
 0.0.0.0 battleye.com
+0.0.0.0 bayfiles.com
 0.0.0.0 bbc.com
 0.0.0.0 bbc.co.uk
 0.0.0.0 bbs-api-os.mihoyo.com
@@ -1244,6 +1273,7 @@
 0.0.0.0 betsson.com
 0.0.0.0 betternet.co
 0.0.0.0 betway.com
+0.0.0.0 beyondtrust.com
 0.0.0.0 bfc-test-dynamic.snssdk.com
 0.0.0.0 bfc-test-gather.snssdk.com
 0.0.0.0 bfc-test-hole.snssdk.com
@@ -1260,6 +1290,7 @@
 0.0.0.0 bhns1.toutiao.com
 0.0.0.0 bhns2.toutiao.com
 0.0.0.0 bianjixing.snssdk.com
+0.0.0.0 bibme.org
 0.0.0.0 bic.bytedance.com
 0.0.0.0 bic.snssdk.com
 0.0.0.0 bidder.criteo.com
@@ -1276,9 +1307,14 @@
 0.0.0.0 binary.com
 0.0.0.0 binomo.com
 0.0.0.0 binomo-web.com
+0.0.0.0 bit.do
 0.0.0.0 bitfinex.com
 0.0.0.0 bitfly.at
 0.0.0.0 bitget.com
+0.0.0.0 bit.ly
+0.0.0.0 bitly.com
+0.0.0.0 bit.ly.id
+0.0.0.0 bitly.is
 0.0.0.0 bitmoji.com
 0.0.0.0 bit-pay.co
 0.0.0.0 bitstamp.net
@@ -1299,7 +1335,10 @@
 0.0.0.0 bliblimart.com
 0.0.0.0 bling2.com
 0.0.0.0 bling2.tv
+0.0.0.0 b.link
+0.0.0.0 bl.ink
 0.0.0.0 blizzard.com
+0.0.0.0 blizzard.net
 0.0.0.0 blockaway.net
 0.0.0.0 blog.facebook.com
 0.0.0.0 blog.trending.tiktok.com
@@ -1329,6 +1368,7 @@
 0.0.0.0 bolehvpn.net
 0.0.0.0 bolt-gcdn.sc-cdn.net
 0.0.0.0 bolt.snssdk.com
+0.0.0.0 bomgar.com
 0.0.0.0 bomi.com
 0.0.0.0 bongacams.com
 0.0.0.0 book.snssdk.com
@@ -1336,12 +1376,17 @@
 0.0.0.0 boombeach.com
 0.0.0.0 boomlive.tv
 0.0.0.0 boosteroid.com
+0.0.0.0 boot.anydesk.com
 0.0.0.0 boredbutton.com
 0.0.0.0 bos.bytegeo.akadns.net
 0.0.0.0 botnet-control.ru
 0.0.0.0 bowland.bytedance.com
 0.0.0.0 box.com
 0.0.0.0 braiins.com
+0.0.0.0 brainly.co.id
+0.0.0.0 brainly.com
+0.0.0.0 brainly.in
+0.0.0.0 brainly.ph
 0.0.0.0 branch.io
 0.0.0.0 brawlstars.com
 0.0.0.0 brazzers.com
@@ -1364,6 +1409,8 @@
 0.0.0.0 bsync-ttp2.us.tiktokv.com
 0.0.0.0 bsync-va.tiktokv.com
 0.0.0.0 bt.bytedance.com
+0.0.0.0 budurl.com
+0.0.0.0 buff.ly
 0.0.0.0 bugsnag.com
 0.0.0.0 buildroyale.io
 0.0.0.0 bukalapak.com
@@ -1387,6 +1434,7 @@
 0.0.0.0 bvc-tos.pstatp.com
 0.0.0.0 bwin.com
 0.0.0.0 bybit.com
+0.0.0.0 bypassai.io
 0.0.0.0 bytecamp.toutiao.com
 0.0.0.0 bytecdn.cn
 0.0.0.0 bytecdn.cn.bsgslb.com
@@ -1543,6 +1591,7 @@
 0.0.0.0 checkout.gog.com
 0.0.0.0 checkout.steampowered.com
 0.0.0.0 check.torproject.org
+0.0.0.0 chegg.com
 0.0.0.0 chengzijianzhan.com
 0.0.0.0 chinadaily.com.cn
 0.0.0.0 choice.microsoft.com
@@ -1552,6 +1601,8 @@
 0.0.0.0 chuangyi.toutiao.com
 0.0.0.0 chuangyi.toutiao.com.w.cdngslb.com
 0.0.0.0 ci.phncdn.com
+0.0.0.0 citationmachine.net
+0.0.0.0 citethisforme.com
 0.0.0.0 cities-skylines.com
 0.0.0.0 ci.toutiao.com
 0.0.0.0 civitai.com
@@ -1563,12 +1614,15 @@
 0.0.0.0 class.snssdk.com
 0.0.0.0 claude.ai
 0.0.0.0 c.l.bytedns.net
+0.0.0.0 clck.ru
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 client_monitor.sgsnssdk.com
+0.0.0.0 cli.gs
 0.0.0.0 clinent_monitor.isnssdk.com
 0.0.0.0 clipchamp.com
 0.0.0.0 clips.twitch.tv
+0.0.0.0 closerscopy.com
 0.0.0.0 cloudapi.bytedance.com
 0.0.0.0 cloud.bytedance.com
 0.0.0.0 cloudflareclient.com
@@ -1613,6 +1667,7 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.ubi.com
+0.0.0.0 connectwise.com
 0.0.0.0 console.bytedance.com
 0.0.0.0 content.spotify.com
 0.0.0.0 contest.bytedance.com
@@ -1622,11 +1677,15 @@
 0.0.0.0 copilot.microsoft.com
 0.0.0.0 copixel.bytedance.com
 0.0.0.0 copy.ai
+0.0.0.0 copyai.com
+0.0.0.0 copyleaks.com
+0.0.0.0 copymatic.ai
 0.0.0.0 coral.co.uk
 0.0.0.0 coresite-iad-api1.l.byteoversea.net
 0.0.0.0 coresite-iad-v1.l.byteoversea.net
 0.0.0.0 core.telegram.org
 0.0.0.0 corpwsus.bytedance.com
+0.0.0.0 coursehero.com
 0.0.0.0 cp.bytedance.com
 0.0.0.0 cp-rp16-normal-no1a.tiktokv.eu
 0.0.0.0 cp-rp16-normal-useast2a.tiktokv.eu
@@ -1650,6 +1709,7 @@
 0.0.0.0 credit.snssdk.com
 0.0.0.0 criteo.com
 0.0.0.0 crm.bytedance.com
+0.0.0.0 croco.site
 0.0.0.0 croxyproxy.com
 0.0.0.0 crunchyroll.com
 0.0.0.0 crypto.com
@@ -1667,12 +1727,14 @@
 0.0.0.0 cuotiben.bytedance.com
 0.0.0.0 curiouscat.live
 0.0.0.0 curiouscat.me
+0.0.0.0 cuty.io
 0.0.0.0 cv-api.bytedance.com
 0.0.0.0 cv-tob.bytedance.com
 0.0.0.0 c.worldfcdn.com
 0.0.0.0 cyberghostvpn.com
 0.0.0.0 cyberpunk.net
 0.0.0.0 cygames.jp
+0.0.0.0 cymath.com
 0.0.0.0 d0gsjbullz.xzcs3zlph.com
 0.0.0.0 d10br2bir1hdgs.cloudfront.net
 0.0.0.0 d1fet3u01ea8tr.cloudfront.net
@@ -1692,9 +1754,11 @@
 0.0.0.0 d3a5g80vg31har.cloudfront.net
 0.0.0.0 d3rbtc9rqobfk5.cloudfront.net
 0.0.0.0 d9xr2nrl1eodo.cloudfront.net
+0.0.0.0 d.ae
 0.0.0.0 dailysocial.id
 0.0.0.0 d.amemv.com
 0.0.0.0 d.amemv.com.w.kunlunca.com
+0.0.0.0 dameware.com
 0.0.0.0 danakini.co.id
 0.0.0.0 danarupiah.id
 0.0.0.0 danbooru.donmai.us
@@ -1713,6 +1777,7 @@
 0.0.0.0 dawn.bytedance.com
 0.0.0.0 dcd.snssdk.com
 0.0.0.0 ddos-attack.net
+0.0.0.0 ddownload.com
 0.0.0.0 dealer.spotify.com
 0.0.0.0 debaac4b.tt.x.bsgslb.cn
 0.0.0.0 debaac5c.tt.x.bsgslb.cn
@@ -1756,6 +1821,7 @@
 0.0.0.0 diamond.snssdk.com.w.kunluncan.com
 0.0.0.0 didimax.co.id
 0.0.0.0 diep.io
+0.0.0.0 diffchecker.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 dig.bdurl.net.bytedns.net
 0.0.0.0 dig.byteoversea.com
@@ -1840,6 +1906,7 @@
 0.0.0.0 docs-frontier-hl.snssdk.com
 0.0.0.0 docs-frontier-sg.byteoversea.com
 0.0.0.0 docs-frontier.snssdk.com
+0.0.0.0 docsity.com
 0.0.0.0 doc.toutiao.com
 0.0.0.0 doh.byteoversea.com
 0.0.0.0 dood.re
@@ -1856,6 +1923,7 @@
 0.0.0.0 download2.epicgames.com
 0.0.0.0 download3.epicgames.com
 0.0.0.0 download4.epicgames.com
+0.0.0.0 download.cnet.com
 0.0.0.0 download.dm.origin.com
 0.0.0.0 download.epicgames.com
 0.0.0.0 down.muscdn.com
@@ -1913,10 +1981,12 @@
 0.0.0.0 d.toutiao.com
 0.0.0.0 dttorhs584ri4.cloudfront.net
 0.0.0.0 dubsmash.com
+0.0.0.0 duplichecker.com
 0.0.0.0 dust.com
 0.0.0.0 dutafilm.pro
 0.0.0.0 dutafilm.ws
 0.0.0.0 dw.com
+0.0.0.0 dwrcs.com
 0.0.0.0 dyece.bytedance.com
 0.0.0.0 dyinglightgame.com
 0.0.0.0 dynamic-amemv.com.edgekey.net
@@ -1931,10 +2001,12 @@
 0.0.0.0 ea.bytedance.com
 0.0.0.0 ea.com
 0.0.0.0 ea-common.bytedance.com
+0.0.0.0 ea.com (specific ea store domains)
 0.0.0.0 eagleye.snssdk.com
 0.0.0.0 eagleye.snssdk.com.w.kunluncan.com
 0.0.0.0 earnin.com
 0.0.0.0 easyanticheat.net
+0.0.0.0 easybib.com
 0.0.0.0 easycash.id
 0.0.0.0 ebay.com
 0.0.0.0 ebayimg.com
@@ -2001,6 +2073,7 @@
 0.0.0.0 emm-telemetry.com
 0.0.0.0 empower.me
 0.0.0.0 emule-project.net
+0.0.0.0 endnote.com
 0.0.0.0 eneba.com
 0.0.0.0 engadget.com
 0.0.0.0 engineering.instagram.com
@@ -2036,6 +2109,8 @@
 0.0.0.0 e.snssdk.com
 0.0.0.0 esop.bytedance.com
 0.0.0.0 espn.com
+0.0.0.0 essaybot.com
+0.0.0.0 essaytyper.com
 0.0.0.0 etc.2miners.com
 0.0.0.0 eth.2miners.com
 0.0.0.0 ethermine.org
@@ -2127,6 +2202,7 @@
 0.0.0.0 fgbfchedbbb.temp.p23.tc.cdntip.com
 0.0.0.0 fifa.com
 0.0.0.0 figma.com
+0.0.0.0 filehippo.com
 0.0.0.0 filmku.net
 0.0.0.0 filterbypass.me
 0.0.0.0 financal-stock-web.snssdk.com
@@ -2165,6 +2241,7 @@
 0.0.0.0 f-p-va.isnssdk.com.edgekey.net
 0.0.0.0 fr4.byteoversea.com
 0.0.0.0 france24.com
+0.0.0.0 fratase.io
 0.0.0.0 freebasics.com
 0.0.0.0 freefire.com
 0.0.0.0 freefirepc.garena.com
@@ -2215,6 +2292,7 @@
 0.0.0.0 gababhhcehc.temp.p23.tc.cdntip.com
 0.0.0.0 gadgetren.com
 0.0.0.0 galaxy-client.gog.com
+0.0.0.0 galaxy.store
 0.0.0.0 game.163.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 gameauth.pubgmobile.com
@@ -2417,6 +2495,7 @@
 0.0.0.0 gf-sg.snssdk.com
 0.0.0.0 gf.snssdk.com
 0.0.0.0 gh2ypyxesf.mzfvozqybf.com
+0.0.0.0 gingersoftware.com
 0.0.0.0 gini.snssdk.com
 0.0.0.0 girlsfrontline.jp
 0.0.0.0 git.bytedance.com
@@ -2436,10 +2515,14 @@
 0.0.0.0 gms-ns.byteoversea.com
 0.0.0.0 gnutella.org
 0.0.0.0 go.activegrowth.com
+0.0.0.0 gofile.io
 0.0.0.0 gog.com
 0.0.0.0 gogolive.com
+0.0.0.0 gog-statics.com
 0.0.0.0 gomunime.vip
 0.0.0.0 gongyi.bytedance.com
+0.0.0.0 goo.by
+0.0.0.0 goo.gl
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
@@ -2449,12 +2532,14 @@
 0.0.0.0 googlevideo.com
 0.0.0.0 goto.com
 0.0.0.0 gotomeeting.com
+0.0.0.0 gotomypc.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog.snssdk.com
 0.0.0.0 gplog-va.byteoversea.com
 0.0.0.0 gql.twitch.tv
 0.0.0.0 grafana-boe.byted.org
 0.0.0.0 grammarly.com
+0.0.0.0 grammarly.com (highly recommended to keep, but can be blocked if requested)
 0.0.0.0 granbluefantasy.jp
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-fallback.instagram.com
@@ -2497,11 +2582,13 @@
 0.0.0.0 h5.sgsnssdk.com
 0.0.0.0 h5.toutiao.com
 0.0.0.0 haaretz.com
+0.0.0.0 hamachi.cc
 0.0.0.0 hangame.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 hani.co.kr
 0.0.0.0 haohuo.snssdk.com
 0.0.0.0 happn.com
+0.0.0.0 happymod.com
 0.0.0.0 hardware.bytedance.com
 0.0.0.0 hardware-seal-vpn.bytedance.com
 0.0.0.0 hashflare.io
@@ -2526,6 +2613,7 @@
 0.0.0.0 help.instagram.com
 0.0.0.0 help.steampowered.com
 0.0.0.0 help.twitter.com
+0.0.0.0 hemingwayapp.com
 0.0.0.0 hentaihaven.xxx
 0.0.0.0 her.com
 0.0.0.0 heroesofthestorm.com
@@ -2553,6 +2641,7 @@
 0.0.0.0 homed-lq.snssdk.com
 0.0.0.0 homed.snssdk.com
 0.0.0.0 homed.snssdk.com.w.kunluncan.com
+0.0.0.0 homeworkmarket.com
 0.0.0.0 honkai.com
 0.0.0.0 honkaiimpact3.hoyoverse.com
 0.0.0.0 honorofkings.com
@@ -2703,6 +2792,7 @@
 0.0.0.0 hunter.bytedance.com
 0.0.0.0 huobi.com
 0.0.0.0 hypergryph.com
+0.0.0.0 hypotenuse.ai
 0.0.0.0 hypstarcdn.com
 0.0.0.0 hypstarcdn.com.akamaized.net
 0.0.0.0 hypstarcdn.com.edgesuite.net
@@ -3014,6 +3104,7 @@
 0.0.0.0 is-dyn9.snssdk.com
 0.0.0.0 i-sentry.byted.org
 0.0.0.0 i.service.tiktok.com
+0.0.0.0 is.gd
 0.0.0.0 i.sgnssdk.com
 0.0.0.0 i.sgsnssdk.com
 0.0.0.0 is-h2.snssdk.com
@@ -3083,9 +3174,11 @@
 0.0.0.0 jitsi.org
 0.0.0.0 j.l.bytedns.net
 0.0.0.0 jmj.toutiao.com
+0.0.0.0 j.mp
 0.0.0.0 job.bytedance.com
 0.0.0.0 jobs.bytedance.com
 0.0.0.0 job.toutiao.com
+0.0.0.0 join.me
 0.0.0.0 jollychic.com
 0.0.0.0 joongang.co.kr
 0.0.0.0 joox.com
@@ -3249,6 +3342,7 @@
 0.0.0.0 kick.com
 0.0.0.0 kids.youtube.com
 0.0.0.0 king.com
+0.0.0.0 kinguin.net
 0.0.0.0 kisshentai.net
 0.0.0.0 kizi.com
 0.0.0.0 k.l.bytedns.net
@@ -3297,6 +3391,7 @@
 0.0.0.0 ladbrokes.com
 0.0.0.0 landfall.se
 0.0.0.0 landing.toutiao.com
+0.0.0.0 languagetool.org
 0.0.0.0 larkcloud.bytedance.com
 0.0.0.0 lark-frontier.byteoversea.com
 0.0.0.0 lark-frontier.byteoversea.com.edgesuite.net
@@ -3603,11 +3698,14 @@
 0.0.0.0 line-cdn.net
 0.0.0.0 line.me
 0.0.0.0 line-scdn.net
+0.0.0.0 linguix.com
 0.0.0.0 linkedin.com
 0.0.0.0 link.e.tiktok.com
 0.0.0.0 link-sg.byteoversea.com
+0.0.0.0 linkshrink.net
 0.0.0.0 link-va.byteoversea.com
 0.0.0.0 link-va.byteoversea.com.edgesuite.net
+0.0.0.0 linkvertise.com
 0.0.0.0 l.instagram.com
 0.0.0.0 liputan6.com
 0.0.0.0 listen.tidal.com
@@ -3633,6 +3731,7 @@
 0.0.0.0 l.l.bytedns.net
 0.0.0.0 llnw.blizzard.com
 0.0.0.0 lms-ns.byteoversea.com
+0.0.0.0 lnkd.in
 0.0.0.0 load.jsecoin.com
 0.0.0.0 loan-contracts.bytedance.com
 0.0.0.0 lobby.pubgmobile.com
@@ -3700,6 +3799,8 @@
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
+0.0.0.0 logme.in
+0.0.0.0 logmein.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.sgsnssdk.com
@@ -3769,6 +3870,7 @@
 0.0.0.0 madewithover.com
 0.0.0.0 madfingergames.com
 0.0.0.0 mail.bytedance.com
+0.0.0.0 malavida.com
 0.0.0.0 malicious-js.net
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
@@ -3791,10 +3893,12 @@
 0.0.0.0 market.toutiao.com
 0.0.0.0 mashable.com
 0.0.0.0 masterssh.net
+0.0.0.0 master.teamviewer.com
 0.0.0.0 mastodon.social
 0.0.0.0 match.com
 0.0.0.0 match.okcupid.com
 0.0.0.0 mathplayground.com
+0.0.0.0 mathway.com
 0.0.0.0 matoklive.com
 0.0.0.0 matrix.org
 0.0.0.0 matsuri.me
@@ -3806,6 +3910,7 @@
 0.0.0.0 mbasic.facebook.com
 0.0.0.0 m.bukalapak.com
 0.0.0.0 m.bytedance.com
+0.0.0.0 mcaf.ee
 0.0.0.0 mcast1.toutiao50.com
 0.0.0.0 mcp.bytedance.com
 0.0.0.0 mcs16-normal-no1a.tiktokw.eu
@@ -3847,6 +3952,7 @@
 0.0.0.0 mega.co.nz
 0.0.0.0 mega.nz
 0.0.0.0 members.bet365.com
+0.0.0.0 menderey.com
 0.0.0.0 menu.gog.com
 0.0.0.0 mercury-sdk.snssdk.com
 0.0.0.0 mercury.snssdk.com
@@ -3876,6 +3982,7 @@
 0.0.0.0 microgames.bytedance.com
 0.0.0.0 microgame.snssdk.com
 0.0.0.0 microhttp.snssdk.com
+0.0.0.0 microsoft.com (specific xbox store domains)
 0.0.0.0 midasplayer.com
 0.0.0.0 midc-test-hl.snssdk.com
 0.0.0.0 midc-test.snssdk.com
@@ -3919,6 +4026,7 @@
 0.0.0.0 mobile.twitter.com
 0.0.0.0 mobile.x.l.bytedns.net
 0.0.0.0 modalku.co.id
+0.0.0.0 moddroid.co
 0.0.0.0 modules-cdn.eac-prod.on.epicgames.com
 0.0.0.0 moenime.com
 0.0.0.0 mofos.com
@@ -3965,6 +4073,7 @@
 0.0.0.0 mon-va.tiktokv.com.edgesuite.net
 0.0.0.0 mon-va-useast2a.byteoversea.com
 0.0.0.0 mon-ws.snssdk.com
+0.0.0.0 moonlight-stream.org
 0.0.0.0 moonton.com
 0.0.0.0 mope.io
 0.0.0.0 mopub.com
@@ -3992,6 +4101,7 @@
 0.0.0.0 mphw-ssgc1.muscdn.com
 0.0.0.0 mphw-suse1.muscdn.com
 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
+0.0.0.0 mp.microsoft.com
 0.0.0.0 m.pstatp.com
 0.0.0.0 m.pstatp.com.w.kunluncan.com
 0.0.0.0 mptc-suse1.muscdn.com
@@ -4195,6 +4305,7 @@
 0.0.0.0 my.playstation.com
 0.0.0.0 mzfvozqybf.com
 0.0.0.0 m.zjurl.cn
+0.0.0.0 mzstatic.com
 0.0.0.0 naiveproxy.info
 0.0.0.0 na.leagueoflegends.com
 0.0.0.0 namcobandaigames.com
@@ -4244,9 +4355,11 @@
 0.0.0.0 nikkiup2u.com
 0.0.0.0 nintendo.co.id
 0.0.0.0 nintendo.com
+0.0.0.0 nintendo.jp
 0.0.0.0 nintendo.net
 0.0.0.0 nlb-l4.bytedns.net
 0.0.0.0 n.l.bytedns.net
+0.0.0.0 nomachine.com
 0.0.0.0 nordvpn.com
 0.0.0.0 notifications.roblox.com
 0.0.0.0 notifications.tiktok.com
@@ -4282,6 +4395,7 @@
 0.0.0.0 nsx.np.dl.playstation.net
 0.0.0.0 nvidiagrid.net
 0.0.0.0 nytimes.com
+0.0.0.0 nyti.ms
 0.0.0.0 o13.ptr2902.service.tiktok.com
 0.0.0.0 o14.ptr1445.account.tiktok.com
 0.0.0.0 o15.ptr425.account.tiktok.com
@@ -4490,6 +4604,7 @@
 0.0.0.0 owl.snssdk.com
 0.0.0.0 owl.snssdk.com.w.kunluncan.com
 0.0.0.0 owl-va.snssdk.com
+0.0.0.0 ow.ly
 0.0.0.0 p0-common-image-private-useastred.tiktokv.eu
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 p0-notify-private-useast2a.tiktok.com
@@ -5025,9 +5140,15 @@
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 pangolin.snssdk.com
 0.0.0.0 papergames.cn
+0.0.0.0 paperhelp.org
 0.0.0.0 paper-io.com
+0.0.0.0 paperpal.com
+0.0.0.0 papersowl.com
 0.0.0.0 paradoxical.com
 0.0.0.0 paradoxinteractive.com
+0.0.0.0 paraphraser.io
+0.0.0.0 parsec.app
+0.0.0.0 parsec.tv
 0.0.0.0 partner.bytedance.com
 0.0.0.0 partner.isnssdk.com
 0.0.0.0 partner.sgsnssdk.com
@@ -5069,6 +5190,7 @@
 0.0.0.0 pearlabyss.com
 0.0.0.0 people.com.cn
 0.0.0.0 pepperstone.com
+0.0.0.0 peppertype.ai
 0.0.0.0 perfectworld.com
 0.0.0.0 perfectworld.com.cn
 0.0.0.0 periscope.tv
@@ -5078,6 +5200,8 @@
 0.0.0.0 phind.com
 0.0.0.0 phncdn.com
 0.0.0.0 phonemark.toutiao.com
+0.0.0.0 photomath.com
+0.0.0.0 photomath.net
 0.0.0.0 photonengine.com
 0.0.0.0 photonengine.io
 0.0.0.0 photopea.com
@@ -5097,6 +5221,7 @@
 0.0.0.0 pikiran-rakyat.com
 0.0.0.0 pinduoduo.com
 0.0.0.0 pinduoduo.net
+0.0.0.0 ping.teamviewer.com
 0.0.0.0 pinimg.com
 0.0.0.0 pinjamwinwin.com
 0.0.0.0 pinjamyuk.co.id
@@ -5128,6 +5253,8 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixlr.com
+0.0.0.0 plagiarismbypass.com
+0.0.0.0 plagiarismdetector.net
 0.0.0.0 platform.facebook.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.openai.com
@@ -5138,6 +5265,7 @@
 0.0.0.0 player.twitch.tv
 0.0.0.0 playfabapi.com
 0.0.0.0 playfab.com
+0.0.0.0 play.google.com (can be too far, but often blocked if needed)
 0.0.0.0 playhearthstone.com
 0.0.0.0 play.itunes.apple.com
 0.0.0.0 plaync.com
@@ -5147,7 +5275,9 @@
 0.0.0.0 plays.org
 0.0.0.0 playstation.com
 0.0.0.0 playstation.net
+0.0.0.0 playstationnetwork.com
 0.0.0.0 playvalorant.com
+0.0.0.0 plesk.com (can host various tools)
 0.0.0.0 pluang.com
 0.0.0.0 plugin-patch-api.bytedance.com
 0.0.0.0 pn.ea.com
@@ -5209,6 +5339,7 @@
 0.0.0.0 prosper.com
 0.0.0.0 proton.me
 0.0.0.0 protonvpn.com
+0.0.0.0 prowritingaid.com
 0.0.0.0 proxfree.com
 0.0.0.0 proxydocker.com
 0.0.0.0 proxyium.com
@@ -6027,8 +6158,10 @@
 0.0.0.0 quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
 0.0.0.0 quic-tiktok-proxy-i18n-gcpva.byteoversea.net
 0.0.0.0 quillbot.com
+0.0.0.0 quizlet.com (useful but often used for answer key sharing)
 0.0.0.0 quoracdn.net
 0.0.0.0 quora.com
+0.0.0.0 quora.com (sometimes educational, but often for answers)
 0.0.0.0 quotex.com
 0.0.0.0 quotex.io
 0.0.0.0 qxbroker.com
@@ -22603,9 +22736,11 @@
 0.0.0.0 reading-hl.snssdk.com
 0.0.0.0 reading.snssdk.com
 0.0.0.0 realitykings.com
+0.0.0.0 realvnc.com
 0.0.0.0 rebahin.com
 0.0.0.0 rebahin.tv
 0.0.0.0 rebahin.vip
+0.0.0.0 rebrandly.com
 0.0.0.0 recroom.com
 0.0.0.0 reddit.com
 0.0.0.0 redditinc.com
@@ -22623,10 +22758,15 @@
 0.0.0.0 redtube.com
 0.0.0.0 ref.bytedance.com
 0.0.0.0 refer.bytedance.com
+0.0.0.0 refme.com
 0.0.0.0 reissad.com
 0.0.0.0 rekeningku.com
 0.0.0.0 rela.pc.cdn.bitgravity.com
+0.0.0.0 relay.anydesk.com
 0.0.0.0 remedygames.com
+0.0.0.0 remmina.org
+0.0.0.0 remotedesktop.google.com
+0.0.0.0 remotedesktop.google.com.nsatc.net
 0.0.0.0 remove.bg
 0.0.0.0 render.bitstrips.com
 0.0.0.0 renzheng.snssdk.com
@@ -22643,8 +22783,11 @@
 0.0.0.0 resource.snssdk.com
 0.0.0.0 resso.com
 0.0.0.0 reuters.com
+0.0.0.0 revdl.com
 0.0.0.0 revive.outbrain.com
 0.0.0.0 reward.bytedance.com
+0.0.0.0 rewriter.io
+0.0.0.0 rexdl.com
 0.0.0.0 riotcdn.net
 0.0.0.0 riotgames.com
 0.0.0.0 river.data.ea.com
@@ -22658,6 +22801,7 @@
 0.0.0.0 rocket.snssdk.com.w.kunluncan.com
 0.0.0.0 rockstargames.com
 0.0.0.0 romwe.com
+0.0.0.0 router.teamviewer.com
 0.0.0.0 rovio.com
 0.0.0.0 royalgames.com
 0.0.0.0 royalpanda.com
@@ -23094,7 +23238,9 @@
 0.0.0.0 runwayml.com
 0.0.0.0 rupiahcepat.co.id
 0.0.0.0 rupload.facebook.com
+0.0.0.0 rustdesk.com
 0.0.0.0 rvn.2miners.com
+0.0.0.0 rytr.me
 0.0.0.0 s-0005.s-msedge.net
 0.0.0.0 s0.bytecdn.cn
 0.0.0.0 s0.ipstatp.com
@@ -23178,7 +23324,9 @@
 0.0.0.0 sbembed.com
 0.0.0.0 sbobet.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sbupload.com
 0.0.0.0 s.bytetcdn.com
+0.0.0.0 scalenut.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scc-i18n.tiktokv.com
 0.0.0.0 scc-ttp2.tiktokv.eu
@@ -23213,7 +23361,10 @@
 0.0.0.0 scopely.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sc-prod.sc-static.net
+0.0.0.0 screenconnect.com
 0.0.0.0 screen-lock-admin.bytedance.com
+0.0.0.0 scribbr.com
+0.0.0.0 scribd.com (often hosts answer keys)
 0.0.0.0 script.hotjar.com
 0.0.0.0 sc-static.net
 0.0.0.0 sdfp-sg.byteoversea.com
@@ -23302,6 +23453,7 @@
 0.0.0.0 sep.bytedance.com
 0.0.0.0 serve.popads.net
 0.0.0.0 server.jsecoin.com
+0.0.0.0 server.teamviewer.com
 0.0.0.0 service-bj.bytedance.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.unity.com
@@ -23522,6 +23674,7 @@
 0.0.0.0 shellshock.io
 0.0.0.0 shengqugames.com
 0.0.0.0 shield.bytedance.com
+0.0.0.0 shink.me
 0.0.0.0 shoope.co.id
 0.0.0.0 shopee.co.id
 0.0.0.0 shopeemobile.com
@@ -23533,12 +23686,16 @@
 0.0.0.0 shop.tiktokglobalshop.com
 0.0.0.0 shop-uk.tiktok.com
 0.0.0.0 shorte.st
+0.0.0.0 showmypc.com
+0.0.0.0 shrinkme.io
 0.0.0.0 sh.st
+0.0.0.0 s.id
 0.0.0.0 signal.org
 0.0.0.0 signin.ea.com
 0.0.0.0 signup.leagueoflegends.com
 0.0.0.0 silkroadonline.com
 0.0.0.0 silvergames.com
+0.0.0.0 simplified.com
 0.0.0.0 sindonews.com
 0.0.0.0 s.ipstatp.com
 0.0.0.0 sites.google.com/site/unblockedgames77
@@ -23556,11 +23713,14 @@
 0.0.0.0 slack-edge.com
 0.0.0.0 slack-msgs.com
 0.0.0.0 slack-redir.net
+0.0.0.0 slader.com (now Quizlet parts)
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slickvpn.com
+0.0.0.0 slickwrite.com
 0.0.0.0 slide.toutiao.com
 0.0.0.0 slither.io
 0.0.0.0 slushpool.com
+0.0.0.0 smallseotools.com/article-rewriter
 0.0.0.0 smartproxy.com
 0.0.0.0 smilegate.com
 0.0.0.0 smr-aliva.byteoversea.com
@@ -23591,6 +23751,7 @@
 0.0.0.0 snap-storage-cdn.sc-static.net
 0.0.0.0 sndcdn.com
 0.0.0.0 sniper-boe.byted.org
+0.0.0.0 snip.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 snssdk.com
@@ -23604,6 +23765,7 @@
 0.0.0.0 sociolla.com
 0.0.0.0 socks-proxy.net
 0.0.0.0 softether.org
+0.0.0.0 softonic.com
 0.0.0.0 solidfiles.com
 0.0.0.0 sonyentertainmentnetwork.com
 0.0.0.0 so.toutiao.com
@@ -23635,8 +23797,11 @@
 0.0.0.0 spiegel.de
 0.0.0.0 spike-chunsoft.co.jp
 0.0.0.0 spilgames.com
+0.0.0.0 spinbot.com
 0.0.0.0 s.pinimg.com
 0.0.0.0 spinpalace.com
+0.0.0.0 splashtop.com
+0.0.0.0 splashtop.net
 0.0.0.0 sportsbook.draftkings.com
 0.0.0.0 sportsbook.fanduel.com
 0.0.0.0 sports.ladbrokes.com
@@ -23739,11 +23904,13 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 status.discord.com
 0.0.0.0 s-tb.sgpstatp.com
+0.0.0.0 stealthgpt.ai
 0.0.0.0 steamcdn-a.akamaihd.net
 0.0.0.0 steamcommunity.com
 0.0.0.0 steamgames.com
 0.0.0.0 steampowered.com
 0.0.0.0 steamstatic.com
+0.0.0.0 steamstat.us
 0.0.0.0 steamstore-a.akamaihd.net
 0.0.0.0 steam.tv
 0.0.0.0 steamusercontent.com
@@ -23753,6 +23920,7 @@
 0.0.0.0 stock-ws.snssdk.com
 0.0.0.0 storage.signal.org
 0.0.0.0 store.epicgames.com
+0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 storemanager.tiktok.com
 0.0.0.0 store.nintendo.com
 0.0.0.0 store.playstation.com
@@ -23771,6 +23939,7 @@
 0.0.0.0 studio.godaddy.com
 0.0.0.0 studio.twitter.com
 0.0.0.0 studio.youtube.com
+0.0.0.0 studocu.com
 0.0.0.0 suara.com
 0.0.0.0 subcenter.com
 0.0.0.0 sub-con.net
@@ -23796,12 +23965,16 @@
 0.0.0.0 support.tiktok.com.edgesuite.net
 0.0.0.0 support.twitter.com
 0.0.0.0 supportxmr.com
+0.0.0.0 su.pr
+0.0.0.0 suprmeremote.com
 0.0.0.0 surfshark.com
 0.0.0.0 survey.tiktok.com
 0.0.0.0 surviv.io
 0.0.0.0 sv10.byteoversea.com
+0.0.0.0 sweetstudy.com
 0.0.0.0 s.worldfcdn.com
 0.0.0.0 sydney.bing.com
+0.0.0.0 symbolab.com
 0.0.0.0 sync.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 syscloud.bytedance.com
@@ -23817,8 +23990,10 @@
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tagged.com
+0.0.0.0 tailscale.com
 0.0.0.0 take2.com
 0.0.0.0 take2games.com
+0.0.0.0 talkgadget.google.com
 0.0.0.0 tanna.bytedance.com
 0.0.0.0 tantanapp.com
 0.0.0.0 taobao.com
@@ -23832,6 +24007,7 @@
 0.0.0.0 tbsandbox.com
 0.0.0.0 tb.sgsnssdk.com
 0.0.0.0 t.bytedance.com
+0.0.0.0 t.cn
 0.0.0.0 t.co
 0.0.0.0 tcpvpn.com
 0.0.0.0 tcs.bytedance.com
@@ -23846,6 +24022,9 @@
 0.0.0.0 teams.microsoft.com
 0.0.0.0 teamspeak.com
 0.0.0.0 teamsspeak.com
+0.0.0.0 teamviewer.com
+0.0.0.0 teamviewer.master.com
+0.0.0.0 techbigs.com
 0.0.0.0 techblog.toutiao.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techland.net
@@ -23896,6 +24075,7 @@
 0.0.0.0 testserver.musical.ly
 0.0.0.0 test-switch-lf.snssdk.com
 0.0.0.0 test-switch.snssdk.com
+0.0.0.0 text-compare.com
 0.0.0.0 textsecure-service.whispersystems.org
 0.0.0.0 textures.minecraft.net
 0.0.0.0 tfe-test.snssdk.com
@@ -23922,6 +24102,7 @@
 0.0.0.0 ticast1.toutiao50.com
 0.0.0.0 tidal.com
 0.0.0.0 tidalhifi.com
+0.0.0.0 tightvnc.com
 0.0.0.0 tiket.com
 0.0.0.0 tiktokamexshopsmallaccelerator.splashthat.com
 0.0.0.0 tiktok.bytedance.map.fastly.net
@@ -23969,6 +24150,9 @@
 0.0.0.0 time2.byteoversea.com
 0.0.0.0 tinder.com
 0.0.0.0 tinybuild.com
+0.0.0.0 tiny.cc
+0.0.0.0 tiny.pl
+0.0.0.0 tinyurl.com
 0.0.0.0 tlivecdn.com
 0.0.0.0 tm3.bytecdn.cn
 0.0.0.0 tmall.com
@@ -24449,6 +24633,7 @@
 0.0.0.0 tp-pay-test.snssdk.com
 0.0.0.0 tracker.coppersurfer.tk
 0.0.0.0 tracker.cyberia.is
+0.0.0.0 tracker-ea.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 track.highrevenuegate.com
@@ -24466,10 +24651,12 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trending.tiktok.com
 0.0.0.0 trends.tiktok.com
+0.0.0.0 trib.al
 0.0.0.0 tribun.news
 0.0.0.0 tribunnews.com
 0.0.0.0 trikinternet.net
 0.0.0.0 triller.co
+0.0.0.0 tr.im
 0.0.0.0 trojan-gfw.github.io
 0.0.0.0 trovo.live
 0.0.0.0 tr.rbxcdn.com
@@ -24519,6 +24706,7 @@
 0.0.0.0 turbobit.net
 0.0.0.0 turbovpn.co
 0.0.0.0 turbovpn.com
+0.0.0.0 turnitin.com (keep if school actually uses it for detection)
 0.0.0.0 tusfiles.com
 0.0.0.0 tv.tiktok.com
 0.0.0.0 tv-va.tiktok.com
@@ -24552,11 +24740,14 @@
 0.0.0.0 ubg98.com
 0.0.0.0 ubi.com
 0.0.0.0 ubisoft.com
+0.0.0.0 ubisoft.com (store specific)
 0.0.0.0 ubisoftconnect.com
 0.0.0.0 ugattribution-sg.tiktokv.com
 0.0.0.0 ug-edu-sale.bytedance.com
 0.0.0.0 ug-overseas.snssdk.com
 0.0.0.0 ug.snssdk.com
+0.0.0.0 ultralvnc.com
+0.0.0.0 ultraviewer.net
 0.0.0.0 umamusume.jp
 0.0.0.0 umbrella.bytedance.com
 0.0.0.0 unauthorized.snssdk.com
@@ -24569,6 +24760,8 @@
 0.0.0.0 unblockedgames.net
 0.0.0.0 unblockedgamespod.com
 0.0.0.0 unblockme.id
+0.0.0.0 undetectable.ai
+0.0.0.0 undetected.ai
 0.0.0.0 unibet.com
 0.0.0.0 unicom.h.l.bytedns.net
 0.0.0.0 unicom.y.l.bytedns.net
@@ -24582,19 +24775,23 @@
 0.0.0.0 unpkg.pstatp.com.m.alikunlun.com
 0.0.0.0 unrealengine.com
 0.0.0.0 upbit.co.id
+0.0.0.0 update.anydesk.com
 0.0.0.0 updates2.signal.org
 0.0.0.0 updates.signal.org
 0.0.0.0 updatewebws.pstatp.com.wsglb0.com
+0.0.0.0 uplay.com
 0.0.0.0 uplaypc-s-ubisoft.cdn.ubi.com
 0.0.0.0 uploaded.net
 0.0.0.0 upload.facebook.com
 0.0.0.0 upload.instagram.com
 0.0.0.0 upload.twitter.com
 0.0.0.0 uptobox.com
+0.0.0.0 uptodown.com
 0.0.0.0 url4153.service.tiktok.com
 0.0.0.0 url5354.email.tiktok.com
 0.0.0.0 url7709.account.tiktok.com
 0.0.0.0 url8933.bytedance.com
+0.0.0.0 url.ie
 0.0.0.0 us02web.zoom.us
 0.0.0.0 us04web.zoom.us
 0.0.0.0 us05web.zoom.us
@@ -24611,6 +24808,7 @@
 0.0.0.0 us.tiktok.com
 0.0.0.0 us-west1.gcp.api.snapchat.com
 0.0.0.0 utils.larkcloud.bytedance.com
+0.0.0.0 u.to
 0.0.0.0 utorrent.com
 0.0.0.0 uz91a.v.bsgslb.com
 0.0.0.0 uz91ipv6pic1.v.bsgslb.com
@@ -25657,6 +25855,7 @@
 0.0.0.0 whereby.com
 0.0.0.0 whisper.systems
 0.0.0.0 white.ish.instagram.com
+0.0.0.0 whitetm.com
 0.0.0.0 whoer.net
 0.0.0.0 wickr.com
 0.0.0.0 widget-i18n.tiktokv.com
@@ -25681,10 +25880,18 @@
 0.0.0.0 wj.byteoversea.com
 0.0.0.0 wj.byteoversea.com.edgesuite.net
 0.0.0.0 wj.toutiao.com
+0.0.0.0 wkrb.it
+0.0.0.0 wolframalpha.com (powerful tool, but used for solving work)
+0.0.0.0 wordai.com
+0.0.0.0 wordtune.com
 0.0.0.0 workplace.com
 0.0.0.0 worldfcdn.com
 0.0.0.0 worldofwarcraft.com
 0.0.0.0 wormate.io
+0.0.0.0 wp.me
+0.0.0.0 wpo.st
+0.0.0.0 writehuman.ai
+0.0.0.0 writesonic.com
 0.0.0.0 ws.byteoversea.net
 0.0.0.0 wshifen.com
 0.0.0.0 ws-hl.l.bytedns.net
@@ -25713,6 +25920,7 @@
 0.0.0.0 www.amemv.com
 0.0.0.0 www.amemv.com.w.kunluncan.com
 0.0.0.0 www.anthropic.com
+0.0.0.0 www.anydesk.com
 0.0.0.0 www.applovin.com
 0.0.0.0 www.armorgames.com
 0.0.0.0 www.ask.fm
@@ -25771,6 +25979,7 @@
 0.0.0.0 www.chatrandom.com
 0.0.0.0 www.chatroulette.com
 0.0.0.0 www.chaturbate.com
+0.0.0.0 www.chegg.com
 0.0.0.0 www.civitai.com
 0.0.0.0 www.clashofclans.com
 0.0.0.0 www.clashroyale.com
@@ -26002,6 +26211,7 @@
 0.0.0.0 www.pubgmobile.com
 0.0.0.0 www.qobuz.com
 0.0.0.0 www.qq.com
+0.0.0.0 www.quillbot.com
 0.0.0.0 www.quora.com
 0.0.0.0 www.quotex.io
 0.0.0.0 www.qxbroker.com
@@ -26050,6 +26260,7 @@
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tagged.com
 0.0.0.0 www.tantanapp.com
+0.0.0.0 www.teamviewer.com
 0.0.0.0 www.telegram.org
 0.0.0.0 www.tellonym.me
 0.0.0.0 www.temu.com
@@ -26187,6 +26398,7 @@
 0.0.0.0 y8.com
 0.0.0.0 yangkeduo.com
 0.0.0.0 yesstyle.com
+0.0.0.0 yhoo.it
 0.0.0.0 y.l.bytedns.net
 0.0.0.0 yna.co.kr
 0.0.0.0 yogavpn.com
@@ -26233,11 +26445,13 @@
 0.0.0.0 zenless.hoyoverse.com
 0.0.0.0 zenmate.com
 0.0.0.0 zenvpn.net
+0.0.0.0 zerotier.com
 0.0.0.0 zerxygpl.mzfvozqybf.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 zhenzhen.snssdk.com
 0.0.0.0 zipmex.com
 0.0.0.0 zippyshare.com
+0.0.0.0 zippyshare.com (defunct but good for mirrors)
 0.0.0.0 zjmvi.v.bsgslb.com
 0.0.0.0 z.l.bytedns.net
 0.0.0.0 zlink.toutiao.com
@@ -26257,6 +26471,7 @@
 0.0.0.0 zooqle.com
 0.0.0.0 zoosk.com
 0.0.0.0 zoro.to
+0.0.0.0 zotero.org
 0.0.0.0 z-p42-instagram.c10r.instagram.com
 0.0.0.0 zqq1.v.bsgslb.com
 0.0.0.0 zqq2.v.bsgslb.com
