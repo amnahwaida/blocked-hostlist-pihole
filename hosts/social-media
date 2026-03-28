@@ -120,12 +120,6 @@
 0.0.0.0 www.vsco.co
 0.0.0.0 flickr.com
 0.0.0.0 www.flickr.com
-0.0.0.0 tinder.com
-0.0.0.0 www.tinder.com
-0.0.0.0 badoo.com
-0.0.0.0 www.badoo.com
-0.0.0.0 okcupid.com
-0.0.0.0 www.okcupid.com
 
 
 # ==========================================
@@ -7149,3 +7143,64 @@
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 static.whatsapp.net
 
+
+
+# ==========================================
+# DATING APPS (Merged)
+# ==========================================
+
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 api.gotinder.com
+0.0.0.0 images-ssl.gotinder.com
+0.0.0.0 bumble.com
+0.0.0.0 www.bumble.com
+0.0.0.0 api.bumble.com
+0.0.0.0 cdn.bumble.com
+0.0.0.0 badoo.com
+0.0.0.0 www.badoo.com
+0.0.0.0 wap.badoo.com
+0.0.0.0 eu1.badoo.com
+0.0.0.0 okcupid.com
+0.0.0.0 www.okcupid.com
+0.0.0.0 match.okcupid.com
+0.0.0.0 api.okcupid.com
+0.0.0.0 hinge.co
+0.0.0.0 www.hinge.co
+0.0.0.0 api.hinge.co
+0.0.0.0 omi.sg
+0.0.0.0 www.omi.sg
+0.0.0.0 tantanapp.com
+0.0.0.0 www.tantanapp.com
+0.0.0.0 api.tantanapp.com
+0.0.0.0 match.com
+0.0.0.0 www.match.com
+0.0.0.0 api.match.com
+0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 www.coffeemeetsbagel.com
+0.0.0.0 pof.com
+0.0.0.0 www.pof.com
+0.0.0.0 grindr.com
+0.0.0.0 www.grindr.com
+0.0.0.0 litmatchapp.com
+0.0.0.0 www.litmatchapp.com
+0.0.0.0 happn.com
+0.0.0.0 www.happn.com
+
+
+# --- Local / Regional Dating Apps (MiChat, Waplog, etc) ---
+0.0.0.0 michat.sg
+0.0.0.0 www.michat.sg
+0.0.0.0 api.michat.sg
+0.0.0.0 waplog.com
+0.0.0.0 www.waplog.com
+0.0.0.0 sayhi.com
+0.0.0.0 www.sayhi.com
+0.0.0.0 tagged.com
+0.0.0.0 www.tagged.com
+0.0.0.0 mamba.ru
+0.0.0.0 www.mamba.ru
+0.0.0.0 wapa.com
+0.0.0.0 www.wapa.com
+0.0.0.0 blued.com
+0.0.0.0 www.blued.com

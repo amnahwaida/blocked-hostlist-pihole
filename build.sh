@@ -37,6 +37,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 # Individual lists available:
 #   - ads-tracking    : Ads & tracking domains
 #   - ai              : AI Chatbots & Image Generators
+#   - dating-apps     : Tinder, Bumble, Badoo, etc.
 #   - facebook        : Facebook & Meta services
 #   - gambling        : Gambling & betting sites
 #   - gaming          : Mobile, PC & web games

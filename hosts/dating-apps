@@ -1,0 +1,81 @@
+# ============================================
+# Dating Apps Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks dating applications and websites.
+# ============================================
+
+# --- Tinder ---
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 api.gotinder.com
+0.0.0.0 images-ssl.gotinder.com
+
+# --- Bumble ---
+0.0.0.0 bumble.com
+0.0.0.0 www.bumble.com
+0.0.0.0 api.bumble.com
+0.0.0.0 cdn.bumble.com
+
+# --- Badoo ---
+0.0.0.0 badoo.com
+0.0.0.0 www.badoo.com
+0.0.0.0 wap.badoo.com
+0.0.0.0 eu1.badoo.com
+
+# --- OkCupid ---
+0.0.0.0 okcupid.com
+0.0.0.0 www.okcupid.com
+0.0.0.0 match.okcupid.com
+0.0.0.0 api.okcupid.com
+
+# --- Hinge ---
+0.0.0.0 hinge.co
+0.0.0.0 www.hinge.co
+0.0.0.0 api.hinge.co
+
+# --- Omi & Tantan ---
+0.0.0.0 omi.sg
+0.0.0.0 www.omi.sg
+0.0.0.0 tantanapp.com
+0.0.0.0 www.tantanapp.com
+0.0.0.0 api.tantanapp.com
+
+# --- Match.com ---
+0.0.0.0 match.com
+0.0.0.0 www.match.com
+0.0.0.0 api.match.com
+
+# --- Coffee Meets Bagel ---
+0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 www.coffeemeetsbagel.com
+
+# --- Plenty of Fish (POF) ---
+0.0.0.0 pof.com
+0.0.0.0 www.pof.com
+
+# --- Other Dating/Social Match ---
+0.0.0.0 grindr.com
+0.0.0.0 www.grindr.com
+0.0.0.0 litmatchapp.com
+0.0.0.0 www.litmatchapp.com
+0.0.0.0 happn.com
+0.0.0.0 www.happn.com
+
+# --- Local / Regional Dating Apps (MiChat, Waplog, etc) ---
+0.0.0.0 michat.sg
+0.0.0.0 www.michat.sg
+0.0.0.0 api.michat.sg
+0.0.0.0 waplog.com
+0.0.0.0 www.waplog.com
+0.0.0.0 sayhi.com
+0.0.0.0 www.sayhi.com
+0.0.0.0 tagged.com
+0.0.0.0 www.tagged.com
+0.0.0.0 mamba.ru
+0.0.0.0 www.mamba.ru
+0.0.0.0 wapa.com
+0.0.0.0 www.wapa.com
+0.0.0.0 blued.com
+0.0.0.0 www.blued.com
