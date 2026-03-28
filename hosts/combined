@@ -35,7 +35,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:45:25 UTC
+# Generated: 2026-03-28 22:51:16 UTC
 # ============================================
 
 
@@ -257,6 +257,7 @@
 0.0.0.0 activity-va.tiktok.com
 0.0.0.0 act.snssdk.com
 0.0.0.0 act.toutiaocloud.com
+0.0.0.0 adakami.id
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcolony.com
 0.0.0.0 addictinggames.com
@@ -332,6 +333,7 @@
 0.0.0.0 aistudio.google.com
 0.0.0.0 ajaib.co.id
 0.0.0.0 akcqacex.qfyf1toi.com
+0.0.0.0 akulaku.com
 0.0.0.0 akunssh.net
 0.0.0.0 alarabiya.net
 0.0.0.0 alb.reddit.com
@@ -1109,6 +1111,7 @@
 0.0.0.0 assets.xbox.com
 0.0.0.0 astrill.com
 0.0.0.0 atari.com
+0.0.0.0 atome.id
 0.0.0.0 attachment.fbsbx.com
 0.0.0.0 audio-ec.spotify.com
 0.0.0.0 audio-fa.spotify.com
@@ -1662,6 +1665,8 @@
 0.0.0.0 dailysocial.id
 0.0.0.0 d.amemv.com
 0.0.0.0 d.amemv.com.w.kunlunca.com
+0.0.0.0 danakini.co.id
+0.0.0.0 danarupiah.id
 0.0.0.0 danbooru.donmai.us
 0.0.0.0 danpin.snssdk.com
 0.0.0.0 d.applovin.com
@@ -1672,6 +1677,7 @@
 0.0.0.0 datahubops.tiktok.com
 0.0.0.0 datahub.tiktok.com
 0.0.0.0 datahub-useast2a.tiktok.com
+0.0.0.0 dave.com
 0.0.0.0 davinci.snssdk.com
 0.0.0.0 dawn.bytedance.com
 0.0.0.0 dcd.snssdk.com
@@ -1890,7 +1896,9 @@
 0.0.0.0 ea-common.bytedance.com
 0.0.0.0 eagleye.snssdk.com
 0.0.0.0 eagleye.snssdk.com.w.kunluncan.com
+0.0.0.0 earnin.com
 0.0.0.0 easyanticheat.net
+0.0.0.0 easycash.id
 0.0.0.0 ebay.com
 0.0.0.0 ebayimg.com
 0.0.0.0 ebaystatic.com
@@ -1952,6 +1960,7 @@
 0.0.0.0 em5348.careers.tiktok.com
 0.0.0.0 embed.twitch.tv
 0.0.0.0 embracer.com
+0.0.0.0 empower.me
 0.0.0.0 eneba.com
 0.0.0.0 engadget.com
 0.0.0.0 engineering.instagram.com
@@ -2460,6 +2469,7 @@
 0.0.0.0 hearthstone.blizzard.com
 0.0.0.0 heavygames.com
 0.0.0.0 helldivers2.com
+0.0.0.0 hellobrigit.com
 0.0.0.0 helo.sgsnssdk.com
 0.0.0.0 helpdesk.bytedance.com
 0.0.0.0 help.instagram.com
@@ -2820,6 +2830,7 @@
 0.0.0.0 indexexchange.com
 0.0.0.0 index.toutiao.com
 0.0.0.0 indiegala.com
+0.0.0.0 indodana.id
 0.0.0.0 indodax.com
 0.0.0.0 indowebster.com
 0.0.0.0 indoxx1.cx
@@ -3148,6 +3159,7 @@
 0.0.0.0 jtjxpx.qfyf1toi.com
 0.0.0.0 jtvnw.net
 0.0.0.0 juliangyinqing.com
+0.0.0.0 julo.co.id
 0.0.0.0 just-test-1.byteoversea.com
 0.0.0.0 just-test.byteoversea.com
 0.0.0.0 k2-dy-ml.gslb.ksyuncdn.com
@@ -3157,6 +3169,7 @@
 0.0.0.0 kakaotalk.com
 0.0.0.0 kancilssh.com
 0.0.0.0 kapwing.com
+0.0.0.0 kartu.aku.la
 0.0.0.0 kaskus.co.id
 0.0.0.0 kaskus.tv
 0.0.0.0 kbs.co.kr
@@ -3177,8 +3190,11 @@
 0.0.0.0 kizi.com
 0.0.0.0 k.l.bytedns.net
 0.0.0.0 klei.com
+0.0.0.0 klikkami.co.id
+0.0.0.0 klover.ai
 0.0.0.0 knightonline.com
 0.0.0.0 koeitecmo.games.jp
+0.0.0.0 koinworks.com
 0.0.0.0 kompas.com
 0.0.0.0 kompas.tv
 0.0.0.0 konami.com
@@ -3194,6 +3210,9 @@
 0.0.0.0 krb5auth3.byted.org
 0.0.0.0 krb5auth.byted.org
 0.0.0.0 kr.battle.net
+0.0.0.0 kreditpintar.com
+0.0.0.0 kredivo.com
+0.0.0.0 kredivo.id
 0.0.0.0 krunker.io
 0.0.0.0 ksd.snssdk.com
 0.0.0.0 kuaima.toutiao.com
@@ -3247,6 +3266,7 @@
 0.0.0.0 legroup21.gslb.cdnle.com
 0.0.0.0 lemon8-app.com
 0.0.0.0 lemonde.fr
+0.0.0.0 lendingclub.com
 0.0.0.0 lens.snapchat.com
 0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 leonardo.ai
@@ -3703,6 +3723,7 @@
 0.0.0.0 mathplayground.com
 0.0.0.0 matoklive.com
 0.0.0.0 matsuri.me
+0.0.0.0 maucash.id
 0.0.0.0 maxbet.com
 0.0.0.0 max.com
 0.0.0.0 maxgames.com
@@ -3816,6 +3837,7 @@
 0.0.0.0 mobile.ttgw.tuchong-normal-lb-lf.l.bytedns.net
 0.0.0.0 mobile.twitter.com
 0.0.0.0 mobile.x.l.bytedns.net
+0.0.0.0 modalku.co.id
 0.0.0.0 modules-cdn.eac-prod.on.epicgames.com
 0.0.0.0 moenime.com
 0.0.0.0 mofos.com
@@ -3833,6 +3855,7 @@
 0.0.0.0 mon.byteoversea.com.edgesuite.net
 0.0.0.0 mon-cold.snssdk.com
 0.0.0.0 monerohash.com
+0.0.0.0 moneylion.com
 0.0.0.0 mongoosev.byted.org
 0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon-hl.snssdk.com.w.kunluncan.com
@@ -4988,6 +5011,8 @@
 0.0.0.0 pinduoduo.com
 0.0.0.0 pinduoduo.net
 0.0.0.0 pinimg.com
+0.0.0.0 pinjamwinwin.com
+0.0.0.0 pinjamyuk.co.id
 0.0.0.0 pinnacle.com
 0.0.0.0 pin-river.data.ea.com
 0.0.0.0 pinterest.com
@@ -5094,6 +5119,7 @@
 0.0.0.0 project-x.io
 0.0.0.0 promotion-useast2a.tiktok.com
 0.0.0.0 propellerads.com
+0.0.0.0 prosper.com
 0.0.0.0 proton.me
 0.0.0.0 protonvpn.com
 0.0.0.0 proxfree.com
@@ -22973,6 +22999,7 @@
 0.0.0.0 runescape.com
 0.0.0.0 runeterra.leagueoflegends.com
 0.0.0.0 runwayml.com
+0.0.0.0 rupiahcepat.co.id
 0.0.0.0 rupload.facebook.com
 0.0.0.0 rvn.2miners.com
 0.0.0.0 s0.bytecdn.cn
@@ -24358,6 +24385,7 @@
 0.0.0.0 tuchong.pstatp.com
 0.0.0.0 tuchong.pstatp.com.w.cdngslb.com
 0.0.0.0 tumblr.com
+0.0.0.0 tunaiku.com
 0.0.0.0 tuner.pandora.com
 0.0.0.0 tunnelbear.com
 0.0.0.0 tunnelguru.com
