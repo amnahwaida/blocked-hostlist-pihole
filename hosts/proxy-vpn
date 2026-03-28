@@ -1,0 +1,73 @@
+# ============================================
+# VPN, Proxy & Bypass Tools Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks VPN services, web proxies, and tools 
+# used to bypass network filters/firewalls.
+# ============================================
+
+# ==========================================
+# POPULAR VPN SERVICES
+# ==========================================
+
+# --- Psiphon (Very common for bypassing) ---
+0.0.0.0 psiphon.ca
+0.0.0.0 www.psiphon.ca
+0.0.0.0 psiphon3.com
+
+# --- NordVPN & ExpressVPN ---
+0.0.0.0 nordvpn.com
+0.0.0.0 www.nordvpn.com
+0.0.0.0 expressvpn.com
+0.0.0.0 expressvpn.xyz
+
+# --- Surfshark & CyberGhost ---
+0.0.0.0 surfshark.com
+0.0.0.0 cyberghostvpn.com
+
+# --- TunnelBear & Windscribe ---
+0.0.0.0 tunnelbear.com
+0.0.0.0 windscribe.com
+
+# --- ProtonVPN & Mullvad ---
+0.0.0.0 protonvpn.com
+0.0.0.0 proton.me
+0.0.0.0 mullvad.net
+
+# --- Hotspot Shield & Puffin ---
+0.0.0.0 hotspotshield.com
+0.0.0.0 puffinbrowser.com
+
+# --- Cloudflare WARP (1.1.1.1) ---
+0.0.0.0 warp.plus
+0.0.0.0 cloudflareclient.com
+
+# ==========================================
+# WEB PROXY SITES
+# ==========================================
+
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 kproxy.com
+0.0.0.0 croxyproxy.com
+0.0.0.0 hidester.com
+0.0.0.0 whoer.net
+0.0.0.0 hide.me
+0.0.0.0 proxyium.com
+0.0.0.0 blockaway.net
+0.0.0.0 filterbypass.me
+0.0.0.0 genmirror.com
+0.0.0.0 zend2.com
+0.0.0.0 proxfree.com
+
+# ==========================================
+# BROWSER EXTENSION VPNs
+# ==========================================
+
+0.0.0.0 setupvpn.com
+0.0.0.0 hola.org
+0.0.0.0 zenmate.com
+0.0.0.0 browsec.com
+0.0.0.0 touchvpn.net
+0.0.0.0 betternet.co

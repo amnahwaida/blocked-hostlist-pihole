@@ -20,6 +20,7 @@
 #   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - porn            : Adult content (18+)
+#   - proxy-vpn       : VPNs & Web Proxies
 #   - shopping        : E-commerce platforms
 #   - signal          : Signal Messenger app
 #   - snapchat        : Snapchat
@@ -32,7 +33,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:22:37 UTC
+# Generated: 2026-03-28 22:24:19 UTC
 # ============================================
 
 
@@ -61,6 +62,8 @@
 # --- music-streaming ---
 
 # --- porn ---
+
+# --- proxy-vpn ---
 
 # --- shopping ---
 
@@ -1181,6 +1184,7 @@
 0.0.0.0 bethesda.net
 0.0.0.0 betonline.ag
 0.0.0.0 betsson.com
+0.0.0.0 betternet.co
 0.0.0.0 betway.com
 0.0.0.0 bfc-test-dynamic.snssdk.com
 0.0.0.0 bfc-test-gather.snssdk.com
@@ -1233,6 +1237,7 @@
 0.0.0.0 bling2.com
 0.0.0.0 bling2.tv
 0.0.0.0 blizzard.com
+0.0.0.0 blockaway.net
 0.0.0.0 blog.facebook.com
 0.0.0.0 blog.trending.tiktok.com
 0.0.0.0 blog.twitter.com
@@ -1270,6 +1275,7 @@
 0.0.0.0 brazzers.com
 0.0.0.0 bridge.bytedance.com
 0.0.0.0 brn-cgk-v1.l.byteoversea.net
+0.0.0.0 browsec.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bsdk.sgsnssdk.com
 0.0.0.0 bsdk.snssdk.com
@@ -1477,6 +1483,7 @@
 0.0.0.0 clips.twitch.tv
 0.0.0.0 cloudapi.bytedance.com
 0.0.0.0 cloud.bytedance.com
+0.0.0.0 cloudflareclient.com
 0.0.0.0 cloudprint.bytedance.com
 0.0.0.0 clue-global.bytedance.com
 0.0.0.0 clue.toutiao.com
@@ -1546,6 +1553,7 @@
 0.0.0.0 credit.snssdk.com
 0.0.0.0 criteo.com
 0.0.0.0 crm.bytedance.com
+0.0.0.0 croxyproxy.com
 0.0.0.0 crunchyroll.com
 0.0.0.0 crypto.com
 0.0.0.0 crypto-loot.com
@@ -1561,6 +1569,7 @@
 0.0.0.0 cv-api.bytedance.com
 0.0.0.0 cv-tob.bytedance.com
 0.0.0.0 c.worldfcdn.com
+0.0.0.0 cyberghostvpn.com
 0.0.0.0 cyberpunk.net
 0.0.0.0 cygames.jp
 0.0.0.0 d0gsjbullz.xzcs3zlph.com
@@ -1920,6 +1929,8 @@
 0.0.0.0 experiment.tiktok.com
 0.0.0.0 expertoption.com
 0.0.0.0 express.adobe.com
+0.0.0.0 expressvpn.com
+0.0.0.0 expressvpn.xyz
 0.0.0.0 external.bytedance.com
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 extlog.snssdk.com
@@ -1972,6 +1983,7 @@
 0.0.0.0 fgbfchedbbb.temp.p23.tc.cdntip.com
 0.0.0.0 figma.com
 0.0.0.0 filmku.net
+0.0.0.0 filterbypass.me
 0.0.0.0 financal-stock-web.snssdk.com
 0.0.0.0 finance.snssdk.com
 0.0.0.0 financial-stock-web.snssdk.com
@@ -2237,6 +2249,7 @@
 0.0.0.0 gemini.com
 0.0.0.0 gemini.google.com
 0.0.0.0 generativeai.google
+0.0.0.0 genmirror.com
 0.0.0.0 genshin.hoyoverse.com
 0.0.0.0 genshin.mihoyo.com
 0.0.0.0 geo.moatads.com
@@ -2341,12 +2354,15 @@
 0.0.0.0 hf.co
 0.0.0.0 hfm.com
 0.0.0.0 hggafcaacfc.temp.p23.tc.cdntip.com
+0.0.0.0 hide.me
+0.0.0.0 hidester.com
 0.0.0.0 hinge.co
 0.0.0.0 hk4e-api.mihoyo.com
 0.0.0.0 hk4e-sdk.mihoyo.com
 0.0.0.0 h.l.bytedns.net
 0.0.0.0 hls-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 hn-cnc.polaris.byteoversea.com
+0.0.0.0 hola.org
 0.0.0.0 hole.io
 0.0.0.0 holmes.snssdk.com
 0.0.0.0 homed-hl.snssdk.com
@@ -2484,6 +2500,7 @@
 0.0.0.0 hotsoon.snssdk.com
 0.0.0.0 hotsoon.snssdk.com.bytedns.net
 0.0.0.0 hotsoon.snssdk.com.w.kunluncan.com
+0.0.0.0 hotspotshield.com
 0.0.0.0 hotstar.com
 0.0.0.0 hoyolab.com
 0.0.0.0 hoyoverse.com
@@ -3019,6 +3036,7 @@
 0.0.0.0 konami.com
 0.0.0.0 kongregate.com
 0.0.0.0 kotaku.com
+0.0.0.0 kproxy.com
 0.0.0.0 krafton.com
 0.0.0.0 kraken.com
 0.0.0.0 krb5auth1.byted.org
@@ -3839,6 +3857,7 @@
 0.0.0.0 mue.toutiao.com
 0.0.0.0 mue.toutiao.com.w.cdngslb.com
 0.0.0.0 mu.isnssdk.com
+0.0.0.0 mullvad.net
 0.0.0.0 multiplay.com
 0.0.0.0 multiversus.com
 0.0.0.0 muonline.webzen.com
@@ -3933,6 +3952,7 @@
 0.0.0.0 nintendo.net
 0.0.0.0 nlb-l4.bytedns.net
 0.0.0.0 n.l.bytedns.net
+0.0.0.0 nordvpn.com
 0.0.0.0 notifications.roblox.com
 0.0.0.0 notifications.tiktok.com
 0.0.0.0 notifyback-cn.snssdk.com
@@ -4867,9 +4887,16 @@
 0.0.0.0 projectpoi.com
 0.0.0.0 promotion-useast2a.tiktok.com
 0.0.0.0 propellerads.com
+0.0.0.0 proton.me
+0.0.0.0 protonvpn.com
+0.0.0.0 proxfree.com
+0.0.0.0 proxyium.com
+0.0.0.0 proxysite.com
 0.0.0.0 pscp.tv
 0.0.0.0 p.sgpstatp.com
 0.0.0.0 p.sgsnssdk.com
+0.0.0.0 psiphon3.com
+0.0.0.0 psiphon.ca
 0.0.0.0 psn.playstation.net
 0.0.0.0 pstatp.com
 0.0.0.0 pstatp.com.bsgslb.com
@@ -4900,6 +4927,7 @@
 0.0.0.0 publish.bytedance.com
 0.0.0.0 publish.twitter.com
 0.0.0.0 puffgames.com
+0.0.0.0 puffinbrowser.com
 0.0.0.0 pull-a5-gcp01.tiktokcdn.com
 0.0.0.0 pull-a5-gcp01.tiktokcdn.com.c.bytefcdn-oversea.com
 0.0.0.0 pull-a5-sg01.tiktokcdn.com
@@ -22936,6 +22964,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 setup.rbxcdn.com
+0.0.0.0 setupvpn.com
 0.0.0.0 sf16-cgfe-sg.ibytedtos.com
 0.0.0.0 sf16-cgfe-va.ibytedtos.com
 0.0.0.0 sf16-eacdn-tos.pstatp.com
@@ -23366,6 +23395,7 @@
 0.0.0.0 support.tiktok.com
 0.0.0.0 support.tiktok.com.edgesuite.net
 0.0.0.0 support.twitter.com
+0.0.0.0 surfshark.com
 0.0.0.0 survey.tiktok.com
 0.0.0.0 surviv.io
 0.0.0.0 sv10.byteoversea.com
@@ -23971,6 +24001,7 @@
 0.0.0.0 tosv-va.tiktok-row.org
 0.0.0.0 tot.hoyoverse.com
 0.0.0.0 touch.facebook.com
+0.0.0.0 touchvpn.net
 0.0.0.0 toutiao50.com
 0.0.0.0 toutiaocloud.com
 0.0.0.0 toutiaocloud.net
@@ -24043,6 +24074,7 @@
 0.0.0.0 tuchong.pstatp.com.w.cdngslb.com
 0.0.0.0 tumblr.com
 0.0.0.0 tuner.pandora.com
+0.0.0.0 tunnelbear.com
 0.0.0.0 tv.tiktok.com
 0.0.0.0 tv-va.tiktok.com
 0.0.0.0 tv.youtube.com
@@ -24812,6 +24844,7 @@
 0.0.0.0 wap.badoo.com
 0.0.0.0 waplog.com
 0.0.0.0 warnerbrosgames.com
+0.0.0.0 warp.plus
 0.0.0.0 warpportal.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
@@ -25134,6 +25167,7 @@
 0.0.0.0 whatsapp.net
 0.0.0.0 whisper.systems
 0.0.0.0 white.ish.instagram.com
+0.0.0.0 whoer.net
 0.0.0.0 widget-i18n.tiktokv.com
 0.0.0.0 widget-i18n.tiktokv.com.ttdns2.com
 0.0.0.0 widgets.outbrain.com
@@ -25143,6 +25177,7 @@
 0.0.0.0 wildcard.musical.ly.edgekey.net
 0.0.0.0 wildrift.leagueoflegends.com
 0.0.0.0 williamhill.com
+0.0.0.0 windscribe.com
 0.0.0.0 wings.bytedance.com
 0.0.0.0 wintercamp.bytedance.com
 0.0.0.0 wit.bytedance.com
@@ -25413,6 +25448,7 @@
 0.0.0.0 www.nianticlabs.com
 0.0.0.0 www.nintendo.co.id
 0.0.0.0 www.nintendo.com
+0.0.0.0 www.nordvpn.com
 0.0.0.0 www.oanda.com
 0.0.0.0 www.octafx.com
 0.0.0.0 www.okcupid.com
@@ -25459,6 +25495,8 @@
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.primevideo.com
 0.0.0.0 www.propellerads.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 www.psiphon.ca
 0.0.0.0 www.pstatp.com
 0.0.0.0 www.pubg.com
 0.0.0.0 www.pubgmobile.com
@@ -25673,11 +25711,13 @@
 0.0.0.0 zdmall.snssdk.com
 0.0.0.0 zdmall.snssdk.com.w.kunluncan.com
 0.0.0.0 zeekerss.com
+0.0.0.0 zend2.com
 0.0.0.0 zendesk1.tiktok.com
 0.0.0.0 zendesk2.tiktok.com
 0.0.0.0 zendesk3.tiktok.com
 0.0.0.0 zendesk4.tiktok.com
 0.0.0.0 zenless.hoyoverse.com
+0.0.0.0 zenmate.com
 0.0.0.0 zerxygpl.mzfvozqybf.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 zhenzhen.snssdk.com
