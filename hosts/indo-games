@@ -1,0 +1,60 @@
+# ============================================
+# Indonesian Browser Games & Y8 Portal Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major web-based game portals popular 
+# in Indonesia (Poki, Y8, CrazyGames, etc).
+# ============================================
+
+# --- Major Web Portals ---
+0.0.0.0 poki.com
+0.0.0.0 poki.co.id
+0.0.0.0 poki.io
+0.0.0.0 poki.fr
+0.0.0.0 poki.it
+0.0.0.0 poki.pl
+0.0.0.0 crazygames.com
+0.0.0.0 crazygames.it
+0.0.0.0 crazygames.be
+0.0.0.0 crazygames.fr
+0.0.0.0 crazygames.id
+0.0.0.0 y8.com
+0.0.0.0 games.co.id
+0.0.0.0 www.games.co.id
+0.0.0.0 kongregate.com
+0.0.0.0 armorgames.com
+0.0.0.0 newgrounds.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 kizi.com
+0.0.0.0 friv.com
+0.0.0.0 friv.co.id
+0.0.0.0 playhop.com
+0.0.0.0 gameart.io
+0.0.0.0 minipresso.com
+0.0.0.0 html5games.com
+0.0.0.0 1001games.com
+0.0.0.0 mousebreaker.com
+0.0.0.0 addictinggames.com
+0.0.0.0 miniclip.com
+0.0.0.0 silvergames.com
+0.0.0.0 krunker.io
+0.0.0.0 shellshock.io
+0.0.0.0 agar.io
+0.0.0.0 slither.io
+0.0.0.0 diep.io
+0.0.0.0 skribbl.io
+0.0.0.0 gartic.io
+0.0.0.0 paper.io
+0.0.0.0 hole.io
+
+# --- Niche & Clones ---
+0.0.0.0 gamesplus.id
+0.0.0.0 gameloft.com/en/game/unlocked (generic)
+0.0.0.0 unblocked-games.com
+0.0.0.0 crazy-games.net
+0.0.0.0 y8-games.info
+0.0.0.0 poki-games.com
+0.0.0.0 flashgames.it
+0.0.0.0 arcade.google.com (if Google's arcade exists)
+0.0.0.0 msn.com/en-us/entertainment/gaming (MSN Games)

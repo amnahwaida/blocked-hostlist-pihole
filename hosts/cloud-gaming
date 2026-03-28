@@ -1,0 +1,42 @@
+# ============================================
+# Cloud Gaming Platforms & Infrastructure
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major cloud streaming platforms for 
+# gaming (NVIDIA, Xbox Cloud, Boosteroid, etc).
+# ============================================
+
+# --- Major Cloud Gaming ---
+0.0.0.0 geforcenow.com
+0.0.0.0 play.geforcenow.com
+0.0.0.0 cloud.xbox.com
+0.0.0.0 xbox.com/play
+0.0.0.0 ps-now.com
+0.0.0.0 luna.amazon.com
+0.0.0.0 boosteroid.com
+0.0.0.0 play.boosteroid.com
+0.0.0.0 vortex.gg
+0.0.0.0 blacknut.com
+0.0.0.0 shadow.tech
+0.0.0.0 play.shadow.tech
+0.0.0.0 airgpu.com
+0.0.0.0 paperspace.com/gaming
+0.0.0.0 parsec.app (Cloud Gaming Relay)
+0.0.0.0 parsecgaming.com
+0.0.0.0 rainway.com
+0.0.0.0 gamestream.biz
+0.0.0.0 loudplay.io
+0.0.0.0 utomik.com
+0.0.0.0 netease-cloud-gaming.com
+0.0.0.0 tencent-cloud-gaming.com
+0.0.0.0 stadia.google.com (Legacy but for safety)
+
+# --- Infrastructure Callbacks ---
+0.0.0.0 nvidia-cloud-gaming.com
+0.0.0.0 cloud-gaming-api.net
+0.0.0.0 streaming-game-server.io
+0.0.0.0 parsec-stun.com
+0.0.0.0 relay.parsec.app
+0.0.0.0 cloud-desktop-gaming.com
+0.0.0.0 low-latency-streaming.net
