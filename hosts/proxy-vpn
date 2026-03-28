@@ -192,3 +192,44 @@
 0.0.0.0 createssh.com
 0.0.0.0 vpnssh.com
 0.0.0.0 premiumssh.net
+
+# ==========================================
+# V2RAY, V2LESS, SHADOWSOCKS & XRAY TOOLS
+# ==========================================
+
+# --- Core Projects & Docs (Bypass Infra) ---
+0.0.0.0 xray-core.com
+0.0.0.0 project-x.io
+0.0.0.0 xray.com
+0.0.0.0 v2ray.com
+0.0.0.0 v2fly.org
+0.0.0.0 shadowsocks.org
+0.0.0.0 naiveproxy.info
+0.0.0.0 trojan-gfw.github.io
+0.0.0.0 v2less.com
+
+# --- Client Tools & Manuals ---
+0.0.0.0 v2rayn.org
+0.0.0.0 v2rayng.com
+0.0.0.0 nekoray.org
+0.0.0.0 sagernet.org
+0.0.0.0 matsuri.me
+0.0.0.0 clash.wiki
+0.0.0.0 clash-meta.wiki
+0.0.0.0 meta-clash.com
+
+# --- Free Accounts & Panels ---
+0.0.0.0 freev2ray.org
+0.0.0.0 v2ray-free.eu.org
+0.0.0.0 gfans.io
+0.0.0.0 hayossh.com
+0.0.0.0 v2rayaccount.com
+0.0.0.0 v2rayconfig.com
+0.0.0.0 fastv2ray.com
+0.0.0.0 listv2ray.com
+0.0.0.0 globalssh.net
+
+# --- Subscriptions & Conversions ---
+0.0.0.0 sub-con.net
+0.0.0.0 subcenter.com
+0.0.0.0 subconverter.com

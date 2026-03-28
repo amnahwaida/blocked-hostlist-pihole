@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:32:14 UTC
+# Generated: 2026-03-28 22:33:00 UTC
 # ============================================
 
 
@@ -1488,8 +1488,10 @@
 0.0.0.0 ci.toutiao.com
 0.0.0.0 civitai.com
 0.0.0.0 cjwallet.snssdk.com
+0.0.0.0 clash-meta.wiki
 0.0.0.0 clashofclans.com
 0.0.0.0 clashroyale.com
+0.0.0.0 clash.wiki
 0.0.0.0 class.snssdk.com
 0.0.0.0 claude.ai
 0.0.0.0 c.l.bytedns.net
@@ -1989,6 +1991,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fast-proxy.com
 0.0.0.0 fastssh.com
+0.0.0.0 fastv2ray.com
 0.0.0.0 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.net
@@ -2057,6 +2060,7 @@
 0.0.0.0 freegamepick.com
 0.0.0.0 freeonlinegames.com
 0.0.0.0 freeopenvpn.org
+0.0.0.0 freev2ray.org
 0.0.0.0 freevpn.me
 0.0.0.0 friends-public-service-prod06.ol.epicgames.com
 0.0.0.0 friv.com
@@ -2293,6 +2297,7 @@
 0.0.0.0 geo.moatads.com
 0.0.0.0 getstarted.tiktok.com
 0.0.0.0 getstarted.tiktok.com.edgekey.net
+0.0.0.0 gfans.io
 0.0.0.0 gf-sg.snssdk.com
 0.0.0.0 gf.snssdk.com
 0.0.0.0 gh2ypyxesf.mzfvozqybf.com
@@ -2304,6 +2309,7 @@
 0.0.0.0 gllive.com
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global-h1.bytedance.map.fastly.net
+0.0.0.0 globalssh.net
 0.0.0.0 glu.com
 0.0.0.0 gma.tiktok.com
 0.0.0.0 gma-useast2a.tiktok.com
@@ -2373,6 +2379,7 @@
 0.0.0.0 hardware-seal-vpn.bytedance.com
 0.0.0.0 hashflare.io
 0.0.0.0 hayday.com
+0.0.0.0 hayossh.com
 0.0.0.0 hbo.com
 0.0.0.0 hbomax.com
 0.0.0.0 hcdnl.pulldyin.ovc.gslb.rocket-cdn.com
@@ -3413,6 +3420,7 @@
 0.0.0.0 link-va.byteoversea.com.edgesuite.net
 0.0.0.0 l.instagram.com
 0.0.0.0 listen.tidal.com
+0.0.0.0 listv2ray.com
 0.0.0.0 liteshopads.com
 0.0.0.0 lite.snssdk.com
 0.0.0.0 litmatchapp.com
@@ -3593,6 +3601,7 @@
 0.0.0.0 match.okcupid.com
 0.0.0.0 mathplayground.com
 0.0.0.0 matoklive.com
+0.0.0.0 matsuri.me
 0.0.0.0 maxbet.com
 0.0.0.0 max.com
 0.0.0.0 maxgames.com
@@ -3637,6 +3646,7 @@
 0.0.0.0 mercury-sdk.snssdk.com
 0.0.0.0 mercury.snssdk.com
 0.0.0.0 mercury-vivo.snssdk.com
+0.0.0.0 meta-clash.com
 0.0.0.0 metatrader4.com
 0.0.0.0 metatrader5.com
 0.0.0.0 meteor.tiktok.com
@@ -3966,6 +3976,7 @@
 0.0.0.0 my.playstation.com
 0.0.0.0 mzfvozqybf.com
 0.0.0.0 m.zjurl.cn
+0.0.0.0 naiveproxy.info
 0.0.0.0 na.leagueoflegends.com
 0.0.0.0 namcobandaigames.com
 0.0.0.0 nameaweme.snssdk.com
@@ -3981,6 +3992,7 @@
 0.0.0.0 n.byteoversea.com
 0.0.0.0 ncsoft.com
 0.0.0.0 neihanshequ.com
+0.0.0.0 nekoray.org
 0.0.0.0 neogaf.com
 0.0.0.0 netarch.bytedance.com
 0.0.0.0 neteasegames.com
@@ -4951,6 +4963,7 @@
 0.0.0.0 profile.callofduty.com
 0.0.0.0 programcamp.bytedance.com
 0.0.0.0 projectpoi.com
+0.0.0.0 project-x.io
 0.0.0.0 promotion-useast2a.tiktok.com
 0.0.0.0 propellerads.com
 0.0.0.0 proton.me
@@ -22897,6 +22910,7 @@
 0.0.0.0 s9.pstatp.com.bsgslb.com
 0.0.0.0 s.activision.com
 0.0.0.0 safervpn.com
+0.0.0.0 sagernet.org
 0.0.0.0 samehadaku.care
 0.0.0.0 samehadaku.tv
 0.0.0.0 samehadaku.vip
@@ -23466,6 +23480,9 @@
 0.0.0.0 studio.godaddy.com
 0.0.0.0 studio.twitter.com
 0.0.0.0 studio.youtube.com
+0.0.0.0 subcenter.com
+0.0.0.0 sub-con.net
+0.0.0.0 subconverter.com
 0.0.0.0 subsetgames.com
 0.0.0.0 sugarlive.co.id
 0.0.0.0 suggestions.tiktok.com
@@ -24448,11 +24465,17 @@
 0.0.0.0 v2-dy-z.ixigua.com
 0.0.0.0 v2-eu.gts.byteoversea.net
 0.0.0.0 v2fly.org
+0.0.0.0 v2less.com
 0.0.0.0 v2m.tiktokcdn.com
 0.0.0.0 v2.pstatp.com
 0.0.0.0 v2.pstatp.com.cloudcdn.net
 0.0.0.0 v2.pstatp.com.cloudglb.com
+0.0.0.0 v2rayaccount.com
 0.0.0.0 v2ray.com
+0.0.0.0 v2rayconfig.com
+0.0.0.0 v2ray-free.eu.org
+0.0.0.0 v2rayng.com
+0.0.0.0 v2rayn.org
 0.0.0.0 v2.tiktokcdn.com
 0.0.0.0 v2-tt.ixigua.com
 0.0.0.0 v2-tt.ixiguavideo.com
@@ -25785,6 +25808,8 @@
 0.0.0.0 xnotify.xbox.com
 0.0.0.0 xnxx-cdn.com
 0.0.0.0 xnxx.com
+0.0.0.0 xray.com
+0.0.0.0 xray-core.com
 0.0.0.0 xtb.com
 0.0.0.0 xvideos-cdn.com
 0.0.0.0 xvideos.com
