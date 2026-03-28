@@ -35,7 +35,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:44:13 UTC
+# Generated: 2026-03-28 22:45:25 UTC
 # ============================================
 
 
@@ -1208,7 +1208,10 @@
 0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 befunky.com
+0.0.0.0 behance.net
 0.0.0.0 behemoth.com
+0.0.0.0 bereal.com
+0.0.0.0 bereal.team
 0.0.0.0 beritasatu.com
 0.0.0.0 bestbuy.com
 0.0.0.0 bet365.com
@@ -1322,6 +1325,7 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bsdk.sgsnssdk.com
 0.0.0.0 bsdk.snssdk.com
+0.0.0.0 bsky.app
 0.0.0.0 bsm.bytedance.com
 0.0.0.0 bsync16-normal-no1a.tiktokv.eu
 0.0.0.0 bsync16-normal-useast2a.tiktokv.com
@@ -1538,6 +1542,7 @@
 0.0.0.0 cloud.bytedance.com
 0.0.0.0 cloudflareclient.com
 0.0.0.0 cloudprint.bytedance.com
+0.0.0.0 clubhouse.com
 0.0.0.0 clue-global.bytedance.com
 0.0.0.0 clue.toutiao.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
@@ -1820,6 +1825,7 @@
 0.0.0.0 d.pstatp.com
 0.0.0.0 draftkings.com
 0.0.0.0 dreamlive.tv
+0.0.0.0 dribbble.com
 0.0.0.0 drop-black-hole.snssdk.com
 0.0.0.0 drop-l-aweme-hl.snssdk.com
 0.0.0.0 drop-l-aweme-lf.snssdk.com
@@ -3146,7 +3152,9 @@
 0.0.0.0 just-test.byteoversea.com
 0.0.0.0 k2-dy-ml.gslb.ksyuncdn.com
 0.0.0.0 k8s.byted.org
+0.0.0.0 kakao.com
 0.0.0.0 kakaogames.com
+0.0.0.0 kakaotalk.com
 0.0.0.0 kancilssh.com
 0.0.0.0 kapwing.com
 0.0.0.0 kaskus.co.id
@@ -3237,6 +3245,7 @@
 0.0.0.0 legendsofruneterra.com
 0.0.0.0 lego-interaction.bytedance.com
 0.0.0.0 legroup21.gslb.cdnle.com
+0.0.0.0 lemon8-app.com
 0.0.0.0 lemonde.fr
 0.0.0.0 lens.snapchat.com
 0.0.0.0 lens-storage.storage.googleapis.com
@@ -3495,9 +3504,11 @@
 0.0.0.0 libraweb-ttp2.tiktokw.eu
 0.0.0.0 libraweb-ttp2.tiktokw.eu.ttdns3.com
 0.0.0.0 libraweb-va.tiktok.com
+0.0.0.0 licdn.com
 0.0.0.0 liff.line.me
 0.0.0.0 lilithgames.com
 0.0.0.0 lineage.plaync.com
+0.0.0.0 line-apps.com
 0.0.0.0 line.me
 0.0.0.0 linkedin.com
 0.0.0.0 link.e.tiktok.com
@@ -3686,6 +3697,7 @@
 0.0.0.0 market.toutiao.com
 0.0.0.0 mashable.com
 0.0.0.0 masterssh.net
+0.0.0.0 mastodon.social
 0.0.0.0 match.com
 0.0.0.0 match.okcupid.com
 0.0.0.0 mathplayground.com
@@ -3731,6 +3743,7 @@
 0.0.0.0 media.tumblr.com
 0.0.0.0 media.twitter.com
 0.0.0.0 medium.com
+0.0.0.0 meetup.com
 0.0.0.0 members.bet365.com
 0.0.0.0 menu.gog.com
 0.0.0.0 mercury-sdk.snssdk.com
@@ -4107,6 +4120,7 @@
 0.0.0.0 newsroom.tiktok.com
 0.0.0.0 nexon.com
 0.0.0.0 nexon.net
+0.0.0.0 nextdoor.com
 0.0.0.0 nflxext.com
 0.0.0.0 nflximg.net
 0.0.0.0 nflxso.net
@@ -25443,6 +25457,7 @@
 0.0.0.0 web.whatsapp.com
 0.0.0.0 webzen.com
 0.0.0.0 wechat.com
+0.0.0.0 weibo.cn
 0.0.0.0 weibo.com
 0.0.0.0 weiliicimg1.pstatp.com
 0.0.0.0 welcome.bytedance.com

@@ -7223,3 +7223,46 @@
 0.0.0.0 whisper.systems
 0.0.0.0 www.whisper.systems
 
+
+# ==========================================
+# EXPANDED SOCIAL MEDIA (GENERAL & REGIONAL)
+# ==========================================
+
+# --- Professional & Content Sharing ---
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 licdn.com
+0.0.0.0 pinterest.com
+0.0.0.0 tumblr.com
+0.0.0.0 flickr.com
+0.0.0.0 behance.net
+0.0.0.0 dribbble.com
+
+# --- Asian Social Giants ---
+0.0.0.0 wechat.com
+0.0.0.0 weibo.com
+0.0.0.0 weibo.cn
+0.0.0.0 line.me
+0.0.0.0 line-apps.com
+0.0.0.0 kakaotalk.com
+0.0.0.0 kakao.com
+
+# --- Emerging & Fediverse ---
+0.0.0.0 bsky.app
+0.0.0.0 mastodon.social
+0.0.0.0 bereal.com
+0.0.0.0 bereal.team
+0.0.0.0 lemon8-app.com
+
+# --- Major Chat Platforms (often used as social) ---
+0.0.0.0 t.me
+0.0.0.0 telegram.org
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+
+# --- Others ---
+0.0.0.0 meetup.com
+0.0.0.0 nextdoor.com
+0.0.0.0 clubhouse.com
