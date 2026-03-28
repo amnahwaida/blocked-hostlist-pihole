@@ -2,8 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amnahwaida-181717?style=flat-square&logo=github)](https://github.com/amnahwaida/blocked-hostlist-pihole)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Hosts](https://img.shields.io/badge/Total_Domains-24%2C777-red?style=flat-square)]()
-[![Lists](https://img.shields.io/badge/Blocklists-14-blue?style=flat-square)]()
+[![Hosts](https://img.shields.io/badge/Total_Domains-24%2C899-red?style=flat-square)]()
+[![Lists](https://img.shields.io/badge/Blocklists-15-blue?style=flat-square)]()
 
 Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DNS sinkhole yang melindungi jaringan Anda dari iklan, tracking, malware, dan konten yang tidak diinginkan.
 
@@ -25,11 +25,12 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 8 | **porn** | Konten dewasa (18+) | 84 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/porn) |
 | 9 | **snapchat** | Snapchat & Bitmoji | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/snapchat) |
 | 10 | **tiktok** | TikTok & infrastruktur ByteDance | 6.668 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/tiktok) |
-| 11 | **twitter** | Twitter/X & layanan terkait | 49 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/twitter) |
-| 12 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
-| 13 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
-| 14 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
-| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **24.777** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
+| 11 | **trading-crypto** | Trading crypto, binary, forex & saham | 122 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/trading-crypto) |
+| 12 | **twitter** | Twitter/X & layanan terkait | 49 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/twitter) |
+| 13 | **whatsapp** | WhatsApp messaging | 29 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/whatsapp) |
+| 14 | **youtube** | YouTube (blok total) | 25 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtube) |
+| 15 | **youtubeAds** | YouTube Ads saja (video tetap jalan) | 16.844 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/youtubeAds) |
+| 🔰 | **combined** | Semua list digabung (tanpa duplikat) | **24.899** | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/combined) |
 
 ---
 
@@ -83,6 +84,7 @@ blocked-hostlist-pihole/
     ├── porn               # Konten dewasa
     ├── snapchat           # Snapchat
     ├── tiktok             # TikTok/ByteDance
+    ├── trading-crypto     # Crypto, Binary, Forex
     ├── twitter            # Twitter/X
     ├── whatsapp           # WhatsApp
     ├── youtube            # YouTube (blok total)
@@ -114,15 +116,16 @@ Output contoh:
   ✅ ads-tracking (138 entries)
   ✅ ai (63 entries)
   ✅ facebook (89 entries)
-  ✅ gambling (82 entries)
   ✅ gaming (468 entries)
+  ✅ tiktok (6668 entries)
+  ✅ trading-crypto (122 entries)
   ✅ instagram (117 entries)
 ============================================
 📊 Summary:
-   Files processed: 14
-   Total entries:   24782
+   Files processed: 15
+   Total entries:   24904
    Duplicates:      5
-   Unique entries:  24777
+   Unique entries:  24899
 ============================================
 ✨ Done!
 ```
@@ -151,7 +154,7 @@ ads-tracking + gambling + gaming + porn + malware-phishing
 
 ### 🏢 Kantor / Produktivitas
 ```
-ads-tracking + tiktok + instagram + facebook + twitter + gambling + gaming
+ads-tracking + tiktok + instagram + facebook + twitter + gambling + gaming + trading-crypto
 ```
 
 ### 🎓 Sekolah / Lab Komputer

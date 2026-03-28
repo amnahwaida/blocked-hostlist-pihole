@@ -1,0 +1,156 @@
+# ============================================
+# Trading, Forex & Crypto Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks cryptocurrency exchanges, binary options,
+# forex brokers, and trading platforms.
+# Useful for productivity or avoiding scams.
+# ============================================
+
+# ==========================================
+# CRYPTOCURRENCY EXCHANGES
+# ==========================================
+
+# --- Global Crypto Exchanges ---
+0.0.0.0 binance.com
+0.0.0.0 www.binance.com
+0.0.0.0 accounts.binance.com
+0.0.0.0 api.binance.com
+0.0.0.0 p2p.binance.com
+0.0.0.0 binance.me
+0.0.0.0 binance.info
+0.0.0.0 coinbase.com
+0.0.0.0 www.coinbase.com
+0.0.0.0 pro.coinbase.com
+0.0.0.0 api.coinbase.com
+0.0.0.0 kraken.com
+0.0.0.0 www.kraken.com
+0.0.0.0 bybit.com
+0.0.0.0 www.bybit.com
+0.0.0.0 kucoin.com
+0.0.0.0 www.kucoin.com
+0.0.0.0 okx.com
+0.0.0.0 www.okx.com
+0.0.0.0 htbs.com
+0.0.0.0 huobi.com
+0.0.0.0 www.huobi.com
+0.0.0.0 gate.io
+0.0.0.0 www.gate.io
+0.0.0.0 bitget.com
+0.0.0.0 www.bitget.com
+0.0.0.0 mexc.com
+0.0.0.0 www.mexc.com
+0.0.0.0 crypto.com
+0.0.0.0 www.crypto.com
+0.0.0.0 bitfinex.com
+0.0.0.0 www.bitfinex.com
+0.0.0.0 bitstamp.net
+0.0.0.0 www.bitstamp.net
+0.0.0.0 gemini.com
+0.0.0.0 www.gemini.com
+
+# --- Indonesian Crypto Exchanges ---
+0.0.0.0 indodax.com
+0.0.0.0 www.indodax.com
+0.0.0.0 tokocrypto.com
+0.0.0.0 www.tokocrypto.com
+0.0.0.0 pluang.com
+0.0.0.0 www.pluang.com
+0.0.0.0 pintu.co.id
+0.0.0.0 www.pintu.co.id
+0.0.0.0 ajaib.co.id
+0.0.0.0 www.ajaib.co.id
+0.0.0.0 rekeningku.com
+0.0.0.0 www.rekeningku.com
+0.0.0.0 luno.com
+0.0.0.0 www.luno.com
+0.0.0.0 zipmex.com
+0.0.0.0 www.zipmex.com
+0.0.0.0 upbit.co.id
+
+# ==========================================
+# BINARY OPTIONS & HIGH-RISK TRADING
+# ==========================================
+
+# --- Binary Exchanges ---
+0.0.0.0 binomo.com
+0.0.0.0 www.binomo.com
+0.0.0.0 binomo-web.com
+0.0.0.0 iqoption.com
+0.0.0.0 www.iqoption.com
+0.0.0.0 olymptrade.com
+0.0.0.0 www.olymptrade.com
+0.0.0.0 quotex.io
+0.0.0.0 www.quotex.io
+0.0.0.0 quotex.com
+0.0.0.0 qxbroker.com
+0.0.0.0 www.qxbroker.com
+0.0.0.0 pocketoption.com
+0.0.0.0 www.pocketoption.com
+0.0.0.0 expertoption.com
+0.0.0.0 www.expertoption.com
+0.0.0.0 rubiktrade.com
+0.0.0.0 www.rubiktrade.com
+0.0.0.0 fxtm.com
+0.0.0.0 ayrex.com
+0.0.0.0 binary.com
+0.0.0.0 www.binary.com
+0.0.0.0 deriv.com
+0.0.0.0 www.deriv.com
+0.0.0.0 viproarkets.com
+
+# ==========================================
+# FOREX & CFD BROKERS
+# ==========================================
+
+# --- Forex Brokers ---
+0.0.0.0 octafx.com
+0.0.0.0 www.octafx.com
+0.0.0.0 octafx.id
+0.0.0.0 fbs.com
+0.0.0.0 www.fbs.com
+0.0.0.0 fbs.id
+0.0.0.0 exness.com
+0.0.0.0 www.exness.com
+0.0.0.0 xm.com
+0.0.0.0 www.xm.com
+0.0.0.0 instaforex.com
+0.0.0.0 www.instaforex.com
+0.0.0.0 icmarkets.com
+0.0.0.0 www.icmarkets.com
+0.0.0.0 pepperstone.com
+0.0.0.0 www.pepperstone.com
+0.0.0.0 oanda.com
+0.0.0.0 www.oanda.com
+0.0.0.0 fxcm.com
+0.0.0.0 ig.com
+0.0.0.0 www.ig.com
+0.0.0.0 hfm.com
+0.0.0.0 hotforex.com
+0.0.0.0 etoro.com
+0.0.0.0 www.etoro.com
+0.0.0.0 xtb.com
+0.0.0.0 www.xtb.com
+0.0.0.0 mifx.com
+0.0.0.0 www.mifx.com
+0.0.0.0 didimax.co.id
+
+# ==========================================
+# TRADING PLATFORMS & TOOLS
+# ==========================================
+
+0.0.0.0 tradingview.com
+0.0.0.0 www.tradingview.com
+0.0.0.0 metatrader4.com
+0.0.0.0 www.metatrader4.com
+0.0.0.0 metatrader5.com
+0.0.0.0 www.metatrader5.com
+0.0.0.0 mql5.com
+0.0.0.0 www.mql5.com
+0.0.0.0 coinmarketcap.com
+0.0.0.0 www.coinmarketcap.com
+0.0.0.0 coingecko.com
+0.0.0.0 www.coingecko.com
+0.0.0.0 investing.com
+0.0.0.0 www.investing.com

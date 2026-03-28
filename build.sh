@@ -45,6 +45,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - porn            : Adult content (18+)
 #   - snapchat        : Snapchat
 #   - tiktok          : TikTok & ByteDance
+#   - trading-crypto  : Crypto, Binary, Forex & Trading
 #   - twitter         : Twitter/X
 #   - whatsapp        : WhatsApp
 #   - youtube         : YouTube (full block)
