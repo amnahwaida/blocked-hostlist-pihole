@@ -38,6 +38,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - ads-tracking    : Ads & tracking domains
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
+#   - editing-apps    : Design, Photo & Video tools
 #   - facebook        : Facebook & Meta services
 #   - forums          : Discussion boards (Reddit, Kaskus, Quora)
 #   - gambling        : Gambling & betting sites

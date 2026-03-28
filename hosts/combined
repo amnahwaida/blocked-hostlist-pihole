@@ -10,6 +10,7 @@
 #   - ads-tracking    : Ads & tracking domains
 #   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
+#   - editing-apps    : Design, Photo & Video tools
 #   - facebook        : Facebook & Meta services
 #   - forums          : Discussion boards (Reddit, Kaskus, Quora)
 #   - gambling        : Gambling & betting sites
@@ -29,7 +30,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:08:51 UTC
+# Generated: 2026-03-28 22:11:41 UTC
 # ============================================
 
 
@@ -38,6 +39,8 @@
 # --- ai ---
 
 # --- dating-apps ---
+
+# --- editing-apps ---
 
 # --- facebook ---
 
@@ -248,6 +251,7 @@
 0.0.0.0 admin-x.bytedance.com
 0.0.0.0 admob.com
 0.0.0.0 adnxs.com
+0.0.0.0 adobe.com
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ads.adcolony.com
 0.0.0.0 ads.advertising.com
@@ -361,6 +365,7 @@
 0.0.0.0 animeindo.cc
 0.0.0.0 animeindo.net
 0.0.0.0 animeku.tv
+0.0.0.0 animoto.com
 0.0.0.0 aniwave.to
 0.0.0.0 anthropic.com
 0.0.0.0 apex.ea.com
@@ -849,6 +854,8 @@
 0.0.0.0 api.bumble.com
 0.0.0.0 api-c.amemv.com
 0.0.0.0 api-c.amemv.com.w.kunluncan.com
+0.0.0.0 api.canva.com
+0.0.0.0 api.capcut.com
 0.0.0.0 api.coinbase.com
 0.0.0.0 api-core-boot.tiktokv.com
 0.0.0.0 api-core-va.tiktokv.com
@@ -1126,6 +1133,7 @@
 0.0.0.0 bcy.snssdk.com
 0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 bds.snssdk.com
+0.0.0.0 befunky.com
 0.0.0.0 bet365.com
 0.0.0.0 beta.character.ai
 0.0.0.0 beta.instagram.com
@@ -1285,6 +1293,8 @@
 0.0.0.0 campaign19-normal-useast5.us.tiktokv.com
 0.0.0.0 canary.discord.com
 0.0.0.0 candycrushsaga.com
+0.0.0.0 canva.com
+0.0.0.0 capcut.com
 0.0.0.0 caps.twitter.com
 0.0.0.0 capture.byteoversea.com
 0.0.0.0 cards-frame.twitter.com
@@ -1406,6 +1416,7 @@
 0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 client_monitor.sgsnssdk.com
 0.0.0.0 clinent_monitor.isnssdk.com
+0.0.0.0 clipchamp.com
 0.0.0.0 clips.twitch.tv
 0.0.0.0 cloudapi.bytedance.com
 0.0.0.0 cloud.bytedance.com
@@ -1462,6 +1473,7 @@
 0.0.0.0 crash.snssdk.com
 0.0.0.0 crazygames.com
 0.0.0.0 creation.bytedance.com
+0.0.0.0 creativecloud.adobe.com
 0.0.0.0 creativecloud-deliver.bytedance.com
 0.0.0.0 creativeexchange.tiktok.com
 0.0.0.0 creative.facebook.com
@@ -1800,6 +1812,7 @@
 0.0.0.0 equinix-sjc-api1.l.byteoversea.net
 0.0.0.0 equinix-sjc-v1.l.byteoversea.net
 0.0.0.0 equinix-sjc-v2.l.byteoversea.net
+0.0.0.0 erase.bg
 0.0.0.0 e.reddit.com
 0.0.0.0 error.facebook.com
 0.0.0.0 eshop.nintendo.net
@@ -1824,6 +1837,7 @@
 0.0.0.0 exness.com
 0.0.0.0 experiment.tiktok.com
 0.0.0.0 expertoption.com
+0.0.0.0 express.adobe.com
 0.0.0.0 external.bytedance.com
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 extlog.snssdk.com
@@ -1872,6 +1886,7 @@
 0.0.0.0 ff.garena.co.id
 0.0.0.0 ff.garena.com
 0.0.0.0 fgbfchedbbb.temp.p23.tc.cdntip.com
+0.0.0.0 figma.com
 0.0.0.0 filmku.net
 0.0.0.0 financal-stock-web.snssdk.com
 0.0.0.0 finance.snssdk.com
@@ -2616,6 +2631,7 @@
 0.0.0.0 in.tiktok.com
 0.0.0.0 inventory.roblox.com
 0.0.0.0 investing.com
+0.0.0.0 invideo.io
 0.0.0.0 io-games.io
 0.0.0.0 iogames.space
 0.0.0.0 ios.chat.openai.com
@@ -2840,6 +2856,7 @@
 0.0.0.0 just-test.byteoversea.com
 0.0.0.0 k2-dy-ml.gslb.ksyuncdn.com
 0.0.0.0 k8s.byted.org
+0.0.0.0 kapwing.com
 0.0.0.0 kaskus.co.id
 0.0.0.0 kaskus.tv
 0.0.0.0 kds.bytedance.com
@@ -3294,6 +3311,7 @@
 0.0.0.0 lr77-gcp01.tiktokcdn.com
 0.0.0.0 lr77-sg01.tiktokcdn.com
 0.0.0.0 lr77-va01.tiktokcdn.com
+0.0.0.0 lrs.crx.adobe.com
 0.0.0.0 lts-ns.byteoversea.com
 0.0.0.0 lt.snssdk.com
 0.0.0.0 luban.snssdk.com
@@ -3325,6 +3343,7 @@
 0.0.0.0 lv.ulikecam.com
 0.0.0.0 m1-16.tiktok.com
 0.0.0.0 m2-16.tiktok.com
+0.0.0.0 madewithover.com
 0.0.0.0 mail.bytedance.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
@@ -4547,9 +4566,12 @@
 0.0.0.0 phind.com
 0.0.0.0 phncdn.com
 0.0.0.0 phonemark.toutiao.com
+0.0.0.0 photopea.com
 0.0.0.0 p.hypstarcdn.com
 0.0.0.0 pickad.bytedance.com
 0.0.0.0 pick.bytedance.com
+0.0.0.0 picmonkey.com
+0.0.0.0 picsart.com
 0.0.0.0 pic.twitter.com
 0.0.0.0 picwebws.pstatp.com.wsglb0.com
 0.0.0.0 pigeon.bytedance.com
@@ -4584,6 +4606,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 pixlr.com
 0.0.0.0 platform.facebook.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform.openai.com
@@ -22034,6 +22057,7 @@
 0.0.0.0 refer.bytedance.com
 0.0.0.0 rekeningku.com
 0.0.0.0 rela.pc.cdn.bitgravity.com
+0.0.0.0 remove.bg
 0.0.0.0 render.bitstrips.com
 0.0.0.0 renzheng.snssdk.com
 0.0.0.0 renzheng.toutiao.com
@@ -22936,6 +22960,7 @@
 0.0.0.0 snapprod-mia1.appspot.com
 0.0.0.0 snapprod-ord1.appspot.com
 0.0.0.0 snapprod-sjc1.appspot.com
+0.0.0.0 snapseed.com
 0.0.0.0 snap-storage-cdn.appspot.com
 0.0.0.0 snap-storage-cdn.sc-static.net
 0.0.0.0 sndcdn.com
@@ -23037,10 +23062,12 @@
 0.0.0.0 static2.cdn.ubi.com
 0.0.0.0 static3.cdn.ubi.com
 0.0.0.0 static.bytedance.com
+0.0.0.0 static.canva.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 static-cdn.jtvnw.net
 0.0.0.0 static.criteo.net
 0.0.0.0 static.facebook.com
+0.0.0.0 static.figma.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.itch.io
 0.0.0.0 static.licdn.com
@@ -23079,6 +23106,7 @@
 0.0.0.0 stream.snssdk.com
 0.0.0.0 stream.twitter.com
 0.0.0.0 stripchat.com
+0.0.0.0 studio.godaddy.com
 0.0.0.0 studio.twitter.com
 0.0.0.0 studio.youtube.com
 0.0.0.0 sugarlive.co.id
@@ -24365,6 +24393,7 @@
 0.0.0.0 vas-useast2a.tiktokv.com
 0.0.0.0 vbm.bytedance.com
 0.0.0.0 v.bsgslb.com
+0.0.0.0 v.capcut.com
 0.0.0.0 vc-brain.snssdk.com
 0.0.0.0 vc-foresight.snssdk.com
 0.0.0.0 vc-foresight.snssdk.com.w.kunluncan.com
@@ -24388,6 +24417,7 @@
 0.0.0.0 vc-tantan.snssdk.com
 0.0.0.0 v-edgecast.tiktokcdn.com
 0.0.0.0 v-edgecast.tiktokcdn.com.bytewlb.akadns.net
+0.0.0.0 veed.io
 0.0.0.0 verification16-normal-c-useast1a.tiktokv.com
 0.0.0.0 verification16-normal-c-useast1a.tiktokv.com.edgesuite.net
 0.0.0.0 verification16-normal-c-useast2a.tiktokv.com
@@ -24444,6 +24474,7 @@
 0.0.0.0 vine.co
 0.0.0.0 viproarkets.com
 0.0.0.0 v.ipstatp.com
+0.0.0.0 vistacreate.com
 0.0.0.0 viu.com
 0.0.0.0 vk-cdn.net
 0.0.0.0 vk.com
@@ -24875,6 +24906,7 @@
 0.0.0.0 www.battlefield.com
 0.0.0.0 www.battle.net
 0.0.0.0 www.battleye.com
+0.0.0.0 www.befunky.com
 0.0.0.0 www.bet365.com
 0.0.0.0 www.betfair.com
 0.0.0.0 www.betonline.ag
@@ -24908,6 +24940,8 @@
 0.0.0.0 www.callofduty.com
 0.0.0.0 www.cam4.com
 0.0.0.0 www.candycrushsaga.com
+0.0.0.0 www.canva.com
+0.0.0.0 www.capcut.com
 0.0.0.0 www.casumo.com
 0.0.0.0 www.character.ai
 0.0.0.0 www.chatgpt.com
@@ -24918,6 +24952,7 @@
 0.0.0.0 www.clashofclans.com
 0.0.0.0 www.clashroyale.com
 0.0.0.0 www.claude.ai
+0.0.0.0 www.clipchamp.com
 0.0.0.0 www.cmd368.com
 0.0.0.0 www.coffeemeetsbagel.com
 0.0.0.0 www.coinbase.com
@@ -24954,6 +24989,7 @@
 0.0.0.0 www.fanduel.com
 0.0.0.0 www.fapello.com
 0.0.0.0 www.fbs.com
+0.0.0.0 www.figma.com
 0.0.0.0 www.flickr.com
 0.0.0.0 www.fortnite.com
 0.0.0.0 www.friv.com
@@ -25014,6 +25050,7 @@
 0.0.0.0 www.jackpotcity.com
 0.0.0.0 www.jackpot.com
 0.0.0.0 www.joox.com
+0.0.0.0 www.kapwing.com
 0.0.0.0 www.kaskus.co.id
 0.0.0.0 www.kick.com
 0.0.0.0 www.king.com
@@ -25091,9 +25128,13 @@
 0.0.0.0 www.pepperstone.com
 0.0.0.0 www.perplexity.ai
 0.0.0.0 www.phind.com
+0.0.0.0 www.photopea.com
+0.0.0.0 www.picmonkey.com
+0.0.0.0 www.picsart.com
 0.0.0.0 www.pinnacle.com
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.pintu.co.id
+0.0.0.0 www.pixlr.com
 0.0.0.0 www.plays.org
 0.0.0.0 www.playstation.com
 0.0.0.0 www.playvalorant.com
@@ -25122,6 +25163,7 @@
 0.0.0.0 www.redditstatic.com
 0.0.0.0 www.redtube.com
 0.0.0.0 www.rekeningku.com
+0.0.0.0 www.remove.bg
 0.0.0.0 www.resetera.com
 0.0.0.0 www.resso.com
 0.0.0.0 www.riotgames.com
@@ -25188,6 +25230,7 @@
 0.0.0.0 www-useast1a.tiktok.com
 0.0.0.0 www.valve.software
 0.0.0.0 www.valvesoftware.com
+0.0.0.0 www.veed.io
 0.0.0.0 www.vidio.com
 0.0.0.0 www.viu.com
 0.0.0.0 www.vk.com

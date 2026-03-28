@@ -1,0 +1,76 @@
+# ============================================
+# Online Editing & Design Apps Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major online graphic design, video editing,
+# and creative tools (useful for focusing).
+# ============================================
+
+# --- Canva ---
+0.0.0.0 canva.com
+0.0.0.0 www.canva.com
+0.0.0.0 static.canva.com
+0.0.0.0 api.canva.com
+
+# --- CapCut (ByteDance) ---
+0.0.0.0 capcut.com
+0.0.0.0 www.capcut.com
+0.0.0.0 api.capcut.com
+0.0.0.0 v.capcut.com
+
+# --- Adobe Creative Cloud / Express ---
+0.0.0.0 adobe.com
+0.0.0.0 creativecloud.adobe.com
+0.0.0.0 express.adobe.com
+0.0.0.0 lrs.crx.adobe.com
+
+# --- Figma / Figjam ---
+0.0.0.0 figma.com
+0.0.0.0 www.figma.com
+0.0.0.0 static.figma.com
+
+# --- Photopea / Pixlr ---
+0.0.0.0 photopea.com
+0.0.0.0 www.photopea.com
+0.0.0.0 pixlr.com
+0.0.0.0 www.pixlr.com
+
+# --- Clipchamp (Microsoft) ---
+0.0.0.0 clipchamp.com
+0.0.0.0 www.clipchamp.com
+
+# --- PicMonkey / BeFunky ---
+0.0.0.0 picmonkey.com
+0.0.0.0 www.picmonkey.com
+0.0.0.0 befunky.com
+0.0.0.0 www.befunky.com
+
+# --- Remove.bg / Erase.bg ---
+0.0.0.0 remove.bg
+0.0.0.0 www.remove.bg
+0.0.0.0 erase.bg
+
+# --- InVideo / Animoto ---
+0.0.0.0 invideo.io
+0.0.0.0 animoto.com
+
+# --- Veed.io / Kapwing ---
+0.0.0.0 veed.io
+0.0.0.0 www.veed.io
+0.0.0.0 kapwing.com
+0.0.0.0 www.kapwing.com
+
+# --- PicsArt ---
+0.0.0.0 picsart.com
+0.0.0.0 www.picsart.com
+
+# --- Snapseed (Google) ---
+0.0.0.0 snapseed.com
+
+# --- Over / GoDaddy Studio ---
+0.0.0.0 madewithover.com
+0.0.0.0 studio.godaddy.com
+
+# --- VistaCreate ---
+0.0.0.0 vistacreate.com
