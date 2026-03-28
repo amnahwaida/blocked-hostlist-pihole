@@ -34,7 +34,7 @@
 #   - youtube         : YouTube (full block)
 #   - youtubeAds      : YouTube ads only
 # ============================================
-# Generated: 2026-03-28 22:30:31 UTC
+# Generated: 2026-03-28 22:32:14 UTC
 # ============================================
 
 
@@ -321,6 +321,7 @@
 0.0.0.0 aistudio.google.com
 0.0.0.0 ajaib.co.id
 0.0.0.0 akcqacex.qfyf1toi.com
+0.0.0.0 akunssh.net
 0.0.0.0 alb.reddit.com
 0.0.0.0 a.l.bytedns.net
 0.0.0.0 alibaba.com
@@ -1559,6 +1560,7 @@
 0.0.0.0 crashlytics.com
 0.0.0.0 crash.snssdk.com
 0.0.0.0 crazygames.com
+0.0.0.0 createssh.com
 0.0.0.0 creation.bytedance.com
 0.0.0.0 creativecloud.adobe.com
 0.0.0.0 creativecloud-deliver.bytedance.com
@@ -1576,6 +1578,7 @@
 0.0.0.0 crypto.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptoloot.pro
+0.0.0.0 cryptostorm.is
 0.0.0.0 cryptotabbrowser.com
 0.0.0.0 cryptotab.net
 0.0.0.0 cscm.bytedance.com
@@ -1985,6 +1988,7 @@
 0.0.0.0 fastcdn.mihoyo.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fast-proxy.com
+0.0.0.0 fastssh.com
 0.0.0.0 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.net
@@ -2052,6 +2056,8 @@
 0.0.0.0 freeflow-edgeac.bytedance.com
 0.0.0.0 freegamepick.com
 0.0.0.0 freeonlinegames.com
+0.0.0.0 freeopenvpn.org
+0.0.0.0 freevpn.me
 0.0.0.0 friends-public-service-prod06.ol.epicgames.com
 0.0.0.0 friv.com
 0.0.0.0 fromsoftware.jp
@@ -2081,6 +2087,7 @@
 0.0.0.0 frvr.com
 0.0.0.0 ft.snssdk.com
 0.0.0.0 ft.snssdk.com.w.kunluncan.com
+0.0.0.0 fullssh.com
 0.0.0.0 funblocked.games
 0.0.0.0 funimation.com
 0.0.0.0 fusioncdn-lf.snssdk.com
@@ -2906,9 +2913,11 @@
 0.0.0.0 jackpotcity.com
 0.0.0.0 jackpot.com
 0.0.0.0 jagex.com
+0.0.0.0 jagossh.net
 0.0.0.0 jasper.ai
 0.0.0.0 jd.com
 0.0.0.0 jd.id
+0.0.0.0 jetssh.com
 0.0.0.0 j.gs
 0.0.0.0 jinzhan.snssdk.com
 0.0.0.0 jira.bytedance.com
@@ -4910,6 +4919,7 @@
 0.0.0.0 popcash.net
 0.0.0.0 pornhub.com
 0.0.0.0 portal.facebook.com
+0.0.0.0 portssh.com
 0.0.0.0 ppoi.org
 0.0.0.0 p.pstatp.com
 0.0.0.0 p.pstatp.com.w.alikunlun.com
@@ -4923,6 +4933,7 @@
 0.0.0.0 ppx.snssdk.com.w.kunluncan.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 pre.footprintpredict.com
+0.0.0.0 premiumssh.net
 0.0.0.0 presource.snssdk.com
 0.0.0.0 press-dyn-ali-a.snssdk.com
 0.0.0.0 press-dyn-ali-b.snssdk.com
@@ -22995,6 +23006,7 @@
 0.0.0.0 security-hl.snssdk.com
 0.0.0.0 security-hl.snssdk.com.w.kunluncan.com
 0.0.0.0 security-ipv6.snssdk.com
+0.0.0.0 securitykiss.com
 0.0.0.0 security-lb-maliva.byteoversea.net
 0.0.0.0 security-lf.snssdk.com
 0.0.0.0 security-lq.snssdk.com
@@ -23259,6 +23271,7 @@
 0.0.0.0 sitestream.twitter.com
 0.0.0.0 s.kaskus.id
 0.0.0.0 skribbl.io
+0.0.0.0 skyssh.com
 0.0.0.0 slb-lb.bytedns.net
 0.0.0.0 slickvpn.com
 0.0.0.0 slide.toutiao.com
@@ -23320,6 +23333,7 @@
 0.0.0.0 speech-maliva.bytedance.com
 0.0.0.0 speech-test.bytedance.com
 0.0.0.0 speedify.com
+0.0.0.0 speedssh.com
 0.0.0.0 spe-f2-frontier-hl.snssdk.com
 0.0.0.0 spe-frontier-a.isnssdk.com
 0.0.0.0 spe-frontier-a.snssdk.com
@@ -23352,7 +23366,9 @@
 0.0.0.0 srp4.snssdk.com
 0.0.0.0 ssdk-sg.pangle.io.ttdns2.com
 0.0.0.0 s.sgpstatp.com
+0.0.0.0 sshkit.com
 0.0.0.0 sshocean.com
+0.0.0.0 sshstores.net
 0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.ipstatp.com.edgekey.net
@@ -23504,6 +23520,7 @@
 0.0.0.0 tb.sgsnssdk.com
 0.0.0.0 t.bytedance.com
 0.0.0.0 t.co
+0.0.0.0 tcpvpn.com
 0.0.0.0 tcs.bytedance.com
 0.0.0.0 tcs-maliva-lb-useast2a.byteoversea.net
 0.0.0.0 tcs-m.bytedance.com
@@ -24888,9 +24905,13 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpn2.byted.org
+0.0.0.0 vpnbook.com
 0.0.0.0 vpngate.net
+0.0.0.0 vpnjantit.com
+0.0.0.0 vpnpas.com
 0.0.0.0 vpnproxy.io
 0.0.0.0 vpnsecure.me
+0.0.0.0 vpnssh.com
 0.0.0.0 v.pstatp.com
 0.0.0.0 vrchat.com
 0.0.0.0 v.redd.it

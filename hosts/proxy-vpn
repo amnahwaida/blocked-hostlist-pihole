@@ -158,3 +158,37 @@
 0.0.0.0 kproxy.org
 0.0.0.0 proxy.webshare.io
 0.0.0.0 smartproxy.com
+
+# ==========================================
+# OPENVPN & SSH CONFIG PROVIDERS (COMMON IN ID)
+# ==========================================
+
+# --- Popular Account Providers (SSH/OpenVPN) ---
+0.0.0.0 tcpvpn.com
+0.0.0.0 fastssh.com
+0.0.0.0 sshkit.com
+0.0.0.0 jagossh.net
+0.0.0.0 akunssh.net
+0.0.0.0 vpnjantit.com
+0.0.0.0 vpnpas.com
+0.0.0.0 jetssh.com
+0.0.0.0 skyssh.com
+0.0.0.0 portssh.com
+0.0.0.0 sshstores.net
+0.0.0.0 fullssh.com
+0.0.0.0 speedssh.com
+
+# --- International Free OpenVPN Sites ---
+0.0.0.0 vpnbook.com
+0.0.0.0 freevpn.me
+0.0.0.0 freeopenvpn.org
+0.0.0.0 openvpn.net
+0.0.0.0 securitykiss.com
+0.0.0.0 cryptostorm.is
+
+# --- Specialized Config Hosting ---
+0.0.0.0 sshocean.com
+0.0.0.0 howdy.id
+0.0.0.0 createssh.com
+0.0.0.0 vpnssh.com
+0.0.0.0 premiumssh.net
