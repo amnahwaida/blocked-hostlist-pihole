@@ -1,0 +1,40 @@
+# ============================================
+# Torrent & P2P Blocklist for Pi-hole
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major torrent trackers, indexing sites, 
+# and P2P software websites.
+# ============================================
+
+# --- Major Torrent Indexers ---
+0.0.0.0 thepiratebay.org
+0.0.0.0 thepiratebay.com
+0.0.0.0 1337x.to
+0.0.0.0 yts.mx
+0.0.0.0 rarbg.to
+0.0.0.0 torrentz2.eu
+0.0.0.0 limetorrents.pro
+0.0.0.0 kickasstorrents.to
+0.0.0.0 eztv.re
+0.0.0.0 zooqle.com
+
+# --- Torrent Software & Infrastructure ---
+0.0.0.0 bittorrent.com
+0.0.0.0 utorrent.com
+0.0.0.0 transmissionbt.com
+0.0.0.0 qbittorrent.org
+0.0.0.0 biglybt.com
+0.0.0.0 vuze.com
+
+# --- P2P & File Sharing Networks ---
+0.0.0.0 soulseekqt.net
+0.0.0.0 emule-project.net
+0.0.0.0 gnutella.org
+
+# --- Common Trackers (Massive blocks) ---
+0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 tracker.opentrackr.org
+0.0.0.0 open.stealth.si
+0.0.0.0 tracker.coppersurfer.tk
+0.0.0.0 tracker.cyberia.is

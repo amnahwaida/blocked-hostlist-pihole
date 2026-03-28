@@ -38,25 +38,26 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - ads-tracking    : Ads & tracking domains
 #   - ai              : AI, Chatbots, Generators, etc.
 #   - chat-apps       : Telegram, Discord, LINE, WeChat, etc.
+#   - cloud-storage   : Mega, Mediafire, Dropbox, etc.
 #   - cryptomining    : Mining pools & scripts
-#   - ai              : AI Chatbots & Image Generators
 #   - dating-apps     : Tinder, Bumble, Badoo, etc.
-#   - editing-apps    : Design, Photo & Video tools
+#   - editing-apps    : Canva, CapCut, Photopea, etc.
 #   - facebook        : Facebook & Meta services
-#   - forums          : Discussion boards (Reddit, Kaskus, Quora)
-#   - gambling        : Gambling & betting sites
-#   - gaming          : Mobile, PC & web games
-#   - instagram       : Instagram
+#   - forums          : Reddit, Quora, Kaskus, etc.
+#   - gambling        : Online gambling & betting
+#   - gaming          : PC, Mobile, Web games
+#   - instagram       : Instagram & Threads
 #   - malware-phishing: Malware & security threats
-#   - misused-apps    : Bigo, OmeTV, NGL, etc.
+#   - misused-apps    : Pinjol, Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - news-weather    : News portals & weather
 #   - online-meetings : Zoom, Teams, Meet
 #   - porn            : Adult content (18+)
 #   - proxy-vpn       : VPNs & Web Proxies
 #   - shopping        : E-commerce platforms
-#   - signal          : Signal Messenger app
-#   - snapchat        : Snapchat
+#   - short-video     : SnackVideo, Likee, Kwai, etc.
+#   - signal          : Signal messenger
+#   - snapchat        : Snapchat Messenger
 #   - social-media    : Reddit, Pinterest, LinkedIn, etc.
 #   - tiktok          : TikTok & ByteDance
 #   - trading-crypto  : Crypto, Binary, Forex & Trading

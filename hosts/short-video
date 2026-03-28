@@ -1,0 +1,33 @@
+# ============================================
+# Short-Video Platforms Blocklist (Non-TikTok)
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major short-form video platforms 
+# excluding TikTok (which has its own list).
+# ============================================
+
+# --- Major Platforms ---
+0.0.0.0 snackvideo.com
+0.0.0.0 likee.video
+0.0.0.0 likee.com
+0.0.0.0 kwai.com
+0.0.0.0 kuaishou.com
+0.0.0.0 byte.co
+0.0.0.0 triller.co
+0.0.0.0 zynn.com
+0.0.0.0 dubsmash.com
+
+# --- Regional / Others ---
+0.0.0.0 vigovideo.net
+0.0.0.0 hypstar.com
+0.0.0.0 buzzbreak.com
+0.0.0.0 helolabs.com
+0.0.0.0 sharechat.com
+0.0.0.0 mojapp.in
+0.0.0.0 joshapp.com
+
+# --- Infrastructure ---
+0.0.0.0 snackvideo.com
+0.0.0.0 kwai.net
+0.0.0.0 likvideo.com

@@ -1,0 +1,38 @@
+# ============================================
+# Cloud Storage & File Hosting Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Blocks major public file hosting and cloud 
+# storage services (Mega, Mediafire, etc).
+# ============================================
+
+# --- Major File Hosting ---
+0.0.0.0 mega.nz
+0.0.0.0 mega.co.nz
+0.0.0.0 mediafire.com
+0.0.0.0 rapidgator.net
+0.0.0.0 uploaded.net
+0.0.0.0 keep2share.cc
+0.0.0.0 turbobit.net
+0.0.0.0 1fichier.com
+0.0.0.0 uptobox.com
+0.0.0.0 datafilehost.com
+0.0.0.0 sendspace.com
+0.0.0.0 zippyshare.com
+
+# --- Cloud Storage (General/Free) ---
+0.0.0.0 dropbox.com
+0.0.0.0 box.com
+0.0.0.0 4shared.com
+0.0.0.0 icedrive.net
+0.0.0.0 pcloud.com
+0.0.0.0 sync.com
+0.0.0.0 wetransfer.com
+
+# --- Regional / Popular in Asia ---
+0.0.0.0 solidfiles.com
+0.0.0.0 tusfiles.com
+0.0.0.0 kumpulbagi.id
+0.0.0.0 indoshare.me
+0.0.0.0 userscloud.com
