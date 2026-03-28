@@ -1,0 +1,40 @@
+# ============================================
+# Online Meeting & Video Conference Blocklist
+# Maintained by: amnahwaida
+# Last Updated: 2026-03-29
+# ============================================
+# Standalone list for blocking/allowing 
+# virtual meeting platforms (Zoom, Teams, Meet).
+# ============================================
+
+# --- Zoom ---
+0.0.0.0 zoom.us
+0.0.0.0 zoom.com
+0.0.0.0 zoom.com.cn
+0.0.0.0 us02web.zoom.us
+0.0.0.0 us04web.zoom.us
+0.0.0.0 us05web.zoom.us
+
+# --- Microsoft Teams ---
+0.0.0.0 teams.microsoft.com
+0.0.0.0 teams.live.com
+0.0.0.0 s-0005.s-msedge.net
+0.0.0.0 teams.events.data.microsoft.com
+
+# --- Google Meet ---
+0.0.0.0 meet.google.com
+
+# --- Cisco Webex ---
+0.0.0.0 webex.com
+0.0.0.0 webexconnect.com
+
+# --- GoToMeeting ---
+0.0.0.0 gotomeeting.com
+0.0.0.0 goto.com
+
+# --- Others ---
+0.0.0.0 bluejeans.com
+0.0.0.0 jitsi.org
+0.0.0.0 meet.jit.si
+0.0.0.0 whereby.com
+0.0.0.0 gather.town

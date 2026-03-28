@@ -51,6 +51,7 @@ cat > "$OUTPUT_FILE" << 'EOF'
 #   - misused-apps    : Bigo, OmeTV, NGL, etc.
 #   - music-streaming : Spotify, Apple Music, Joox, etc.
 #   - news-weather    : News portals & weather
+#   - online-meetings : Zoom, Teams, Meet
 #   - porn            : Adult content (18+)
 #   - proxy-vpn       : VPNs & Web Proxies
 #   - shopping        : E-commerce platforms

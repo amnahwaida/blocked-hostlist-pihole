@@ -71,8 +71,6 @@
 # ==========================================
 
 # --- Enterprise & Work Chat ---
-0.0.0.0 teams.microsoft.com
-0.0.0.0 teams.live.com
 0.0.0.0 skype.com
 0.0.0.0 chat.google.com
 0.0.0.0 hangouts.google.com
@@ -101,11 +99,7 @@
 0.0.0.0 imo.im
 
 # --- Video & Collaboration Chat ---
-0.0.0.0 zoom.us
-0.0.0.0 zoom.com
-0.0.0.0 webex.com
-0.0.0.0 gotomeeting.com
-0.0.0.0 bluejeans.com
+# (Moved to online-meetings standalone list)
 
 # --- Others & Legacy ---
 0.0.0.0 icq.com
