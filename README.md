@@ -25,7 +25,7 @@ Koleksi blocklist yang dikurasi untuk **[Pi-hole](https://pi-hole.net/)** — DN
 | 8 | **music-streaming** | Streaming musik (Spotify, Apple Music, Joox) | 65 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/music-streaming) |
 | 9 | **porn** | Konten dewasa (18+) | 84 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/porn) |
 | 10 | **snapchat** | Snapchat & Bitmoji | 53 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/snapchat) |
-| 11 | **social-media** | Sosmed lainnya (Reddit, LinkedIn, Pinterest, dll) | 93 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/social-media) |
+| 11 | **social-media** | Semua Sosmed (Termasuk Facebook, IG, TikTok, Twitter, Reddit, LinkedIn, dll) | 7.098 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/social-media) |
 | 12 | **tiktok** | TikTok & infrastruktur ByteDance | 6.668 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/tiktok) |
 | 13 | **trading-crypto** | Trading crypto, binary, forex & saham | 122 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/trading-crypto) |
 | 14 | **twitter** | Twitter/X & layanan terkait | 49 | [🔗 Link](https://raw.githubusercontent.com/amnahwaida/blocked-hostlist-pihole/main/hosts/twitter) |
@@ -124,15 +124,15 @@ Output contoh:
   ✅ malware-phishing (73 entries)
   ✅ music-streaming (65 entries)
   ✅ snapchat (53 entries)
-  ✅ social-media (93 entries)
+  ✅ social-media (7098 entries)
   ✅ tiktok (6668 entries)
   ✅ trading-crypto (122 entries)
   ✅ instagram (117 entries)
 ============================================
 📊 Summary:
    Files processed: 17
-   Total entries:   25062
-   Duplicates:      9
+   Total entries:   32067
+   Duplicates:      7014
    Unique entries:  25053
 ============================================
 ✨ Done!
